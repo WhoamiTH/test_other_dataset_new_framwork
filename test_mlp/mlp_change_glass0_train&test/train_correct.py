@@ -185,6 +185,9 @@ def generate_batch_data(positive_data, negative_data, batch_size):
     current_negative_data = negative_data[negative_data_index]
 
     train_data_pre, train_data_pos, train_label = handleData_extend_not_mirror(current_positive_data, current_negative_data)
+    train_data_pre = np.array(train_data_pre)
+    train_data_pos = np.array(train_data_pos)
+    train_label = np.array(train_label).reshape(-1, 1)
     return train_data_pre, train_data_pos, train_label
 
 class Classification(nn.Module):
