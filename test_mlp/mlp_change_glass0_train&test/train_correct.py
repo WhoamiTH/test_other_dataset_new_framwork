@@ -225,6 +225,7 @@ for epoch in range(num_epochs):
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
     transformed_pre = nn.ReLU(out_pre-out_pos)
+    transformed_pre = transformed_pre.reshape(-1, 1)
     l = loss(transformed_pre, train_y)
     optimizer.zero_grad()
     l.backward()
