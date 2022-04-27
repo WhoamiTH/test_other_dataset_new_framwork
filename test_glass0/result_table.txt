@@ -1,0 +1,28 @@
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.773 & 0.686 & 0.725  &  0.662 & 0.773 & 0.686 & 0.725 & 0.662 & 0.771 &  0.684 & 0.724 &  0.658  & 0.772 & 0.685 & 0.723 & 0.662 \\
+\hline Training with BM & 0.797 & 0.715 & 0.715  &  0.735 & 0.801 & 0.724 & 0.753 & 0.712 & 0.800 &  0.723 & 0.755 &  0.708  & 0.803 & 0.726 & 0.754 & 0.715 \\
+\hline Training with IM & 0.777 & 0.695 & 0.755  &  0.654 & 0.778 & 0.696 & 0.753 & 0.658 & 0.777 &  0.695 & 0.755 &  0.654  & 0.778 & 0.696 & 0.753 & 0.658 \\
+\hline Training wiht BM and IM & 0.785 & 0.700 & 0.690  &  0.723 & 0.798 & 0.724 & 0.756 & 0.704 & 0.795 &  0.720 & 0.756 &  0.696  & 0.800 & 0.726 & 0.756 & 0.708 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.773 & 0.686  & 0.773 & 0.686 & 0.771 &  0.684  & 0.772 & 0.685 \\
+\hline Training with BM & 0.797 & 0.715  & 0.801 & 0.724 & 0.800 &  0.723  & 0.803 & 0.726 \\
+\hline Training with IM & 0.777 & 0.695  & 0.801 & 0.724 & 0.777 &  0.695  & 0.778 & 0.696 \\
+\hline Training wiht BM and IM & 0.785 & 0.700  & 0.798 & 0.724 & 0.795 &  0.720  & 0.800 & 0.726 \\
+\hline
+\end{tabular}
+\end{table}

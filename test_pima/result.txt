@@ -1,0 +1,8 @@
+ijcai_normal_normal
+ijcai_normal_normal
+average_aauc is 0.575032510885341
+average_af is 0.5014668047169207
+average_ap is 0.5098858304582414
+average_ar is 0.49686502177068204
+Fscore 0.6268335058961509
+AUC 0.7187906386066765

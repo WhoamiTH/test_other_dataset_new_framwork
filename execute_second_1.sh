@@ -1,0 +1,15 @@
+cd test_pima
+sh execute_1.sh
+cd ..
+cd test_vehicle0
+sh execute_1.sh
+cd ..
+cd test_yeast3
+sh execute_1.sh
+cd ..
+cd test_yeast5
+sh execute_1.sh
+cd ..
+cd test_yeast6
+sh execute_1.sh
+cd ..

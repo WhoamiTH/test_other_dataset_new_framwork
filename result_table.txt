@@ -1,0 +1,290 @@
+\section{ results of pima }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.719 & 0.627 & 0.637  &  0.621 & 0.720 & 0.630 & 0.629 & 0.636 & 0.719 &  0.628 & 0.628 &  0.634  & 0.720 & 0.631 & 0.627 & 0.639 \\
+\hline Training with BM & 0.716 & 0.627 & 0.618  &  0.639 & 0.725 & 0.645 & 0.569 & 0.750 & 0.729 &  0.646 & 0.609 &  0.690  & 0.726 & 0.647 & 0.567 & 0.755 \\
+\hline Training with IM & 0.703 & 0.607 & 0.609  &  0.610 & 0.705 & 0.612 & 0.601 & 0.628 & 0.706 &  0.614 & 0.604 &  0.628  & 0.704 & 0.612 & 0.599 & 0.630 \\
+\hline Training wiht BM and IM & 0.715 & 0.627 & 0.611  &  0.648 & 0.723 & 0.643 & 0.563 & 0.753 & 0.722 &  0.637 & 0.601 &  0.683  & 0.722 & 0.642 & 0.559 & 0.760 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.719 & 0.627  & 0.720 & 0.630 & 0.719 &  0.628  & 0.720 & 0.631 \\
+\hline Training with BM & 0.716 & 0.627  & 0.725 & 0.645 & 0.729 &  0.646  & 0.726 & 0.647 \\
+\hline Training with IM & 0.703 & 0.607  & 0.725 & 0.645 & 0.706 &  0.614  & 0.704 & 0.612 \\
+\hline Training wiht BM and IM & 0.715 & 0.627  & 0.723 & 0.643 & 0.722 &  0.637  & 0.722 & 0.642 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of glass0 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.773 & 0.686 & 0.725  &  0.662 & 0.773 & 0.686 & 0.725 & 0.662 & 0.771 &  0.684 & 0.724 &  0.658  & 0.772 & 0.685 & 0.723 & 0.662 \\
+\hline Training with BM & 0.797 & 0.715 & 0.715  &  0.735 & 0.801 & 0.724 & 0.753 & 0.712 & 0.800 &  0.723 & 0.755 &  0.708  & 0.803 & 0.726 & 0.754 & 0.715 \\
+\hline Training with IM & 0.777 & 0.695 & 0.755  &  0.654 & 0.778 & 0.696 & 0.753 & 0.658 & 0.777 &  0.695 & 0.755 &  0.654  & 0.778 & 0.696 & 0.753 & 0.658 \\
+\hline Training wiht BM and IM & 0.785 & 0.700 & 0.690  &  0.723 & 0.798 & 0.724 & 0.756 & 0.704 & 0.795 &  0.720 & 0.756 &  0.696  & 0.800 & 0.726 & 0.756 & 0.708 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.773 & 0.686  & 0.773 & 0.686 & 0.771 &  0.684  & 0.772 & 0.685 \\
+\hline Training with BM & 0.797 & 0.715  & 0.801 & 0.724 & 0.800 &  0.723  & 0.803 & 0.726 \\
+\hline Training with IM & 0.777 & 0.695  & 0.801 & 0.724 & 0.777 &  0.695  & 0.778 & 0.696 \\
+\hline Training wiht BM and IM & 0.785 & 0.700  & 0.798 & 0.724 & 0.795 &  0.720  & 0.800 & 0.726 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of vehicle0 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.976 & 0.957 & 0.947  &  0.968 & 0.979 & 0.959 & 0.942 & 0.977 & 0.978 &  0.958 & 0.942 &  0.975  & 0.981 & 0.960 & 0.942 & 0.980 \\
+\hline Training with BM & 0.978 & 0.952 & 0.926  &  0.981 & 0.979 & 0.957 & 0.938 & 0.978 & 0.978 &  0.956 & 0.938 &  0.977  & 0.979 & 0.956 & 0.937 & 0.978 \\
+\hline Training with IM & 0.974 & 0.956 & 0.947  &  0.966 & 0.979 & 0.959 & 0.943 & 0.976 & 0.978 &  0.959 & 0.948 &  0.972  & 0.979 & 0.959 & 0.943 & 0.976 \\
+\hline Training wiht BM and IM & 0.977 & 0.949 & 0.922  &  0.981 & 0.976 & 0.955 & 0.940 & 0.972 & 0.975 &  0.953 & 0.939 &  0.970  & 0.976 & 0.954 & 0.938 & 0.972 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.976 & 0.957  & 0.979 & 0.959 & 0.978 &  0.958  & 0.981 & 0.960 \\
+\hline Training with BM & 0.978 & 0.952  & 0.979 & 0.957 & 0.978 &  0.956  & 0.979 & 0.956 \\
+\hline Training with IM & 0.974 & 0.956  & 0.979 & 0.957 & 0.978 &  0.959  & 0.979 & 0.959 \\
+\hline Training wiht BM and IM & 0.977 & 0.949  & 0.976 & 0.955 & 0.975 &  0.953  & 0.976 & 0.954 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of ecoli1 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.792 & 0.680 & 0.700  &  0.676 & 0.791 & 0.678 & 0.693 & 0.679 & 0.789 &  0.680 & 0.716 &  0.664  & 0.791 & 0.678 & 0.693 & 0.679 \\
+\hline Training with BM & 0.798 & 0.676 & 0.646  &  0.720 & 0.799 & 0.679 & 0.653 & 0.720 & 0.796 &  0.691 & 0.721 &  0.676  & 0.801 & 0.679 & 0.648 & 0.727 \\
+\hline Training with IM & 0.788 & 0.665 & 0.657  &  0.686 & 0.787 & 0.663 & 0.650 & 0.689 & 0.779 &  0.654 & 0.661 &  0.660  & 0.787 & 0.663 & 0.650 & 0.689 \\
+\hline Training wiht BM and IM & 0.809 & 0.683 & 0.629  &  0.757 & 0.810 & 0.685 & 0.633 & 0.754 & 0.792 &  0.676 & 0.678 &  0.687  & 0.810 & 0.685 & 0.632 & 0.757 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.792 & 0.680  & 0.791 & 0.678 & 0.789 &  0.680  & 0.791 & 0.678 \\
+\hline Training with BM & 0.798 & 0.676  & 0.799 & 0.679 & 0.796 &  0.691  & 0.801 & 0.679 \\
+\hline Training with IM & 0.788 & 0.665  & 0.799 & 0.679 & 0.779 &  0.654  & 0.787 & 0.663 \\
+\hline Training wiht BM and IM & 0.809 & 0.683  & 0.810 & 0.685 & 0.792 &  0.676  & 0.810 & 0.685 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of yeast3 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.867 & 0.721 & 0.713  &  0.744 & 0.865 & 0.727 & 0.732 & 0.739 & 0.846 &  0.705 & 0.738 &  0.699  & 0.865 & 0.727 & 0.732 & 0.739 \\
+\hline Training with BM & 0.909 & 0.410 & 0.282  &  0.972 & 0.910 & 0.715 & 0.632 & 0.835 & 0.842 &  0.706 & 0.730 &  0.692  & 0.910 & 0.715 & 0.632 & 0.835 \\
+\hline Training with IM & 0.883 & 0.726 & 0.690  &  0.778 & 0.884 & 0.743 & 0.719 & 0.778 & 0.842 &  0.706 & 0.735 &  0.692  & 0.884 & 0.743 & 0.719 & 0.778 \\
+\hline Training wiht BM and IM & 0.942 & 0.466 & 0.319  &  0.961 & 0.916 & 0.741 & 0.664 & 0.847 & 0.834 &  0.682 & 0.695 &  0.677  & 0.916 & 0.741 & 0.664 & 0.847 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.867 & 0.721  & 0.865 & 0.727 & 0.846 &  0.705  & 0.865 & 0.727 \\
+\hline Training with BM & 0.909 & 0.410  & 0.910 & 0.715 & 0.842 &  0.706  & 0.910 & 0.715 \\
+\hline Training with IM & 0.883 & 0.726  & 0.910 & 0.715 & 0.842 &  0.706  & 0.884 & 0.743 \\
+\hline Training wiht BM and IM & 0.942 & 0.466  & 0.916 & 0.741 & 0.834 &  0.682  & 0.916 & 0.741 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of pageblocks1 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.969 & 0.869 & 0.799  &  0.954 & 0.970 & 0.843 & 0.753 & 0.961 & 0.959 &  0.877 & 0.831 &  0.930  & 0.970 & 0.827 & 0.727 & 0.964 \\
+\hline Training with BM & 0.943 & 0.587 & 0.427  &  0.979 & 0.964 & 0.780 & 0.660 & 0.960 & 0.961 &  0.863 & 0.803 &  0.936  & 0.967 & 0.773 & 0.647 & 0.970 \\
+\hline Training with IM & 0.970 & 0.857 & 0.776  &  0.957 & 0.964 & 0.807 & 0.702 & 0.954 & 0.964 &  0.871 & 0.811 &  0.942  & 0.965 & 0.805 & 0.698 & 0.957 \\
+\hline Training wiht BM and IM & 0.931 & 0.531 & 0.373  &  0.979 & 0.966 & 0.783 & 0.662 & 0.964 & 0.962 &  0.862 & 0.799 &  0.939  & 0.965 & 0.756 & 0.623 & 0.970 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.969 & 0.869  & 0.970 & 0.843 & 0.959 &  0.877  & 0.970 & 0.827 \\
+\hline Training with BM & 0.943 & 0.587  & 0.964 & 0.780 & 0.961 &  0.863  & 0.967 & 0.773 \\
+\hline Training with IM & 0.970 & 0.857  & 0.964 & 0.780 & 0.964 &  0.871  & 0.965 & 0.805 \\
+\hline Training wiht BM and IM & 0.931 & 0.531  & 0.966 & 0.783 & 0.962 &  0.862  & 0.965 & 0.756 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of glass5 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.794 & 0.592 & 0.675  &  0.600 & 0.794 & 0.592 & 0.675 & 0.600 & 0.795 &  0.600 & 0.700 &  0.600  & 0.794 & 0.592 & 0.675 & 0.600 \\
+\hline Training with BM & 0.816 & 0.577 & 0.583  &  0.650 & 0.790 & 0.562 & 0.595 & 0.600 & 0.794 &  0.592 & 0.675 &  0.600  & 0.790 & 0.562 & 0.595 & 0.600 \\
+\hline Training with IM & 0.795 & 0.600 & 0.700  &  0.600 & 0.794 & 0.583 & 0.650 & 0.600 & 0.795 &  0.600 & 0.700 &  0.600  & 0.794 & 0.583 & 0.650 & 0.600 \\
+\hline Training wiht BM and IM & 0.857 & 0.690 & 0.733  &  0.725 & 0.874 & 0.679 & 0.708 & 0.775 & 0.794 &  0.583 & 0.650 &  0.600  & 0.874 & 0.679 & 0.708 & 0.775 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.794 & 0.592  & 0.794 & 0.592 & 0.795 &  0.600  & 0.794 & 0.592 \\
+\hline Training with BM & 0.816 & 0.577  & 0.790 & 0.562 & 0.794 &  0.592  & 0.790 & 0.562 \\
+\hline Training with IM & 0.795 & 0.600  & 0.790 & 0.562 & 0.795 &  0.600  & 0.794 & 0.583 \\
+\hline Training wiht BM and IM & 0.857 & 0.690  & 0.874 & 0.679 & 0.794 &  0.583  & 0.874 & 0.679 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of yeast5 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.870 & 0.720 & 0.664  &  0.790 & 0.870 & 0.718 & 0.662 & 0.790 & 0.858 &  0.718 & 0.684 &  0.761  & 0.870 & 0.718 & 0.661 & 0.790 \\
+\hline Training with BM & 0.883 & 0.587 & 0.434  &  0.920 & 0.899 & 0.707 & 0.596 & 0.873 & 0.867 &  0.744 & 0.726 &  0.770  & 0.900 & 0.706 & 0.594 & 0.874 \\
+\hline Training with IM & 0.830 & 0.646 & 0.601  &  0.704 & 0.871 & 0.724 & 0.671 & 0.792 & 0.859 &  0.723 & 0.695 &  0.761  & 0.871 & 0.724 & 0.671 & 0.792 \\
+\hline Training wiht BM and IM & 0.882 & 0.609 & 0.466  &  0.896 & 0.890 & 0.708 & 0.611 & 0.847 & 0.866 &  0.735 & 0.708 &  0.772  & 0.889 & 0.705 & 0.607 & 0.847 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.870 & 0.720  & 0.870 & 0.718 & 0.858 &  0.718  & 0.870 & 0.718 \\
+\hline Training with BM & 0.883 & 0.587  & 0.899 & 0.707 & 0.867 &  0.744  & 0.900 & 0.706 \\
+\hline Training with IM & 0.830 & 0.646  & 0.899 & 0.707 & 0.859 &  0.723  & 0.871 & 0.724 \\
+\hline Training wiht BM and IM & 0.882 & 0.609  & 0.890 & 0.708 & 0.866 &  0.735  & 0.889 & 0.705 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of yeast6 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.753 & 0.476 & 0.482  &  0.521 & 0.736 & 0.472 & 0.524 & 0.486 & 0.716 &  0.451 & 0.533 &  0.443  & 0.740 & 0.476 & 0.526 & 0.493 \\
+\hline Training with BM & 0.731 & 0.127 & 0.072  &  0.850 & 0.765 & 0.470 & 0.433 & 0.550 & 0.687 &  0.407 & 0.483 &  0.386  & 0.765 & 0.467 & 0.428 & 0.550 \\
+\hline Training with IM & 0.765 & 0.508 & 0.510  &  0.543 & 0.744 & 0.492 & 0.535 & 0.500 & 0.745 &  0.507 & 0.574 &  0.500  & 0.744 & 0.488 & 0.525 & 0.500 \\
+\hline Training wiht BM and IM & 0.747 & 0.117 & 0.064  &  0.900 & 0.759 & 0.485 & 0.477 & 0.536 & 0.737 &  0.504 & 0.579 &  0.486  & 0.759 & 0.485 & 0.477 & 0.536 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.753 & 0.476  & 0.736 & 0.472 & 0.716 &  0.451  & 0.740 & 0.476 \\
+\hline Training with BM & 0.731 & 0.127  & 0.765 & 0.470 & 0.687 &  0.407  & 0.765 & 0.467 \\
+\hline Training with IM & 0.765 & 0.508  & 0.765 & 0.470 & 0.745 &  0.507  & 0.744 & 0.488 \\
+\hline Training wiht BM and IM & 0.747 & 0.117  & 0.759 & 0.485 & 0.737 &  0.504  & 0.759 & 0.485 \\
+\hline
+\end{tabular}
+\end{table}
+\section{ results of abalone19 }
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{4}{|c|}{Original test} & \multicolumn{4}{|c|}{Border Majority} & \multicolumn{4}{|c|}{Informative Minority} & \multicolumn{4}{|c|}{Both of them}\\
+\cline{2-17} & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall & Auc & F1 & Pre & Recall \\
+\hline IJCAI & 0.582 & 0.097 & 0.068  &  0.178 & 0.562 & 0.106 & 0.094 & 0.133 & 0.553 &  0.091 & 0.079 &  0.113  & 0.562 & 0.101 & 0.089 & 0.133 \\
+\hline Training with BM & 0.672 & 0.021 & 0.010  &  0.973 & 0.504 & 0.013 & 0.025 & 0.008 & 0.508 &  0.024 & 0.062 &  0.017  & 0.517 & 0.036 & 0.039 & 0.037 \\
+\hline Training with IM & 0.533 & 0.074 & 0.107  &  0.073 & 0.525 & 0.059 & 0.094 & 0.053 & 0.520 &  0.049 & 0.062 &  0.043  & 0.530 & 0.072 & 0.114 & 0.063 \\
+\hline Training wiht BM and IM & 0.677 & 0.022 & 0.011  &  0.815 & 0.512 & 0.029 & 0.035 & 0.025 & 0.512 &  0.027 & 0.028 &  0.025  & 0.511 & 0.025 & 0.025 & 0.025 \\
+\hline
+\end{tabular}
+\end{table}
+\begin{table}[H]
+\centering
+\caption{the performance of different varienties of ijcai method (AUC and F1}
+\label{tab:ChangingTrainData33}
+\begin{tabular}{|p{0.1\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|p{0.05\textwidth}|}
+\hline \multirow{2}{*}{Method} & \multicolumn{2}{|c|}{Original test} & \multicolumn{2}{|c|}{Border Majority} & \multicolumn{2}{|c|}{Informative Minority} & \multicolumn{2}{|c|}{Both of them}\\
+\cline{2-9} & Auc & F1  & Auc & F1 & Auc & F1 & Auc & F1  \\
+\hline IJCAI & 0.582 & 0.097  & 0.562 & 0.106 & 0.553 &  0.091  & 0.562 & 0.101 \\
+\hline Training with BM & 0.672 & 0.021  & 0.504 & 0.013 & 0.508 &  0.024  & 0.517 & 0.036 \\
+\hline Training with IM & 0.533 & 0.074  & 0.504 & 0.013 & 0.520 &  0.049  & 0.530 & 0.072 \\
+\hline Training wiht BM and IM & 0.677 & 0.022  & 0.512 & 0.029 & 0.512 &  0.027  & 0.511 & 0.025 \\
+\hline
+\end{tabular}
+\end{table}

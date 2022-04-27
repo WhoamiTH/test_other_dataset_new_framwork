@@ -1,0 +1,12 @@
+cd ijcai_bm_bm
+sh execute_3.sh
+cd ..
+cd ijcai_bm_both
+sh execute_3.sh
+cd ..
+cd ijcai_bm_im
+sh execute_3.sh
+cd ..
+cd ijcai_bm_normal
+sh execute_3.sh
+cd ..

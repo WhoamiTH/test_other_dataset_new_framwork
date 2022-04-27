@@ -1,0 +1,191 @@
+nohup: ignoring input
+../1_year_data/yeast5_train_1.csv
+../1_year_result/model_1/pairwise_vote_model_1.m
+../1_year_result/model_1/pairwise_vote_model_1.m
+SVC(C=0.1, kernel='poly')
+running time is 752.865700862
+/data/hantai/test_other_database_pairwise_house_racing/test_yeast5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/yeast5_train_1.csv
+../1_year_data/yeast5_test_1.csv
+the AUC is 0.7196969696969697
+
+the Fscore is 0.3018867924528302
+
+the average group top precision is 0.17777777777777778
+
+the average group recall is 1.0
+
+Done
+../1_year_data/yeast5_train_2.csv
+../1_year_result/model_1/pairwise_vote_model_2.m
+../1_year_result/model_1/pairwise_vote_model_2.m
+SVC(C=0.1, kernel='poly')
+running time is 881.75660332
+/data/hantai/test_other_database_pairwise_house_racing/test_yeast5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/yeast5_train_2.csv
+../1_year_data/yeast5_test_2.csv
+the AUC is 0.7376425855513308
+
+the Fscore is 0.3235294117647059
+
+the average group top precision is 0.19298245614035087
+
+the average group recall is 1.0
+
+Done
+../1_year_data/yeast5_train_3.csv
+../1_year_result/model_1/pairwise_vote_model_3.m
+../1_year_result/model_1/pairwise_vote_model_3.m
+SVC(C=0.1, kernel='poly')
+running time is 597.925938011
+/data/hantai/test_other_database_pairwise_house_racing/test_yeast5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/yeast5_train_3.csv
+../1_year_data/yeast5_test_3.csv
+the AUC is 0.720532319391635
+
+the Fscore is 0.30985915492957744
+
+the average group top precision is 0.18333333333333332
+
+the average group recall is 1.0
+
+Done
+../1_year_data/yeast5_train_4.csv
+../1_year_result/model_1/pairwise_vote_model_4.m
+../1_year_result/model_1/pairwise_vote_model_4.m
+SVC(C=0.1, kernel='poly')
+running time is 691.999179648
+/data/hantai/test_other_database_pairwise_house_racing/test_yeast5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/yeast5_train_4.csv
+../1_year_data/yeast5_test_4.csv
+the AUC is 0.747148288973384
+
+the Fscore is 0.3316582914572864
+
+the average group top precision is 0.19879518072289157
+
+the average group recall is 1.0
+
+Done
+../1_year_data/yeast5_train_5.csv
+../1_year_result/model_1/pairwise_vote_model_5.m
+../1_year_result/model_1/pairwise_vote_model_5.m
+SVC(C=0.1, kernel='poly')
+running time is 712.293546598
+/data/hantai/test_other_database_pairwise_house_racing/test_yeast5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/yeast5_train_5.csv
+../1_year_data/yeast5_test_5.csv
+the AUC is 0.7357414448669202
+
+the Fscore is 0.31527093596059114
+
+the average group top precision is 0.1871345029239766
+
+the average group recall is 1.0
+
+Done
+../1_year_data/glass5_train_1.csv
+../1_year_result/model_1/pairwise_vote_model_1.m
+../1_year_result/model_1/pairwise_vote_model_1.m
+SVC(C=0.1, kernel='poly')
+running time is 0.13787568500000003
+/data/hantai/test_other_database_pairwise_house_racing/test_glass5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/glass5_train_1.csv
+../1_year_data/glass5_test_1.csv
+the AUC is 0.7560975609756098
+
+the Fscore is 0.0909090909090909
+
+the average group top precision is 0.047619047619047616
+
+the average group recall is 1.0
+
+Done
+../1_year_data/glass5_train_2.csv
+../1_year_result/model_1/pairwise_vote_model_2.m
+../1_year_result/model_1/pairwise_vote_model_2.m
+SVC(C=0.1, kernel='poly')
+running time is 0.10613868500000001
+/data/hantai/test_other_database_pairwise_house_racing/test_glass5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/glass5_train_2.csv
+../1_year_data/glass5_test_2.csv
+the AUC is 0.8
+
+the Fscore is 0.19999999999999998
+
+the average group top precision is 0.1111111111111111
+
+the average group recall is 1.0
+
+Done
+../1_year_data/glass5_train_3.csv
+../1_year_result/model_1/pairwise_vote_model_3.m
+../1_year_result/model_1/pairwise_vote_model_3.m
+SVC(C=0.1, kernel='poly')
+running time is 0.096210837
+/data/hantai/test_other_database_pairwise_house_racing/test_glass5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/glass5_train_3.csv
+../1_year_data/glass5_test_3.csv
+the AUC is 0.675
+
+the Fscore is 0.13333333333333333
+
+the average group top precision is 0.07142857142857142
+
+the average group recall is 1.0
+
+Done
+../1_year_data/glass5_train_4.csv
+../1_year_result/model_1/pairwise_vote_model_4.m
+../1_year_result/model_1/pairwise_vote_model_4.m
+SVC(C=0.1, kernel='poly')
+running time is 0.10515072000000003
+/data/hantai/test_other_database_pairwise_house_racing/test_glass5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/glass5_train_4.csv
+../1_year_data/glass5_test_4.csv
+the AUC is 0.7125
+
+the Fscore is 0.14814814814814814
+
+the average group top precision is 0.08
+
+the average group recall is 1.0
+
+Done
+../1_year_data/glass5_train_5.csv
+../1_year_result/model_1/pairwise_vote_model_5.m
+../1_year_result/model_1/pairwise_vote_model_5.m
+SVC(C=0.1, kernel='poly')
+running time is 0.10064445
+/data/hantai/test_other_database_pairwise_house_racing/test_glass5/pairwise_vote/test.py:105: DeprecationWarning: `np.int` is a deprecated alias for the builtin `int`. To silence this warning, use `int` by itself. Doing this will not modify any behavior and is safe. When replacing `np.int`, you may wish to use e.g. `np.int64` or `np.int32` to specify the precision. If you wish to review your current use, check the release note link for additional information.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  train_label = train_label.astype(np.int)
+../1_year_data/glass5_train_5.csv
+../1_year_data/glass5_test_5.csv
+the AUC is 0.6538461538461539
+
+the Fscore is 0.12903225806451613
+
+the average group top precision is 0.06896551724137931
+
+the average group recall is 1.0
+
+Done
