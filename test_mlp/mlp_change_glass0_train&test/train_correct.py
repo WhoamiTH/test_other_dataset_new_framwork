@@ -210,6 +210,7 @@ class Classification(nn.Module):
         x = self.sigmoid(x)
         return x
 
+
 net = Classification(input_dim)
 
 init.normal_(net.hidden_1.weight, mean=0, std=0.01)
@@ -217,6 +218,8 @@ init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 
+if torch.cuda.device_count() > 1:
+    net = nn.DataParallel(net) # 包装为并行风格模型
 
 loss = nn.BCELoss()  
 
@@ -236,7 +239,7 @@ def evaluate_accuracy(x, y, net):
 
     #计算召回率
     Recall=recall_score(y, result, average='macro')
-    F1 = f1_score(y_true=true_label, y_pred=predict_label)
+    F1 = f1_score(y_true=y, y_pred=result)
 
     print('accuracy is {0}'.format(Accuracy))
     print('Precision is {0}'.format(Precision))
@@ -254,6 +257,13 @@ for epoch in range(num_epochs):
     input_data_pos = torch.Tensor(torch.from_numpy(train_pos).float())
 
     train_label = torch.Tensor(torch.from_numpy(train_y).float())
+
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    
+    input_data_pre = input_data_pre.to(device)
+    input_data_pos = input_data_pos.to(device)
+    train_label = train_label.to(device)
+    
 
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
