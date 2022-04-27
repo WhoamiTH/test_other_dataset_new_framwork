@@ -225,6 +225,9 @@ for epoch in range(num_epochs):
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
     transformed_pre = net.relu(out_pre-out_pos)
+    print(type(transformed_pre))
+    print(transformed_pre.shape)
+    
     
     l = loss(transformed_pre, train_y)
     optimizer.zero_grad()
