@@ -145,11 +145,11 @@ input_dim = new_data.shape[1]
 
 
 class Classification(nn.Module):
-    def __init__(self, num_inputs):
+    def __init__(self):
         super(Classification(), self).__init__()
-        self.hidden_1 = nn.Linear(num_inputs, 2*num_inputs)
+        self.hidden_1 = nn.Linear(input_dim, 2*input_dim)
         self.relu = nn.ReLU()
-        self.output = nn.Linear(2*num_inputs, 1)
+        self.output = nn.Linear(2*input_dim, 1)
         self.sigmoid = nn.Sigmoid()
     
     def forward(self, x):
