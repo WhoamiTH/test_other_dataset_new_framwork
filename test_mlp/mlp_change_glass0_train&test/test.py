@@ -159,6 +159,9 @@ class Classification(nn.Module):
 
 
 def evaluate_accuracy(x, y, net):
+    x = torch.Tensor(torch.from_numpy(x).float())
+    y = torch.Tensor(torch.from_numpy(y).float())
+
     out = net(x)
 
     result =  torch.ge(out, 0.5) 
