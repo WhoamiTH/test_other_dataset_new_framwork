@@ -1,16 +1,16 @@
 nohup: ignoring input
-2022-04-28 02:19:29.232768: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
-2022-04-28 02:19:29.232808: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-04-28 02:24:44.213130: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-04-28 02:24:44.213173: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
 /home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
   warnings.warn(msg, category=DeprecationWarning)
 WARNING:tensorflow:From /home/junda/.local/lib/python3.6/site-packages/tensorflow/python/compat/v2_compat.py:101: disable_resource_variables (from tensorflow.python.ops.variable_scope) is deprecated and will be removed in a future version.
 Instructions for updating:
 non-resource variables are not supported in the long term
-2022-04-28 02:19:30.623071: E tensorflow/core/lib/monitoring/collection_registry.cc:77] Cannot register 2 metrics with the same name: /tensorflow/api/keras/optimizers
+2022-04-28 02:24:45.615928: E tensorflow/core/lib/monitoring/collection_registry.cc:77] Cannot register 2 metrics with the same name: /tensorflow/api/keras/optimizers
 ../1_year_data/glass0_train_1.csv
 Traceback (most recent call last):
-  File "train.py", line 162, in <module>
-    hidden1 = tf.layers.dense(inputs=x1, units=3*single_input_size, use_bias=True, activation=tf.nn.relu, name='hidden1')
+  File "train_correct.py", line 153, in <module>
+    hidden1 = tf.layers.dense(inputs=x, units=3*single_input_size, use_bias=True, activation=tf.nn.relu)
   File "/home/junda/.local/lib/python3.6/site-packages/tensorflow/python/util/lazy_loader.py", line 62, in __getattr__
     module = self._load()
   File "/home/junda/.local/lib/python3.6/site-packages/tensorflow/python/util/lazy_loader.py", line 45, in _load
@@ -74,13 +74,13 @@ Traceback (most recent call last):
   File "/home/junda/.local/lib/python3.6/site-packages/tensorflow/python/eager/monitoring.py", line 135, in __init__
     self._metric = self._metric_methods[self._label_length].create(*args)
 tensorflow.python.framework.errors_impl.AlreadyExistsError: Another metric with the same name already exists.
-2022-04-28 02:19:32.434416: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
-2022-04-28 02:19:32.434457: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-04-28 02:24:47.228691: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-04-28 02:24:47.228734: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
 /home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
   warnings.warn(msg, category=DeprecationWarning)
 ../1_year_data/glass0_train_1.csv
 ../1_year_data/glass0_test_1.csv
-../1_year_result/model_1/change_loss_model_1
+../1_year_result/model_11/change_loss_model_11
 Traceback (most recent call last):
   File "test.py", line 120, in <module>
     test_data = handle_data.transform_data_by_standarize_pca(test_data, scaler_name, pca_name, kernelpca_name)

@@ -146,7 +146,7 @@ input_dim = new_data.shape[1]
 
 class Classification(nn.Module):
     def __init__(self):
-        super(Classification(), self).__init__()
+        super(Classification, self).__init__()
         self.hidden_1 = nn.Linear(input_dim, 2*input_dim)
         self.relu = nn.ReLU()
         self.output = nn.Linear(2*input_dim, 1)
@@ -159,10 +159,10 @@ class Classification(nn.Module):
         x = self.sigmoid(x)
         return x
 
-net = Classification(input_dim)
+net = Classification()
 
-init.normal_(net.hidden_1.weight, means=0, std=0.01)
-init.normal_(net.output.weight, means=0, std=0.01)
+init.normal_(net.hidden_1.weight, mean=0, std=0.01)
+init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 
@@ -170,7 +170,7 @@ init.constant_(net.output.bias, val=0)
 loss = nn.CrossEntropyLoss()  
 
 optimizer = torch.optim.SGD(net.parameters(), lr=1.2, momentum=0.9)
-input_data = torch.Tensor(torch.from_numpy(positive_data[:10, :]))
+input_data = torch.from_numpy(positive_data[:10, :]).float()
 out_1 = net(input_data)
 out_2 = net(input_data)
 
