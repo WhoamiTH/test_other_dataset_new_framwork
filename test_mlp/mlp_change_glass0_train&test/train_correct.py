@@ -113,7 +113,7 @@ threshold_value = 0
 winner_number = 3
 
 
-num_epochs = 50000
+num_epochs = 5000
 
 # ----------------------------------set parameters---------------------------------------
 set_para()
@@ -279,7 +279,7 @@ for epoch in range(num_epochs):
         print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec) )
 
 
-torch.save(model, model_name)
+torch.save(net, model_name)
 
 
 # def evaluate_accuracy(x, y, net):
