@@ -108,7 +108,7 @@ threshold_value = 0
 winner_number = 3
 
 
-train_times = 50000
+num_epochs = 50000
 
 # ----------------------------------set parameters---------------------------------------
 set_para()
@@ -213,12 +213,6 @@ init.constant_(net.output.bias, val=0)
 loss = nn.CrossEntropyLoss()  
 
 optimizer = torch.optim.SGD(net.parameters(), lr=1.2, momentum=0.9)
-input_data = torch.Tensor(torch.from_numpy(train_data).float())
-out_1 = net(input_data)
-out_2 = net(input_data)
-
-print(out_1)
-print(out_2)
 
 for epoch in range(num_epochs):
     train_pre, train_pos, train_y = generate_batch_data(positive_data, negative_data, batch_size)
