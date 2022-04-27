@@ -111,9 +111,9 @@ print(model_name)
 # negative data is the reference data
 
 # ---------------------- load test data ------------------------------------------------
-file_data, test_data = handle_data.loadTestData(test_file_name)
+# file_data, test_data = handle_data.loadTestData(test_file_name)
 test_data, test_label = handle_data.loadTrainData(test_file_name)
-test_data = test_data.values
+# test_data = test_data.values
 test_data = test_data.astype(np.float64)
 
 start = clock()
