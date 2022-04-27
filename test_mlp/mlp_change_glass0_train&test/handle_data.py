@@ -15,7 +15,7 @@ def loadTrainData(file_name):
     file_data = pd.read_csv(file_name, header=None)
     data = file_data.values
     label = data[:,-1]
-    data = np.delete(data, 0, axis=1)
+    # data = np.delete(data, 0, axis=1)
     data = np.delete(data, -1, axis=1)
     # data = np.delete(data, 0, axis=1)
     data = data.astype(np.float64)
