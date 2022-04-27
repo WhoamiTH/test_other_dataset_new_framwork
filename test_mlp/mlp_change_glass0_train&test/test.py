@@ -59,7 +59,7 @@ def set_para():
 # -------------------------------------global parameters-------------------------------
 train_file_name = '../1_year_data/glass0_train_1.csv'
 # train file is the file which contained the reference data
-test_file_name = '../1_year_data/glass0_test_1.csv'
+test_file_name = '../1_year_data/glass0_test_origin_1.csv'
 model_record_path = '../1_year_result/model_11/'
 file_record_path = '../1_year_result/record_11/'
 method_name = "change_loss"
