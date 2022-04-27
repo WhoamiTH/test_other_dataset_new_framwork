@@ -204,7 +204,6 @@ class Classification(nn.Module):
         self.sigmoid = nn.Sigmoid()
     
     def forward(self, x):
-        x = x.cuda()
         x = self.hidden_1(x)
         x = self.sigmoid(x)
         x = self.output(x)
@@ -221,6 +220,7 @@ init.constant_(net.output.bias, val=0)
 
 if torch.cuda.device_count() > 1:
     net = nn.DataParallel(net) # 包装为并行风格模型
+net.to(device)
 
 loss = nn.BCELoss()  
 
