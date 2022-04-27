@@ -57,17 +57,17 @@ def set_para():
 
 
 # -------------------------------------global parameters-------------------------------
-train_file_name = 'NBA_train.csv'
+train_file_name = '../1_year_data/glass0_train_1.csv'
 # train file is the file which contained the reference data
-test_file_name = 'NBA_test.csv'
-model_record_path = '../1_year_result/model/'
-file_record_path = '../1_year_result/record/'
-method_name = "smote"
+test_file_name = '../1_year_data/glass0_test_1.csv'
+model_record_path = '../1_year_result/model_11/'
+file_record_path = '../1_year_result/record_11/'
+method_name = "change_loss"
 
-scaler_name = 'scaler.m'
+scaler_name = 'scaler_1.m'
 kernelpca_name = ''
 pca_name = ''
-model_name = 'model.m'
+model_name = 'model_11/my_model.pkl'
 threshold_value = 0
 record_name = 'result.csv'
 
@@ -119,6 +119,64 @@ test_data = test_data.astype(np.float64)
 start = clock()
 test_data = handle_data.transform_data_by_standarize_pca(test_data, scaler_name, pca_name, kernelpca_name)
 
+class Classification(nn.Module):
+    def __init__(self, input_dim):
+        super(Classification, self).__init__()
+        self.hidden_1 = nn.Linear(input_dim, 2*input_dim)
+        self.relu = nn.ReLU()
+        self.output = nn.Linear(2*input_dim, 1)
+        self.sigmoid = nn.Sigmoid()
+    
+    def forward(self, x):
+        x = self.hidden_1(x)
+        x = self.sigmoid(x)
+        x = self.output(x)
+        x = self.sigmoid(x)
+        return x
+
+
+def evaluate_accuracy(x, y, net):
+    out = net(x)
+
+    result =  torch.ge(out, 0.5) 
+    #计算准确率
+    Accuracy=accuracy_score(y, result)
+
+    #计算精确率
+    Precision=precision_score(y, result, average='macro')
+
+    #计算召回率
+    Recall=recall_score(y, result, average='macro')
+    F1 = f1_score(y_true=y, y_pred=result)
+
+    return Accuracy, Precision, Recall, F1
+
+# net = Classification()
+net = torch.load(model_name)
+Accuracy, Precision, Recall, F1 = evaluate_accuracy(test_data, test_label, net)
+print('accuracy is {0}'.format(Accuracy))
+print('Precision is {0}'.format(Precision))
+print('Recall is {0}'.format(Recall))
+print('F1 is {0}'.format(F1))
+
+
+
+# true_label = test_label
+# predict_label = general_pred_results
+
+# all_group_top_precision = skmet.precision_score(y_true=true_label, y_pred=predict_label)
+# all_group_recall = skmet.recall_score(y_true=true_label, y_pred=predict_label)
+# all_group_fscore = skmet.f1_score(y_true=true_label, y_pred=predict_label)
+# all_group_auc = skmet.roc_auc_score(y_true=true_label, y_score=predict_label)
+# all_group_top_exact_accuracy = 1
+# all_group_exact_accuracy = 1
+# earn_rate = 1
+
+# record_name = record_name[0:-4] + '.txt'
+
+# predict_test.cal_average(all_group_top_precision, all_group_recall, all_group_fscore, all_group_top_exact_accuracy, all_group_exact_accuracy, all_group_auc, earn_rate, record_name)
+
+
 
 # transform_test_data
 # test_data = list(test_data)
@@ -129,24 +187,24 @@ test_data = handle_data.transform_data_by_standarize_pca(test_data, scaler_name,
 
 
 
-# sess = tf.Session()
-gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.46)
-sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))
+# # sess = tf.Session()
+# gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.46)
+# sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))
 
-# Load the trained model from the directory "./model"
+# # Load the trained model from the directory "./model"
 
-print(model_name+'/my_model.meta')
-print(model_name)
-saver = tf.train.import_meta_graph(model_name+'/my_model.meta')
-saver.restore(sess, tf.train.latest_checkpoint(model_name))
+# print(model_name+'/my_model.meta')
+# print(model_name)
+# saver = tf.train.import_meta_graph(model_name+'/my_model.meta')
+# saver.restore(sess, tf.train.latest_checkpoint(model_name))
 
 
-# Load the model components
-x = tf.get_collection('x')[0]
-y_true = tf.get_collection('y_true')[0]
-y_pred = tf.get_collection('y_pred')[0]
-cost      = tf.get_collection('cost')[0]
-optimizer = tf.get_collection('optimizer')[0]
+# # Load the model components
+# x = tf.get_collection('x')[0]
+# y_true = tf.get_collection('y_true')[0]
+# y_pred = tf.get_collection('y_pred')[0]
+# cost      = tf.get_collection('cost')[0]
+# optimizer = tf.get_collection('optimizer')[0]
 
 
 
@@ -159,12 +217,12 @@ optimizer = tf.get_collection('optimizer')[0]
 
 # current_test_data = handle_data.transform_data_to_test_form_data(test_data, negative_data)
 # general_results = sess.run(y_pred, feed_dict={x: current_test_data})
-general_results = sess.run(y_pred, feed_dict={x: test_data})
-print(general_results)
-general_pred_results = general_results[:,0].reshape(-1,1)
+# general_results = sess.run(y_pred, feed_dict={x: test_data})
+# print(general_results)
+# general_pred_results = general_results[:,0].reshape(-1,1)
 
-general_pred_results[general_pred_results<0.5] = 0
-general_pred_results[general_pred_results>=0.5] = 1
+# general_pred_results[general_pred_results<0.5] = 0
+# general_pred_results[general_pred_results>=0.5] = 1
 
 # for i in range(test_time):
 #     current_test_data = handle_data.transform_data_to_test_form_data(test_data, negative_data)
@@ -185,25 +243,25 @@ general_pred_results[general_pred_results>=0.5] = 1
 # general_vote_results = general_vote_results.reshape(-1,1)
 
 # print(general_vote_results)
-print(general_pred_results)
+# print(general_pred_results)
 
-file_data['predict_result'] = general_pred_results
-all_file_data = file_data.values
-file_data = pd.DataFrame(all_file_data)
-file_data.to_csv(record_name, index=False)
-print('Done')
+# file_data['predict_result'] = general_pred_results
+# all_file_data = file_data.values
+# file_data = pd.DataFrame(all_file_data)
+# file_data.to_csv(record_name, index=False)
+# print('Done')
 
-true_label = test_label
-predict_label = general_pred_results
+# true_label = test_label
+# predict_label = general_pred_results
 
-all_group_top_precision = skmet.precision_score(y_true=true_label, y_pred=predict_label)
-all_group_recall = skmet.recall_score(y_true=true_label, y_pred=predict_label)
-all_group_fscore = skmet.f1_score(y_true=true_label, y_pred=predict_label)
-all_group_auc = skmet.roc_auc_score(y_true=true_label, y_score=predict_label)
-all_group_top_exact_accuracy = 1
-all_group_exact_accuracy = 1
-earn_rate = 1
+# all_group_top_precision = skmet.precision_score(y_true=true_label, y_pred=predict_label)
+# all_group_recall = skmet.recall_score(y_true=true_label, y_pred=predict_label)
+# all_group_fscore = skmet.f1_score(y_true=true_label, y_pred=predict_label)
+# all_group_auc = skmet.roc_auc_score(y_true=true_label, y_score=predict_label)
+# all_group_top_exact_accuracy = 1
+# all_group_exact_accuracy = 1
+# earn_rate = 1
 
-record_name = record_name[0:-4] + '.txt'
+# record_name = record_name[0:-4] + '.txt'
 
-predict_test.cal_average(all_group_top_precision, all_group_recall, all_group_fscore, all_group_top_exact_accuracy, all_group_exact_accuracy, all_group_auc, earn_rate, record_name)
+# predict_test.cal_average(all_group_top_precision, all_group_recall, all_group_fscore, all_group_top_exact_accuracy, all_group_exact_accuracy, all_group_auc, earn_rate, record_name)
