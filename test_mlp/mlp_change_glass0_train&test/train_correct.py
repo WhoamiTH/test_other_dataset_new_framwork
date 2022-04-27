@@ -106,7 +106,7 @@ num_of_components = 19
 scaler_name = 'scaler_1.m'
 pca_name = 'pca_1.m'
 kernelpca_name = ''
-model_name = 'model_11/my_model'
+model_name = 'model_11/my_model.pkl'
 positive_value = 1
 negative_value = -1
 threshold_value = 0
@@ -279,7 +279,7 @@ for epoch in range(num_epochs):
         print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec) )
 
 
-torch.save(model, model_name)
+torch.save(net, model_name)
 
 
 # def evaluate_accuracy(x, y, net):
