@@ -93,8 +93,11 @@ record_name = file_record_path + method_name + '_' + record_name
 print(model_name)
 
 # ------------- load train data and find reference data --------------------------------
-# train_data, train_label = handle_data.loadTrainData(train_file_name)
-
+train_data, train_label = handle_data.loadTrainData(train_file_name)
+print(train_data.shape)
+print(type(train_data))
+print('train')
+train_data = handle_data.transform_data_by_standarize_pca(train_data, scaler_name, pca_name, kernelpca_name)
 # group_index_list = handle_data.group(train_data)
 
 # train_data = train_data.values
@@ -115,10 +118,12 @@ print(model_name)
 test_data, test_label = handle_data.loadTrainData(test_file_name)
 # test_data = test_data.values
 test_data = test_data.astype(np.float64)
+print(test_data.shape)
+print(type(test_data))
 
 start = clock()
-test_data = handle_data.transform_data_by_standarize_pca(test_data, scaler_name, pca_name, kernelpca_name)
 
+test_data = handle_data.transform_data_by_standarize_pca(test_data, scaler_name, pca_name, kernelpca_name)
 class Classification(nn.Module):
     def __init__(self, input_dim):
         super(Classification, self).__init__()
