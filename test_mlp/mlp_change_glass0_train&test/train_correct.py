@@ -9,7 +9,11 @@ import handle_data
 import predict_test
 import pandas as pd
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
+
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
 from sklearn.metrics import confusion_matrix
 
 import os
