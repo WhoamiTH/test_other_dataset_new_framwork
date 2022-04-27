@@ -139,7 +139,7 @@ batch_size = 50
 
 
 positive_data, negative_data = handle_data.divide_data(train_data, train_label)
-# input_dim = new_data.shape[1]
+input_dim = new_data.shape[1]
 
 # create LogisticRegression model
 
@@ -188,7 +188,7 @@ def generate_batch_data(positive_data, negative_data, batch_size):
     return train_data_pre, train_data_pos, train_label
 
 class Classification(nn.Module):
-    def __init__(self):
+    def __init__(self, input_dim):
         super(Classification, self).__init__()
         self.hidden_1 = nn.Linear(input_dim, 2*input_dim)
         self.relu = nn.ReLU()
@@ -202,7 +202,7 @@ class Classification(nn.Module):
         x = self.sigmoid(x)
         return x
 
-net = Classification()
+net = Classification(input_dim)
 
 init.normal_(net.hidden_1.weight, means=0, std=0.01)
 init.normal_(net.output.weight, means=0, std=0.01)
