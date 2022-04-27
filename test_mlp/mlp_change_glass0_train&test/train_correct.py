@@ -223,7 +223,7 @@ def evaluate_accuracy(x, y, net):
     # result[result<0.5] = 0
     # result[result>=0.5] = 1
     result =  torch.ge(out, 0.5) 
-    correct = result == y
+    correct = result.eq(y)
     correct = correct.sum().item()
     n = y.shape[0]
     return correct/n
