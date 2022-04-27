@@ -125,24 +125,67 @@ if kernelpca_or_not:
 model_name = model_record_path + method_name + '_' + model_name
 
 # data input
-data, label = handle_data.loadTrainData(file_name)
+train_data, train_label = handle_data.loadTrainData(file_name)
 
 
-data = data.astype(np.float64)
-train_label = label.astype(np.int)
+train_data = train_data.astype(np.float64)
+train_label = train_label.astype(np.int)
 
 start = clock()
-new_data = handle_data.standarize_PCA_data(data, pca_or_not, kernelpca_or_not, num_of_components, scaler_name, pca_name, kernelpca_name)
+train_data = handle_data.standarize_PCA_data(train_data, pca_or_not, kernelpca_or_not, num_of_components, scaler_name, pca_name, kernelpca_name)
 
-train_data = new_data
+# train_data = new_data
 batch_size = 50
 
 
 positive_data, negative_data = handle_data.divide_data(train_data, train_label)
-input_dim = new_data.shape[1]
+# input_dim = new_data.shape[1]
 
 # create LogisticRegression model
 
+
+
+
+def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1, negative_value=0):
+    # 生成非镜像模式数据
+    tem_pre = []
+    tem_pos = []
+    teml = []
+    length_pos = len(positive_data)
+    length_neg = len(negative_data)
+    all_generate_num = length_pos * length_neg
+    random_label_array = np.random.randint(low=0,high=2,size=all_generate_num)
+    random_label_list = random_label_array.tolist()
+    label_index = 0
+    for pos_index in range(length_pos):
+        for neg_index in range(length_neg):
+            cur_label = random_label_list[label_index]
+            label_index += 1
+            if int(cur_label) == 1:
+                tem_pre.append(positive_data[pos_index])
+                tem_pos.append(negative_data[neg_index])
+                teml.append( [positive_value] )
+            else:
+                tem_pos.append(positive_data[pos_index])
+                tem_pre.append(negative_data[neg_index])
+                teml.append( [negative_value] )
+    return tem_pre, tem_pos, teml
+
+def generate_batch_data(positive_data, negative_data, batch_size):
+    positive_length = positive_data.shape[0]
+    negative_length = negative_data.shape[0]
+
+    if batch_size > positive_length:
+        batch_size = positive_length
+
+    positive_data_index = np.random.choice(positive_length, batch_size, replace=False)
+    negative_data_index = np.random.choice(negative_length, times*batch_size, replace=False)
+
+    current_positive_data = positive_data[positive_data_index]
+    current_negative_data = negative_data[negative_data_index]
+
+    train_data_pre, train_data_pos, train_label = handleData_extend_not_mirror(current_positive_data, current_negative_data)
+    return train_data_pre, train_data_pos, train_label
 
 class Classification(nn.Module):
     def __init__(self):
@@ -161,8 +204,8 @@ class Classification(nn.Module):
 
 net = Classification()
 
-init.normal_(net.hidden_1.weight, mean=0, std=0.01)
-init.normal_(net.output.weight, mean=0, std=0.01)
+init.normal_(net.hidden_1.weight, means=0, std=0.01)
+init.normal_(net.output.weight, means=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 
@@ -170,26 +213,32 @@ init.constant_(net.output.bias, val=0)
 loss = nn.CrossEntropyLoss()  
 
 optimizer = torch.optim.SGD(net.parameters(), lr=1.2, momentum=0.9)
-input_data = torch.from_numpy(positive_data[:10, :]).float()
+input_data = torch.Tensor(torch.from_numpy(train_data).float())
 out_1 = net(input_data)
 out_2 = net(input_data)
 
 print(out_1)
 print(out_2)
 
-#  for epoch in range(num_epochs):
-#         out = net(train_x)
-#         l = loss(out, train_y)
-#         optimizer.zero_grad()
-#         l.backward()
-#         optimizer.step()
-#         train_loss = l.item()
+for epoch in range(num_epochs):
+    train_pre, train_pos, train_y = generate_batch_data(positive_data, negative_data, batch_size)
+    input_data_pre = torch.Tensor(torch.from_numpy(train_pre).float())
+    input_data_pos = torch.Tensor(torch.from_numpy(train_pos).float())
 
-#         if epoch % 100 == 0:
-#             train_acc = evaluate_accuracy(train_x, train_y, net)
-#             print('epoch {d}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
+    out_pre = net(input_data_pre)
+    out_pos = net(input_data_pos)
+    transformed_pre = nn.ReLU(out_pre-out_pos)
+    l = loss(transformed_pre, train_y)
+    optimizer.zero_grad()
+    l.backward()
+    optimizer.step()
+    train_loss = l.item()
 
-# # def evaluate_accuracy(x, y, net):
+    if epoch % 100 == 0:
+        train_acc = evaluate_accuracy(train_x, train_y, net)
+        print('epoch {d}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
+
+# def evaluate_accuracy(x, y, net):
 #     out = net(x)
 #     correct = (out.ge(0.5) == y).sum().item()
 #     n = y.shape[0]
