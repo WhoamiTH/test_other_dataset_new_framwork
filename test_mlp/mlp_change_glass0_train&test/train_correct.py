@@ -204,6 +204,7 @@ class Classification(nn.Module):
         self.sigmoid = nn.Sigmoid()
     
     def forward(self, x):
+        x = x.cuda()
         x = self.hidden_1(x)
         x = self.sigmoid(x)
         x = self.output(x)
@@ -259,7 +260,7 @@ for epoch in range(num_epochs):
     train_label = torch.Tensor(torch.from_numpy(train_y).float())
 
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-    
+
     input_data_pre = input_data_pre.to(device)
     input_data_pos = input_data_pos.to(device)
     train_label = train_label.to(device)
