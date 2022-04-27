@@ -222,7 +222,7 @@ def evaluate_accuracy(x, y, net):
     # result = out.numpy()
     # result[result<0.5] = 0
     # result[result>=0.5] = 1
-    result =  tourh.ge(out, 0.5) 
+    result =  torch.ge(out, 0.5) 
     correct = result == y
     correct = correct.sum().item()
     n = y.shape[0]
