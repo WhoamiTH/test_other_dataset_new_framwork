@@ -150,7 +150,7 @@ hidden1 = tf.layers.dense(inputs=x, units=3*single_input_size, use_bias=True, ac
 # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
 y_pred = tf.layers.dense(inputs=hidden1, units=num_class, activation=tf.nn.sigmoid)
 
-y_transformed = tf.math.sigmoid(10 * (y_pred[:,0,0] -  y_pred[:,1,0]))
+y_transformed = tf.nn.relu((y_pred[:,0,0] -  y_pred[:,1,0]))
 y_transformed = tf.reshape(y_transformed, shape=(-1,1))
 
 
@@ -160,13 +160,17 @@ y_transformed = tf.reshape(y_transformed, shape=(-1,1))
 
 
 
-loss_1 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true, logits=y_pred)
+# loss_1 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true, logits=y_pred)
 
-loss_2 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_transformed_true, logits=y_transformed)
+# loss_2 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_transformed_true, logits=y_transformed)
 
 # loss = loss_1 + loss_2
 
-loss = loss_1
+# loss = loss_1
+
+# loss = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_transformed_true, logits=y_transformed)
+loss =  tf.multiply(y_transformed_true,  -1 * tf.log(y_transformed ) ) + tf.multiply((1 - y_transformed_true) , -1 * tf.log(1 - y_transformed))
+
 
 # print(loss)
 

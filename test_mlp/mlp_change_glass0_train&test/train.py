@@ -166,10 +166,11 @@ y_pred_2 = tf.layers.dense(inputs=hidden2, units=num_class, activation=tf.nn.sig
 
 
 
-# y_transformed = tf.math.sigmoid(10 * (y_pred[:,0,0] -  y_pred[:,1,0]))
-# y_transformed = tf.reshape(y_transformed, shape=(-1,1))
+y_transformed = tf.nn.relu(10 * (y_pred_1 - y_pred_2))
+y_transformed = tf.reshape(y_transformed, shape=(-1,1))
 
 
+loss =  tf.multiply(y_transformed_true,  -1 * tf.log(y_transformed ) ) + tf.multiply((1 - y_transformed_true) , -1 * tf.log(1 - y_transformed))
 # loss_1 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true[:,0,0], logits=y_pred[:,0,0])
 # loss_2 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true[:,1,0], logits=y_pred[:,1,0])
 
@@ -186,8 +187,8 @@ y_pred_2 = tf.layers.dense(inputs=hidden2, units=num_class, activation=tf.nn.sig
 
 # # print(loss)
 
-# cost = tf.reduce_mean(loss)
-# optimizer = tf.train.AdamOptimizer(learning_rate=0.0005).minimize(cost)
+cost = tf.reduce_mean(loss)
+optimizer = tf.train.AdamOptimizer(learning_rate=0.0005).minimize(cost)
 
 
 # two hidden layer ------------------------------------------------
@@ -261,27 +262,27 @@ print(sess.run(y_pred_1))
 print(sess.run(y_pred_2)) 
 
 
-# for i in range(train_times):
-#     # train_data, train_label = handle_data.generate_batch_data(positive_data, negative_data, batch_size)
-#     print(true_label)
-#     current_train_data, current_train_label, current_transformed_label = handle_data.next_batch(true_data, true_label)
-#     current_train_data = np.array(current_train_data).reshape((-1,2,single_input_size))
-#     current_train_label = np.array(current_train_label).reshape((-1,2,1))
-#     current_transformed_label = np.array(current_transformed_label).reshape((-1,1))
-#     feed_dict_train = {
-#         x                   : current_train_data,
-#         y_true              : current_train_label,
-#         y_transformed_true  : current_transformed_label
+for i in range(train_times):
+    # train_data, train_label = handle_data.generate_batch_data(positive_data, negative_data, batch_size)
+    print(true_label)
+    current_train_data, current_train_label, current_transformed_label = handle_data.next_batch(true_data, true_label)
+    current_train_data = np.array(current_train_data).reshape((-1,2,single_input_size))
+    current_train_label = np.array(current_train_label).reshape((-1,2,1))
+    current_transformed_label = np.array(current_transformed_label).reshape((-1,1))
+    feed_dict_train = {
+        x                   : current_train_data,
+        y_true              : current_train_label,
+        y_transformed_true  : current_transformed_label
 
-#     }
+    }
 
-#     cost_val, true_label, pred_label, opt_obj = sess.run( [cost, y_true, y_pred,
-#         optimizer], feed_dict=feed_dict_train )
-#     if (i % 1000) == 0 :
-#         print('epoch: {0} cost = {1}'.format(i,cost_val))
+    cost_val, true_label, pred_label, opt_obj = sess.run( [cost, y_true, y_pred,
+        optimizer], feed_dict=feed_dict_train )
+    if (i % 1000) == 0 :
+        print('epoch: {0} cost = {1}'.format(i,cost_val))
 
-# finish = clock()
-# saver.save(sess, model_name)
+finish = clock()
+saver.save(sess, model_name)
 
-# running_time = finish-start
-# print('running time is {0}'.format(running_time))
+running_time = finish-start
+print('running time is {0}'.format(running_time))
