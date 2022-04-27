@@ -162,6 +162,11 @@ def evaluate_accuracy(x, y, net):
     x = torch.Tensor(torch.from_numpy(x).float())
     y = torch.Tensor(torch.from_numpy(y).float())
 
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
+    x = x.to(device)
+    y = y.to(device)
+
     out = net(x)
 
     result =  torch.ge(out, 0.5) 
