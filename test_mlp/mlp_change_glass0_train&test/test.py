@@ -67,7 +67,7 @@ method_name = "change_loss"
 scaler_name = 'scaler_1.m'
 kernelpca_name = ''
 pca_name = ''
-model_name = 'model_1.m'
+model_name = 'model_11/my_model.pkl'
 threshold_value = 0
 record_name = 'result.csv'
 
