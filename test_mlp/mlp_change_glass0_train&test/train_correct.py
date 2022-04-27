@@ -223,14 +223,23 @@ def evaluate_accuracy(x, y, net):
     # result[result<0.5] = 0
     # result[result>=0.5] = 1
     result =  torch.ge(out, 0.5) 
-    print(type(result))
-    print(result.shape)
-    print(type(y))
-    print(y.shape)
-    correct = result.eq(y)
-    correct = correct.sum().item()
-    n = y.shape[0]
-    return correct/n
+    #计算准确率
+    Accuracy=accuracy_score(y, result)
+
+    #计算精确率
+    Precision=precision_score(y, result, average='macro')
+
+    #计算召回率
+    Recall=recall_score(y, result, average='macro')
+
+    print(Accuracy)
+    print(Precision)
+    print(Recall)
+    # correct = result.eq(y)
+    # correct = correct.sum().item()
+    # n = y.shape[0]
+    # return correct/n
+    return Accuracy
 
 for epoch in range(num_epochs):
     train_pre, train_pos, train_y = generate_batch_data(positive_data, negative_data, batch_size)
