@@ -9,6 +9,11 @@ import handle_data
 import predict_test
 import pandas as pd
 import numpy as np
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import precision_score
+from sklearn.metrics import recall_score
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import roc_curve, auc
 # import tensorflow as tf
 
 # import tensorflow.compat.v1 as tf
