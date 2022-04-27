@@ -27,7 +27,7 @@ for record_number in range(1, test_number+1):
         pca_name
         model_name
         """
-        train_file.write('python train_correct.py file_name=../1_year_data/{7}_train_{1}.csv model_record_path=../1_year_result/model_{2}/ file_record_path=../1_year_result/record_{2}/ method_name={3} scaler_name=scaler_{4}.m pca=False pca_name=pca_{5}.m model_name=model_{6}/my_model.pkl\n'.format(record_number, record_number, file_record_index, method_name, record_number, record_number, file_record_index, file_name_pre))
+        train_file.write('python train_correct.py file_name=../1_year_data/{7}_train_{1}.csv model_record_path=../1_year_result/model_{2}/ file_record_path=../1_year_result/record_{2}/ method_name={3} scaler_name=scaler_{4}.m pca=False pca_name=pca_{5}.m model_name=model_{6}/my_model.pkl\n'.format(record_number, record_number, file_record_index, method_name, record_number, record_number, record_number, file_name_pre))
         """
         test parameter list:
         file_name
