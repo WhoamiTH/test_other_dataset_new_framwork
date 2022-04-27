@@ -213,9 +213,15 @@ init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 
 
-loss = nn.CrossEntropyLoss()  
+loss = nn.BCELoss()  
 
 optimizer = torch.optim.SGD(net.parameters(), lr=1.2, momentum=0.9)
+
+def evaluate_accuracy(x, y, net):
+    out = net(x)
+    correct = (out.ge(0.5) == y).sum().item()
+    n = y.shape[0]
+    return correct/n
 
 for epoch in range(num_epochs):
     train_pre, train_pos, train_y = generate_batch_data(positive_data, negative_data, batch_size)
@@ -226,13 +232,7 @@ for epoch in range(num_epochs):
 
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
-    transformed_pre = net.relu(out_pre-out_pos)
-    print(type(transformed_pre))
-    print(transformed_pre.shape)
-
-    print(type(train_label))
-    print(train_label.shape)
-    
+    transformed_pre = net.relu(out_pre-out_pos)    
     
     l = loss(transformed_pre, train_label)
     optimizer.zero_grad()
@@ -241,7 +241,7 @@ for epoch in range(num_epochs):
     train_loss = l.item()
 
     if epoch % 100 == 0:
-        train_acc = evaluate_accuracy(train_x, train_y, net)
+        train_acc = evaluate_accuracy(input_data_pre, train_label, net)
         print('epoch {d}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
 
 # def evaluate_accuracy(x, y, net):
