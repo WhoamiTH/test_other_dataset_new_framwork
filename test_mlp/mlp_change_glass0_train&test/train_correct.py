@@ -228,7 +228,7 @@ for epoch in range(num_epochs):
     input_data_pre = torch.Tensor(torch.from_numpy(train_pre).float())
     input_data_pos = torch.Tensor(torch.from_numpy(train_pos).float())
 
-    train_label = torch.Tensor(torch.from_numpy(train_y).float()).long()
+    train_label = torch.Tensor(torch.from_numpy(train_y).float())
 
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
