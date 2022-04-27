@@ -222,14 +222,19 @@ for epoch in range(num_epochs):
     input_data_pre = torch.Tensor(torch.from_numpy(train_pre).float())
     input_data_pos = torch.Tensor(torch.from_numpy(train_pos).float())
 
+    train_label = torch.Tensor(torch.from_numpy(train_y).float())
+
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
     transformed_pre = net.relu(out_pre-out_pos)
     print(type(transformed_pre))
     print(transformed_pre.shape)
+
+    print(type(train_y))
+    print(train_y.shape)
     
     
-    l = loss(transformed_pre, train_y)
+    l = loss(transformed_pre, train_label)
     optimizer.zero_grad()
     l.backward()
     optimizer.step()
