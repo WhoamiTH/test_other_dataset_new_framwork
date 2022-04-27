@@ -139,7 +139,7 @@ batch_size = 50
 
 
 positive_data, negative_data = handle_data.divide_data(train_data, train_label)
-input_dim = new_data.shape[1]
+input_dim = train_data.shape[1]
 
 # create LogisticRegression model
 
