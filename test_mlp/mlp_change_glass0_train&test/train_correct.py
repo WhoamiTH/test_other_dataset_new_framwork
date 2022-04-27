@@ -242,15 +242,15 @@ def evaluate_accuracy(x, y, net):
     Recall=recall_score(y, result, average='macro')
     F1 = f1_score(y_true=y, y_pred=result)
 
-    print('accuracy is {0}'.format(Accuracy))
-    print('Precision is {0}'.format(Precision))
-    print('Recall is {0}'.format(Recall))
-    print('F1 is {0}'.format(F1))
+    # print('accuracy is {0}'.format(Accuracy))
+    # print('Precision is {0}'.format(Precision))
+    # print('Recall is {0}'.format(Recall))
+    # print('F1 is {0}'.format(F1))
     # correct = result.eq(y)
     # correct = correct.sum().item()
     # n = y.shape[0]
     # return correct/n
-    return Accuracy
+    return Accuracy, Precision, Recall, F1
 
 for epoch in range(num_epochs):
     train_pre, train_pos, train_y = generate_batch_data(positive_data, negative_data, batch_size)
@@ -275,8 +275,12 @@ for epoch in range(num_epochs):
     train_loss = l.item()
 
     if epoch % 100 == 0:
-        train_acc = evaluate_accuracy(input_data_pre, train_label, net)
-        print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
+        train_acc, pre, rec, f1 = evaluate_accuracy(input_data_pre, train_label, net)
+        print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec) )
+
+
+torch.save(model, model_name)
+
 
 # def evaluate_accuracy(x, y, net):
 #     out = net(x)
