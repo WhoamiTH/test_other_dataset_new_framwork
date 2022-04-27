@@ -179,7 +179,7 @@ def generate_batch_data(positive_data, negative_data, batch_size):
         batch_size = positive_length
 
     positive_data_index = np.random.choice(positive_length, batch_size, replace=False)
-    negative_data_index = np.random.choice(negative_length, times*batch_size, replace=False)
+    negative_data_index = np.random.choice(negative_length, batch_size, replace=False)
 
     current_positive_data = positive_data[positive_data_index]
     current_negative_data = negative_data[negative_data_index]
