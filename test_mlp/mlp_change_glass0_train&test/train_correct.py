@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
 from sklearn.metrics import recall_score
 from sklearn.metrics import confusion_matrix
-from sklearn.metrics import roc_curve, auc
+from sklearn.metrics import roc_curve, auc, f1_score
 # import tensorflow as tf
 
 # import tensorflow.compat.v1 as tf
@@ -236,10 +236,12 @@ def evaluate_accuracy(x, y, net):
 
     #计算召回率
     Recall=recall_score(y, result, average='macro')
+    F1 = f1_score(y_true=true_label, y_pred=predict_label)
 
-    print(Accuracy)
-    print(Precision)
-    print(Recall)
+    print('accuracy is {0}'.format(Accuracy))
+    print('Precision is {0}'.format(Precision))
+    print('Recall is {0}'.format(Recall))
+    print('F1 is {0}'.format(F1))
     # correct = result.eq(y)
     # correct = correct.sum().item()
     # n = y.shape[0]
@@ -265,7 +267,7 @@ for epoch in range(num_epochs):
 
     if epoch % 100 == 0:
         train_acc = evaluate_accuracy(input_data_pre, train_label, net)
-        print('epoch {d}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
+        print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
 
 # def evaluate_accuracy(x, y, net):
 #     out = net(x)
