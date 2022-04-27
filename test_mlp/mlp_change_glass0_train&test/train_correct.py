@@ -204,8 +204,8 @@ class Classification(nn.Module):
 
 net = Classification(input_dim)
 
-init.normal_(net.hidden_1.weight, means=0, std=0.01)
-init.normal_(net.output.weight, means=0, std=0.01)
+init.normal_(net.hidden_1.weight, mean=0, std=0.01)
+init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 
