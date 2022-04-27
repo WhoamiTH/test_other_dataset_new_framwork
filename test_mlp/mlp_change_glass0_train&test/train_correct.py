@@ -217,7 +217,7 @@ init.normal_(net.hidden_1.weight, mean=0, std=0.01)
 init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
-
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 if torch.cuda.device_count() > 1:
     net = nn.DataParallel(net) # 包装为并行风格模型
 net.to(device)
@@ -258,8 +258,6 @@ for epoch in range(num_epochs):
     input_data_pos = torch.Tensor(torch.from_numpy(train_pos).float())
 
     train_label = torch.Tensor(torch.from_numpy(train_y).float())
-
-    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     input_data_pre = input_data_pre.to(device)
     input_data_pos = input_data_pos.to(device)
