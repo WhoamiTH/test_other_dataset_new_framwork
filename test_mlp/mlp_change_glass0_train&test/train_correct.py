@@ -230,8 +230,8 @@ for epoch in range(num_epochs):
     print(type(transformed_pre))
     print(transformed_pre.shape)
 
-    print(type(train_y))
-    print(train_y.shape)
+    print(type(train_label))
+    print(train_label.shape)
     
     
     l = loss(transformed_pre, train_label)
