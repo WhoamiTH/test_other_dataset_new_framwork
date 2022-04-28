@@ -151,6 +151,32 @@ input_dim = train_data.shape[1]
 
 
 
+# def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1, negative_value=0):
+#     # 生成非镜像模式数据
+#     tem_pre = []
+#     tem_pos = []
+#     teml = []
+#     length_pos = len(positive_data)
+#     length_neg = len(negative_data)
+#     all_generate_num = length_pos * length_neg
+#     random_label_array = np.random.randint(low=0,high=2,size=all_generate_num)
+#     random_label_list = random_label_array.tolist()
+#     label_index = 0
+#     for pos_index in range(length_pos):
+#         for neg_index in range(length_neg):
+#             cur_label = random_label_list[label_index]
+#             label_index += 1
+#             if int(cur_label) == 1:
+#                 tem_pre.append(positive_data[pos_index])
+#                 tem_pos.append(negative_data[neg_index])
+#                 teml.append( [positive_value] )
+#             else:
+#                 tem_pos.append(positive_data[pos_index])
+#                 tem_pre.append(negative_data[neg_index])
+#                 teml.append( [negative_value] )
+#     return tem_pre, tem_pos, teml
+
+
 def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1, negative_value=0):
     # 生成非镜像模式数据
     tem_pre = []
@@ -158,23 +184,24 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
     teml = []
     length_pos = len(positive_data)
     length_neg = len(negative_data)
-    all_generate_num = length_pos * length_neg
+    # all_generate_num = length_pos * length_neg
+    all_generate_num = length_pos
     random_label_array = np.random.randint(low=0,high=2,size=all_generate_num)
     random_label_list = random_label_array.tolist()
     label_index = 0
     for pos_index in range(length_pos):
-        for neg_index in range(length_neg):
-            cur_label = random_label_list[label_index]
-            label_index += 1
-            if int(cur_label) == 1:
-                tem_pre.append(positive_data[pos_index])
-                tem_pos.append(negative_data[neg_index])
-                teml.append( [positive_value] )
-            else:
-                tem_pos.append(positive_data[pos_index])
-                tem_pre.append(negative_data[neg_index])
-                teml.append( [negative_value] )
+        cur_label = random_label_list[label_index]
+        label_index += 1
+        if int(cur_label) == 1:
+            tem_pre.append(positive_data[pos_index])
+            tem_pos.append(negative_data[neg_index])
+            teml.append( [positive_value] )
+        else:
+            tem_pre.append(negative_data[neg_index])
+            tem_pos.append(positive_data[pos_index])
+            teml.append( [negative_value] )
     return tem_pre, tem_pos, teml
+
 
 def generate_batch_data(positive_data, negative_data, batch_size):
     positive_length = positive_data.shape[0]
