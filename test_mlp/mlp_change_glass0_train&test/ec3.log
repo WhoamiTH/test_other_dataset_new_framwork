@@ -1,0 +1,68 @@
+nohup: ignoring input
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+../1_year_data/glass0_train_3.csv
+epoch 1, loss 11.7896, train acc 45.36%, f1 0.4911, precision 0.4523, recall 0.4533
+epoch 101, loss 11.2845, train acc 60.84%, f1 0.7213, precision 0.7821, recall 0.6030
+epoch 201, loss 11.1850, train acc 58.48%, f1 0.7061, precision 0.7729, recall 0.5858
+epoch 301, loss 11.1740, train acc 58.44%, f1 0.7056, precision 0.7725, recall 0.5861
+epoch 401, loss 11.2845, train acc 56.84%, f1 0.6934, precision 0.7653, recall 0.5785
+epoch 501, loss 11.7819, train acc 56.64%, f1 0.6965, precision 0.7672, recall 0.5685
+epoch 601, loss 11.8592, train acc 58.92%, f1 0.7151, precision 0.7783, recall 0.5760
+epoch 701, loss 10.1351, train acc 62.68%, f1 0.7282, precision 0.7863, recall 0.6268
+epoch 801, loss 11.8924, train acc 55.04%, f1 0.6846, precision 0.7602, recall 0.5609
+epoch 901, loss 10.4666, train acc 59.88%, f1 0.7114, precision 0.7760, recall 0.6032
+epoch 1001, loss 12.0692, train acc 57.68%, f1 0.7028, precision 0.7709, recall 0.5765
+epoch 1101, loss 10.8866, train acc 61.40%, f1 0.7231, precision 0.7831, recall 0.6109
+epoch 1201, loss 11.2735, train acc 60.80%, f1 0.7235, precision 0.7834, recall 0.5977
+epoch 1301, loss 12.4229, train acc 56.96%, f1 0.7029, precision 0.7710, recall 0.5615
+epoch 1401, loss 11.5166, train acc 57.68%, f1 0.7015, precision 0.7701, recall 0.5792
+epoch 1501, loss 11.2292, train acc 58.64%, f1 0.7041, precision 0.7716, recall 0.5929
+epoch 1601, loss 11.8371, train acc 58.84%, f1 0.7127, precision 0.7768, recall 0.5797
+epoch 1701, loss 10.9087, train acc 57.48%, f1 0.6937, precision 0.7655, recall 0.5899
+epoch 1801, loss 11.8371, train acc 56.84%, f1 0.6963, precision 0.7671, recall 0.5728
+epoch 1901, loss 11.8040, train acc 56.72%, f1 0.6959, precision 0.7668, recall 0.5713
+epoch 2001, loss 11.5829, train acc 55.92%, f1 0.6920, precision 0.7645, recall 0.5634
+epoch 2101, loss 11.6713, train acc 58.24%, f1 0.7064, precision 0.7730, recall 0.5804
+epoch 2201, loss 11.5166, train acc 59.68%, f1 0.7161, precision 0.7789, recall 0.5899
+epoch 2301, loss 11.6713, train acc 58.24%, f1 0.7053, precision 0.7724, recall 0.5827
+epoch 2401, loss 12.0029, train acc 55.44%, f1 0.6887, precision 0.7626, recall 0.5607
+epoch 2501, loss 11.5829, train acc 57.92%, f1 0.7018, precision 0.7703, recall 0.5832
+epoch 2601, loss 12.1355, train acc 55.92%, f1 0.6935, precision 0.7654, recall 0.5603
+epoch 2701, loss 12.0803, train acc 53.72%, f1 0.6789, precision 0.7569, recall 0.5470
+epoch 2801, loss 11.7266, train acc 58.44%, f1 0.7089, precision 0.7745, recall 0.5794
+epoch 2901, loss 11.3398, train acc 61.04%, f1 0.7264, precision 0.7852, recall 0.5965
+epoch 3001, loss 12.0913, train acc 59.76%, f1 0.7210, precision 0.7819, recall 0.5808
+epoch 3101, loss 11.8703, train acc 56.96%, f1 0.6952, precision 0.7664, recall 0.5774
+epoch 3201, loss 12.5776, train acc 57.52%, f1 0.7073, precision 0.7736, recall 0.5637
+epoch 3301, loss 11.4835, train acc 59.56%, f1 0.7164, precision 0.7791, recall 0.5867
+epoch 3401, loss 11.8371, train acc 58.84%, f1 0.7115, precision 0.7761, recall 0.5820
+epoch 3501, loss 11.7266, train acc 56.44%, f1 0.6930, precision 0.7651, recall 0.5716
+epoch 3601, loss 10.8535, train acc 59.28%, f1 0.7073, precision 0.7736, recall 0.5992
+epoch 3701, loss 11.8924, train acc 55.04%, f1 0.6859, precision 0.7610, recall 0.5585
+epoch 3801, loss 12.5113, train acc 55.28%, f1 0.6903, precision 0.7635, recall 0.5542
+epoch 3901, loss 12.3124, train acc 54.56%, f1 0.6872, precision 0.7617, recall 0.5463
+epoch 4001, loss 11.4613, train acc 61.48%, f1 0.7256, precision 0.7847, recall 0.6076
+epoch 4101, loss 11.6934, train acc 56.32%, f1 0.6933, precision 0.7653, recall 0.5687
+epoch 4201, loss 11.9255, train acc 59.16%, f1 0.7141, precision 0.7777, recall 0.5833
+epoch 4301, loss 12.7324, train acc 56.08%, f1 0.6969, precision 0.7674, recall 0.5565
+epoch 4401, loss 12.2350, train acc 56.28%, f1 0.6975, precision 0.7677, recall 0.5593
+epoch 4501, loss 12.3234, train acc 56.60%, f1 0.6972, precision 0.7676, recall 0.5663
+epoch 4601, loss 11.2292, train acc 58.64%, f1 0.7046, precision 0.7719, recall 0.5919
+epoch 4701, loss 11.4061, train acc 57.28%, f1 0.6964, precision 0.7671, recall 0.5812
+epoch 4801, loss 11.3950, train acc 61.24%, f1 0.7270, precision 0.7855, recall 0.5996
+epoch 4901, loss 11.1408, train acc 60.32%, f1 0.7198, precision 0.7811, recall 0.5954
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+../1_year_data/glass0_train_3.csv
+../1_year_data/glass0_test_origin_3.csv
+../1_year_result/model_1/change_loss_model_3/my_model.pkl
+(171, 9)
+<class 'pandas.core.frame.DataFrame'>
+train
+(43, 9)
+<class 'pandas.core.frame.DataFrame'>
+accuracy is 0.4418604651162791
+Precision is 0.6842105263157895
+Recall is 0.5862068965517242
+F1 is 0.5384615384615384
