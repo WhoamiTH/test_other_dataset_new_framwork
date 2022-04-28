@@ -194,7 +194,7 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
         label_index += 1
         if int(cur_label) == 1:
             tem_pre.append(positive_data[pos_index])
-            tem_pos.append(negative_data[neg_index])
+            tem_pos.append(negative_data[pos_index])
             teml.append( [positive_value] )
         else:
             tem_pre.append(negative_data[neg_index])
