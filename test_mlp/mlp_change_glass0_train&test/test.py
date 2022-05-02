@@ -170,12 +170,12 @@ def evaluate_accuracy(x, y, net):
     out = net(x)
 
     for i in range(len(out)):
-        print(y[i].item(), out[i].item())
+        print(y[i].float(), out[i].float())
         print(out[i])
 
     result =  torch.ge(out, 0.5) 
     for i in range(len(result)):
-        print(y[i].item(), result[i].item())
+        print(y[i].float(), result[i].float())
 
     #计算准确率
     Accuracy = accuracy_score(y, result)
