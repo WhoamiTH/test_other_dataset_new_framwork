@@ -170,14 +170,14 @@ def evaluate_accuracy(x, y, net):
     out = net(x)
 
     result =  torch.ge(out, 0.5) 
+
     #计算准确率
-    Accuracy=accuracy_score(y, result)
+    Accuracy = accuracy_score(y, result)
 
     #计算精确率
-    Precision=precision_score(y, result, average='macro')
-
+    Precision = precision_score(y_true=y, y_pred=result)
     #计算召回率
-    Recall=recall_score(y, result, average='macro')
+    Recall = recall_score(y_true=y, y_pred=result)
     F1 = f1_score(y_true=y, y_pred=result)
 
     return Accuracy, Precision, Recall, F1
