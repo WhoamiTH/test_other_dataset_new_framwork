@@ -113,7 +113,7 @@ threshold_value = 0
 winner_number = 3
 
 
-num_epochs = 5000
+num_epochs = 500
 
 # ----------------------------------set parameters---------------------------------------
 set_para()
