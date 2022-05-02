@@ -291,16 +291,16 @@ for epoch in range(num_epochs):
     train_label = train_label.to(device)
 
     out_pre = net(input_data_pre)
-    out_pos = net(input_data_pos)
+    # out_pos = net(input_data_pos)
 
     if epoch == num_epochs-1:
         for i in range(len(out_pre)):
             print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
 
 
-    transformed_pre = net.relu(out_pre-out_pos)    
+    # transformed_pre = net.relu(out_pre-out_pos)    
     
-    l = loss(transformed_pre, train_label)
+    l = loss(out_pre, train_label)
     optimizer.zero_grad()
     l.backward()
     optimizer.step()
@@ -312,179 +312,3 @@ for epoch in range(num_epochs):
 
 
 torch.save(net, model_name)
-
-
-# def evaluate_accuracy(x, y, net):
-#     out = net(x)
-#     correct = (out.ge(0.5) == y).sum().item()
-#     n = y.shape[0]
-#     return correct/n
-
-# def train(net, train_x, train_y, loss, num_epochs, optimizer=None):
-#     for epoch in range(num_epochs):
-#         out = net(train_x)
-#         l = loss(out, train_y)
-#         optimizer.zero_grad()
-#         l.backward()
-#         optimizer.step()
-#         train_loss = l.item()
-
-#         if epoch % 100 == 0:
-#             train_acc = evaluate_accuracy(train_x, train_y, net)
-#             print('epoch {d}, loss {:.4f}, train acc {:.2f}%'.format(epoch+1, train_loss, train_acc*100) )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# single_input_size = train_data.shape[1]
-# transformed_input_size = 2 * single_input_size
-
-
-# num_class = 1
-
-# # x = tf.placeholder(tf.float32, [None, single_input_size])
-# x = tf.placeholder(tf.float32, [None, 2, single_input_size])
-# y_true = tf.placeholder(tf.float32, [None, 2, num_class])
-# y_transformed_true = tf.placeholder(tf.float32, [None, num_class])
-
-
-# # # one hidden layer ------------------------------------------------
-# hidden1 = tf.layers.dense(inputs=x, units=3*single_input_size, use_bias=True, activation=tf.nn.relu)
-# # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# y_pred = tf.layers.dense(inputs=hidden1, units=num_class, activation=tf.nn.sigmoid)
-
-# y_transformed = tf.nn.relu((y_pred[:,0,0] -  y_pred[:,1,0]))
-# y_transformed = tf.reshape(y_transformed, shape=(-1,1))
-
-
-# # loss_1 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true[:,0,0], logits=y_pred[:,0,0])
-# # loss_2 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true[:,1,0], logits=y_pred[:,1,0])
-
-
-
-
-# # loss_1 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_true, logits=y_pred)
-
-# # loss_2 = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_transformed_true, logits=y_transformed)
-
-# # loss = loss_1 + loss_2
-
-# # loss = loss_1
-
-# # loss = tf.nn.sigmoid_cross_entropy_with_logits(labels=y_transformed_true, logits=y_transformed)
-# loss =  tf.multiply(y_transformed_true,  -1 * tf.log(y_transformed ) ) + tf.multiply((1 - y_transformed_true) , -1 * tf.log(1 - y_transformed))
-
-
-# # print(loss)
-
-# cost = tf.reduce_mean(loss)
-# optimizer = tf.train.AdamOptimizer(learning_rate=0.0005).minimize(cost)
-
-
-# # two hidden layer ------------------------------------------------
-# # hidden1 = tf.layers.dense(inputs=x, units=2*transformed_input_size, use_bias=True, activation=tf.nn.sigmoid)
-# # hidden2 = tf.layers.dense(inputs=hidden1, units=2*transformed_input_size, use_bias=True, activation=tf.nn.sigmoid)
-# # # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# # y_pred = tf.layers.dense(inputs=hidden2, units=4, activation=tf.nn.sigmoid)
-
-# # three hidden layer ------------------------------------------------
-# # hidden1 = tf.layers.dense(inputs=x, units=2*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden2 = tf.layers.dense(inputs=hidden1, units=2*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden3 = tf.layers.dense(inputs=hidden2, units=transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# # y_pred = tf.layers.dense(inputs=hidden3, units=4, activation=tf.nn.sigmoid)
-
-
-# # one hidden layer ------------------------------------------------
-# # hidden1 = tf.layers.dense(inputs=x, units=2*single_input_size, use_bias=True, activation=tf.nn.relu)
-# # # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# # y_pred = tf.layers.dense(inputs=hidden1, units=num_class, activation=tf.nn.sigmoid)
-
-
-# # 4 hidden layer --------------------------------------------------
-# # hidden1 = tf.layers.dense(inputs=x, units=2*single_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden2 = tf.layers.dense(inputs=hidden1, units=2*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden3 = tf.layers.dense(inputs=hidden2, units=transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden4 = tf.layers.dense(inputs=hidden3, units=single_input_size, use_bias=True, activation=tf.nn.relu)
-# # # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# # y_pred = tf.layers.dense(inputs=hidden4, units=num_class, activation=tf.nn.sigmoid)
-
-
-
-
-# # 5 hidden layers -------------------------------------------------
-# # hidden1 = tf.layers.dense(inputs=x, units=2*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden2 = tf.layers.dense(inputs=hidden1, units=2*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden3 = tf.layers.dense(inputs=hidden2, units=transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden4 = tf.layers.dense(inputs=hidden3, units=single_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden5 = tf.layers.dense(inputs=hidden4, units=2*num_class, use_bias=True, activation=tf.nn.relu)
-# # # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# # y_pred = tf.layers.dense(inputs=hidden4, units=num_class, activation=tf.nn.sigmoid)
-
-# # 8 hidden layers -----------------------------------------------------------
-# # hidden1 = tf.layers.dense(inputs=x, units=4*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden2 = tf.layers.dense(inputs=hidden1, units=3*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden3 = tf.layers.dense(inputs=hidden2, units=2*transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden4 = tf.layers.dense(inputs=hidden3, units=transformed_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden5 = tf.layers.dense(inputs=hidden4, units=single_input_size, use_bias=True, activation=tf.nn.relu)
-# # hidden6 = tf.layers.dense(inputs=hidden5, units=4*num_class, use_bias=True, activation=tf.nn.relu)
-# # hidden7 = tf.layers.dense(inputs=hidden6, units=2*num_class, use_bias=True, activation=tf.nn.relu)
-# # # y_pred = tf.layers.dense(inputs=hidden1, units=4, activation=tf.nn.sigmoid)
-# # y_pred = tf.layers.dense(inputs=hidden7, units=num_class, activation=tf.nn.sigmoid)
-
-
-
-
-# tf.add_to_collection('x', x)
-# tf.add_to_collection('y_true', y_true)
-# tf.add_to_collection('y_pred', y_pred)
-# tf.add_to_collection('cost', cost)
-# tf.add_to_collection('optimizer', optimizer)
-# saver = tf.train.Saver()
-
-
-# # create session and run the model
-# gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.46)
-# sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options))
-# sess.run(tf.global_variables_initializer())
-
-
-# for i in range(train_times):
-#     # train_data, train_label = handle_data.generate_batch_data(positive_data, negative_data, batch_size)
-#     train_data, train_label, transformed_label = handle_data.next_batch(positive_data, negative_data)
-#     train_data = np.array(train_data).reshape((-1,2,single_input_size))
-#     train_label = np.array(train_label).reshape((-1,2,1))
-#     transformed_label = np.array(transformed_label).reshape((-1,1))
-#     feed_dict_train = {
-#         x                   : train_data,
-#         y_true              : train_label,
-#         y_transformed_true  : transformed_label
-
-#     }
-
-#     cost_val, true_label, pred_label, opt_obj = sess.run( [cost, y_true, y_pred,
-#         optimizer], feed_dict=feed_dict_train )
-#     if (i % 1000) == 0 :
-#         print('epoch: {0} cost = {1}'.format(i,cost_val))
-
-# finish = clock()
-# saver.save(sess, model_name)
-
-# running_time = finish-start
-# print('running time is {0}'.format(running_time))
