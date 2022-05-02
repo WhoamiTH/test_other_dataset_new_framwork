@@ -113,7 +113,7 @@ threshold_value = 0
 winner_number = 3
 
 
-num_epochs = 20
+num_epochs = 5000
 
 # ----------------------------------set parameters---------------------------------------
 set_para()
@@ -290,14 +290,14 @@ for epoch in range(num_epochs):
     input_data_pos = input_data_pos.to(device)
     train_label = train_label.to(device)
     
-
-    # out_pre = net(input_data_pre)
-    # out_pos = net(input_data_pos)
+    if epoch >= num_epochs-1:
+        out_pre = net(input_data_pre)
+        out_pos = net(input_data_pre)
+        for i in range(len(out_pre)):
+            print(out_pre[i].item(), out_pos[i].item())
 
     out_pre = net(input_data_pre)
-    out_pos = net(input_data_pre)
-    for i in range(len(out_pre)):
-        print(out_pre[i], out_pos[i])
+    out_pos = net(input_data_pos)
 
 
     transformed_pre = net.relu(out_pre-out_pos)    
