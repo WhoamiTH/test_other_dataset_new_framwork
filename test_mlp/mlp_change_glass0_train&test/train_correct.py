@@ -234,7 +234,7 @@ class Classification(nn.Module):
         x = self.hidden_1(x)
         x = self.sigmoid(x)
         x = self.output(x)
-        x = self.sigmoid(x)
+        # x = self.sigmoid(x)
         return x
 
 
@@ -314,8 +314,8 @@ for epoch in range(num_epochs):
             print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
             print('-------------------------------------------------------')
 
-    out_pre = net(input_data_pre)
-    out_pos = net(input_data_pos)
+    out_pre = net.sigmoid(net(input_data_pre))
+    out_pos = net.sigmoid(net(input_data_pos))
 
 
     transformed_pre = net.relu(out_pre-out_pos)    

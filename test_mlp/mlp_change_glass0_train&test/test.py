@@ -154,7 +154,7 @@ class Classification(nn.Module):
         x = self.hidden_1(x)
         x = self.sigmoid(x)
         x = self.output(x)
-        x = self.sigmoid(x)
+        # x = self.sigmoid(x)
         return x
 
 
@@ -167,7 +167,7 @@ def evaluate_accuracy(x, y, net):
     x = x.to(device)
     y = y.to(device)
 
-    out = net(x)
+    out = net.sigmoid(net(x))
 
     for i in range(len(out)):
         print(y[i].float(), out[i].float())
