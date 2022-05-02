@@ -294,7 +294,7 @@ for epoch in range(num_epochs):
         out_pre = net(input_data_pre)
         out_pos = net(input_data_pre)
         for i in range(len(out_pre)):
-            print(out_pre[i].item(), out_pos[i].item())
+            print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
 
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
