@@ -289,6 +289,14 @@ for epoch in range(num_epochs):
     input_data_pre = input_data_pre.to(device)
     input_data_pos = input_data_pos.to(device)
     train_label = train_label.to(device)
+
+    if epoch == 10:
+        out_pre = net(input_data_pre)
+        out_pos = net(input_data_pre)
+        for i in range(len(out_pre)):
+            print(train_label[i], out_pre[i], out_pos[i])
+            print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
+            print('-------------------------------------------------------')
     
     if epoch == 100:
         out_pre = net(input_data_pre)
