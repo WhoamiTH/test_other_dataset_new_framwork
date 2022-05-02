@@ -294,13 +294,17 @@ for epoch in range(num_epochs):
         out_pre = net(input_data_pre)
         out_pos = net(input_data_pre)
         for i in range(len(out_pre)):
+            print(train_label[i], out_pre[i], out_pos[i])
             print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
+            print('-------------------------------------------------------')
 
     if epoch == num_epochs-1:
         out_pre = net(input_data_pre)
         out_pos = net(input_data_pre)
         for i in range(len(out_pre)):
+            print(train_label[i], out_pre[i], out_pos[i])
             print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
+            print('-------------------------------------------------------')
 
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
