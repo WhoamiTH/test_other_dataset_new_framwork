@@ -295,7 +295,7 @@ for epoch in range(num_epochs):
 
     if epoch == num_epochs-1:
         for i in range(len(out_pre)):
-            print(train_label[i].item(), out_pre[i].item(), out_pos[i].item())
+            print(train_label[i].item(), out_pre[i].item())
 
 
     # transformed_pre = net.relu(out_pre-out_pos)    
