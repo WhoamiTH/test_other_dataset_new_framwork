@@ -292,6 +292,7 @@ for epoch in range(num_epochs):
 
     out_pre = net(input_data_pre)
     out_pos = net(input_data_pos)
+    out_pos = out_pos.detach()
 
     if epoch == num_epochs-1:
         for i in range(len(out_pre)):
