@@ -1,9 +1,0 @@
-cd ./test_pageblocks1/pairwise_vote/
-sh execute_1.sh
-cd ../../
-cd ./test_pima/pairwise_vote/
-sh execute_1.sh
-cd ../../
-cd ./test_ecoli1/pairwise_vote/
-sh execute_1.sh
-cd ../../

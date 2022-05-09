@@ -1,2 +1,0 @@
-../1_year_data/yeast5_train_1.csv
-epoch: 0 cost = 0.7514312863349915 running_time = 0.403556
