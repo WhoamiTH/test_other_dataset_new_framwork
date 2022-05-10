@@ -213,7 +213,7 @@ record_index = '1'
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 # test_file_name = './test_{0}/standlization_data/{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
-record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name)
+record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)
 record_file_name = record_path + '{0}_pca_{1}.pdf'.format(dataset_name, dataset_index)
 # scaler_name = record_path + 'scaler_' + dataset_index + '.m'
 # record_train_file_name = record_path + '{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
