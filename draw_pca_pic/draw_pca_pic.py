@@ -170,6 +170,8 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
     transfrom_negetive_data = transfrom_negetive_data[negetive_index]
     transform_negetive_label = np.zeros(transfrom_negetive_data.shape[0]).reshape(-1, 1)
 
+    print(transfrom_positive_data.shape)
+    print(transfrom_negetive_data.shape)
     all_transformed_data = np.vstack( (transfrom_positive_data, transfrom_negetive_data) )
     all_transformed_label = np.vstack( (transform_positive_label, transform_negetive_label) )
 
