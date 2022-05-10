@@ -1,6 +1,88 @@
 
 # # -*- coding:utf-8 -*-
-# import sys
+
+
+
+# ---------------------  分割线 在此下方添加数据 -----------------------------------
+
+
+
+
+
+# # ------------------------------- 任务 ----------------------------------------
+# # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
+
+
+import sys
+
+dataset_dict = {
+    1: ['yeast3', 'glass0', 'pima'],
+    2: ['yeast5', 'glass5', 'vehicle0'],
+    3: ['yeast6', 'ecoli1'],
+    4: ['abalone19', 'pageblocks1']
+}
+
+
+data_range = 5
+record_index = 1
+bash_file_name_prefix = 'draw_pca_pic_'
+
+for cur_dataset_list_index in dataset_dict:
+    dataset_list = dataset_dict[cur_dataset_list_index]
+    bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+    with open(bash_file_name,'w') as fsh:
+        fsh.write('#!/bin/bash\n')
+        fsh.write('set -e\n\n\n')
+
+        for dataset in dataset_list:
+            fsh.write('mkdir -p ./test_{0}/draw_pca_pic/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./draw_pca_pic/draw_pca_pic.py dataset_name={0} dataset_index={1}\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+            
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# # ------------------------------- 任务 --------------------------------------------
+# 针对每个数据，生成执行 standlization 的脚本
+
 
 # dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 # data_range = 5
@@ -21,22 +103,22 @@
 
 
 
-# ------------------------------- 任务 --------------------------------------------
-# change_dir_name 把 1_year_data 改名 并且将 1_year_result 删除掉
+# # ------------------------------- 任务 --------------------------------------------
+# # 建立 standlization_data dir
 
-import sys
+# import sys
 
 
-dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+# dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 
-with open('mkdir_standlization_name.sh','w') as fsh:
-    fsh.write('#!/bin/bash\n')
-    fsh.write('set -e\n\n\n')
-    for dataset in dataset_list:
-        fsh.write('cd test_{0}\n'.format(dataset))
-        fsh.write('mkdir -p standlization_data\n')
-        fsh.write('cd ..\n')
-        fsh.write('\n\n')
+# with open('mkdir_standlization_name.sh','w') as fsh:
+#     fsh.write('#!/bin/bash\n')
+#     fsh.write('set -e\n\n\n')
+#     for dataset in dataset_list:
+#         fsh.write('cd test_{0}\n'.format(dataset))
+#         fsh.write('mkdir -p standlization_data\n')
+#         fsh.write('cd ..\n')
+#         fsh.write('\n\n')
 
 
 
