@@ -49,9 +49,9 @@ def handleData_minus_mirror(positive_data, negative_data):
     all_generate_num = length_pos * length_neg
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
 
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
@@ -84,9 +84,9 @@ def handleData_minus_not_mirror(positive_data, negative_data, positive_value=1, 
     negetive_index = np.where(init_transformed_label == 0)
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
     
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
@@ -121,9 +121,9 @@ def handleData_extend_mirror(positive_data, negative_data):
     all_generate_num = length_pos * length_neg
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
 
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
@@ -156,9 +156,9 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
     negetive_index = np.where(init_transformed_label == 0)
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
     
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
