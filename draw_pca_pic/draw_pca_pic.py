@@ -160,6 +160,9 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
     # tile 整体重复
     negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
+    print(positive_repeat_data.shape)
+    print(negetive_tile_data.shape)
+    
     
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
     transfrom_positive_data = transfrom_positive_data[positive_index]
