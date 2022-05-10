@@ -1,0 +1,26 @@
+nohup: ignoring input
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/draw_pca_pic/record_1/
+./test_abalone19/draw_pca_pic/record_1/abalone19_pca_1.pdf
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./draw_pca_pic/draw_pca_pic.py", line 244, in <module>
+    kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
+  File "./draw_pca_pic/draw_pca_pic.py", line 30, in condense_data_kernel_pca
+    kernelpca.fit(Data)
+  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/decomposition/kernel_pca.py", line 238, in fit
+    K = self._get_kernel(X)
+  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/decomposition/kernel_pca.py", line 166, in _get_kernel
+    **params)
+  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/metrics/pairwise.py", line 1405, in pairwise_kernels
+    return _parallel_pairwise(X, Y, func, n_jobs, **kwds)
+  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/metrics/pairwise.py", line 1090, in _parallel_pairwise
+    return func(X, Y, **kwds)
+  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/metrics/pairwise.py", line 742, in linear_kernel
+    return safe_sparse_dot(X, Y.T, dense_output=True)
+  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/utils/extmath.py", line 140, in safe_sparse_dot
+    return np.dot(a, b)
+MemoryError

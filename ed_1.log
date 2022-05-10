@@ -1,0 +1,2 @@
+nohup: ignoring input
+draw_pca_pic_1.sh: line 7:  4931 Terminated              python3 ./draw_pca_pic/draw_pca_pic.py dataset_name=yeast3 dataset_index=1

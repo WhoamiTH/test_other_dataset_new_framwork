@@ -1,0 +1,2 @@
+nohup: ignoring input
+draw_pca_pic_3.sh: line 7: 1818484 Killed                  python3 ./draw_pca_pic/draw_pca_pic.py dataset_name=yeast6 dataset_index=1
