@@ -4,13 +4,12 @@ import sys
 # import sklearn.svm as sksvm
 # import sklearn.linear_model as sklin
 # import sklearn.tree as sktree
-from sklearn.externals import joblib
-from sklearn.decomposition import PCA
-from sklearn.decomposition import KernelPCA
-# import joblib
+# from sklearn.externals import joblib
+import joblib
 import time
 import sklearn.preprocessing as skpre
 from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE 
 import pandas as pd
 import numpy as np
 
@@ -18,6 +17,10 @@ import matplotlib
 matplotlib.use('agg')
 from matplotlib import pyplot as plt
 
+def condense_data_tsne(Data, num_of_components=2):
+    tsne = TSNE(n_components=num_of_components)
+    new_data = tsne.fit_transform(Data) 
+    return new_data
 
 def condense_data_pca(Data, num_of_components=2):
     pca = PCA(n_components=num_of_components)
@@ -49,9 +52,9 @@ def handleData_minus_mirror(positive_data, negative_data):
     all_generate_num = length_pos * length_neg
 
     # repeat 每一个都连续重复
-    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
+    positive_repeat_data = positive_data.repeat(length_neg)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
+    negetive_tile_data = np.tile(negative_data, length_pos)
 
 
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
@@ -84,18 +87,18 @@ def handleData_minus_not_mirror(positive_data, negative_data, positive_value=1, 
     negetive_index = np.where(init_transformed_label == 0)
 
     # repeat 每一个都连续重复
-    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
+    positive_repeat_data = positive_data.repeat(length_neg)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
+    negetive_tile_data = np.tile(negative_data, length_pos)
 
     
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
-    transfrom_positive_data = transfrom_positive_data[positive_index[0]]
+    transfrom_positive_data = transfrom_positive_data[positive_index]
     transform_positive_label = np.ones(transfrom_positive_data.shape[0]).reshape(-1, 1)
 
 
     transfrom_negetive_data = negetive_tile_data - positive_repeat_data
-    transfrom_negetive_data = transfrom_negetive_data[negetive_index[0]]
+    transfrom_negetive_data = transfrom_negetive_data[negetive_index]
     transform_negetive_label = np.zeros(transfrom_negetive_data.shape[0]).reshape(-1, 1)
 
     all_transformed_data = np.vstack( (transfrom_positive_data, transfrom_negetive_data) )
@@ -121,9 +124,9 @@ def handleData_extend_mirror(positive_data, negative_data):
     all_generate_num = length_pos * length_neg
 
     # repeat 每一个都连续重复
-    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
+    positive_repeat_data = positive_data.repeat(length_neg)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
+    negetive_tile_data = np.tile(negative_data, length_pos)
 
 
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
@@ -156,17 +159,18 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
     negetive_index = np.where(init_transformed_label == 0)
 
     # repeat 每一个都连续重复
-    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
+    positive_repeat_data = positive_data.repeat(length_neg)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, (length_pos, 1))    
+    negetive_tile_data = np.tile(negative_data, length_pos)
+
     
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
-    transfrom_positive_data = transfrom_positive_data[positive_index[0]]
+    transfrom_positive_data = transfrom_positive_data[positive_index]
     transform_positive_label = np.ones(transfrom_positive_data.shape[0]).reshape(-1, 1)
 
 
     transfrom_negetive_data = np.hstack( (negetive_tile_data, positive_repeat_data) )
-    transfrom_negetive_data = transfrom_negetive_data[negetive_index[0]]
+    transfrom_negetive_data = transfrom_negetive_data[negetive_index]
     transform_negetive_label = np.zeros(transfrom_negetive_data.shape[0]).reshape(-1, 1)
 
     all_transformed_data = np.vstack( (transfrom_positive_data, transfrom_negetive_data) )
@@ -193,7 +197,6 @@ def loadTrainData(file_name):
 def set_para():
     global dataset_name
     global dataset_index
-    global record_index
 
     argv = sys.argv[1:]
     for each in argv:
@@ -202,19 +205,16 @@ def set_para():
             dataset_name = para[1]
         if para[0] == 'dataset_index':
             dataset_index = para[1]
-        if para[0] == 'record_index':
-            record_index = para[1]
 
 # -------------------------------------parameters----------------------------------------
 dataset_name = 'abalone19'
 dataset_index = '1'
-record_index = '1'
 
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 # test_file_name = './test_{0}/standlization_data/{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
-record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)
+record_path = './test_{0}/pca_2_pic/'.format(dataset_name)
 record_file_name = record_path + '{0}_pca_{1}.pdf'.format(dataset_name, dataset_index)
 # scaler_name = record_path + 'scaler_' + dataset_index + '.m'
 # record_train_file_name = record_path + '{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
@@ -231,8 +231,8 @@ print('----------------------\n\n\n')
 
 # 原始数据 pca
 train_data, train_label = loadTrainData(train_file_name)
-pca_train_data = condense_data_pca(train_data)
-kernel_pca_train_data = condense_data_kernel_pca(train_data)
+tsne_train_data = condense_data_tsne(train_data)
+# kernel_pca_train_data = condense_data_kernel_pca(train_data)
 
 
 
@@ -240,8 +240,8 @@ positive_data, negative_data = divide_data(train_data, train_label)
 
 # concat mirror
 concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
-pca_concat_mirror_train_data = condense_data_pca(concat_mirror_train_data)
-kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
+pca_concat_mirror_train_data = condense_data_tsne(concat_mirror_train_data)
+# kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
 
 
 # concat not mirror
@@ -309,8 +309,8 @@ ax21.scatter(pca_neg_concat_not_mirror_data[:, 0], pca_neg_concat_not_mirror_dat
 ax21.set_title('concat not mirror pca')
 ax21.legend(loc=0)
 
-ax22.scatter(kernel_pca_pos_concat_not_mirror_data[:, 0], kernel_pca_pos_concat_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax22.scatter(kernel_pca_neg_concat_not_mirror_data[:, 0], kernel_pca_neg_concat_not_mirror_data[:, 1], s=1, color='b', label='neg')
+ax22.scatter(kernel_pca_pos_concat_not_mirror_data[:, 0], kernel_pca_pos_concat_not_mirror_data[:, 1], color='r', label='pos')
+ax22.scatter(kernel_pca_neg_concat_not_mirror_data[:, 0], kernel_pca_neg_concat_not_mirror_data[:, 1], color='b', label='neg')
 ax22.set_title('concat not mirror kernel pca')
 ax22.legend(loc=0)
 
