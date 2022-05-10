@@ -271,7 +271,7 @@ def plot_two_pca_fig(pca_data, kernel_pca_data, label, record_path, dataset_name
     ax2.legend(loc=0)
 
     record_file_postfix = 'minus_mirror_data_pca'
-    plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+    fig.suptitle(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
     record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
 
     plt.savefig(record_file_name)
