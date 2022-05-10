@@ -7,6 +7,8 @@ import sys
 # from sklearn.externals import joblib
 import joblib
 import time
+import sklearn.preprocessing as skpre
+from sklearn.decomposition import PCA
 # import handle_data
 # import predict_test
 import pandas as pd
@@ -67,7 +69,8 @@ print('----------------------\n\n\n')
 
 
 train_data, train_label = loadTrainData(train_file_name)
-scaler = standardize_data(train_data)
+scaler = skpre.StandardScaler()
+scaler.fit(train_data)
 train_data = scaler.transform(train_data)
 std_train_data = np.hstack((train_data, train_label))
 np.savetxt(record_train_file_name, std_train_data, delimiter=',')
