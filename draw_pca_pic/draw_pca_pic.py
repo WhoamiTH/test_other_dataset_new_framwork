@@ -165,11 +165,15 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
     
     
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
+    print(transfrom_positive_data.shape)
     transfrom_positive_data = transfrom_positive_data[positive_index]
     transform_positive_label = np.ones(transfrom_positive_data.shape[0]).reshape(-1, 1)
 
 
     transfrom_negetive_data = np.hstack( (negetive_tile_data, positive_repeat_data) )
+    print(transfrom_negetive_data.shape)
+    print(type(negetive_index))
+    print(negetive_index.shape)
     transfrom_negetive_data = transfrom_negetive_data[negetive_index]
     transform_negetive_label = np.zeros(transfrom_negetive_data.shape[0]).reshape(-1, 1)
 
