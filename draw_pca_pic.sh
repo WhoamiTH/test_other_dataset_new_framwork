@@ -2,13 +2,13 @@
 set -e
 
 
-mkdir -p ./test_abalone19/draw_pca_pic/record_1/
+# mkdir -p ./test_abalone19/draw_pca_pic/record_1/
 
-python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=1 record_index=1
-python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=2 record_index=1
-python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=3 record_index=1
-python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=4 record_index=1
-python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=5 record_index=1
+# python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=1 record_index=1
+# python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=2 record_index=1
+# python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=3 record_index=1
+# python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=4 record_index=1
+# python3 ./draw_pca_pic/draw_original_tsne.py dataset_name=abalone19 dataset_index=5 record_index=1
 
 
 
