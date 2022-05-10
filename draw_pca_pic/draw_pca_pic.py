@@ -5,6 +5,8 @@ import sys
 # import sklearn.linear_model as sklin
 # import sklearn.tree as sktree
 from sklearn.externals import joblib
+from sklearn.decomposition import PCA
+from sklearn.decomposition import KernelPCA
 # import joblib
 import time
 import sklearn.preprocessing as skpre
