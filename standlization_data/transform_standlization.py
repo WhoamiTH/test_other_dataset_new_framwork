@@ -5,7 +5,7 @@ import sys
 # import sklearn.linear_model as sklin
 # import sklearn.tree as sktree
 # from sklearn.externals import joblib
-# import joblib
+import joblib
 import time
 # import handle_data
 # import predict_test
@@ -14,7 +14,19 @@ import numpy as np
 
 
 
-
+def loadTrainData(file_name):
+    # file_data = pd.read_csv(file_name)
+    file_data = np.loadtxt(file_name, delimiter=',')
+    # data = file_data.values
+    label = file_data[:,-1]
+    # data = np.delete(data, 0, axis=1)
+    data = np.delete(file_data, -1, axis=1)
+    # data = np.delete(data, 0, axis=1)
+    data = data.astype(np.float64)
+    label = label.reshape(-1, 1)
+    label = label.astype(np.int)
+    # data = pd.DataFrame(data)
+    return data, label
 
 
 def set_para():
@@ -39,7 +51,7 @@ set_para()
 train_file_name = './test_{0}/origin_data/{0}_train_{1}.csv'.format(dataset_name, dataset_index)
 test_file_name = './test_{0}/origin_data/{0}_test_{1}.csv'.format(dataset_name, dataset_index)
 record_path = './test_{0}/standlization_data/'.format(dataset_name)
-scaler_name = model_record_path + 'scaler_' + dataset_index + '.m'
+scaler_name = record_path + 'scaler_' + dataset_index + '.m'
 record_train_file_name = record_path + '{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 record_test_file_name = record_path + '{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
 
@@ -50,22 +62,18 @@ print(record_path)
 print(scaler_name)
 print(record_train_file_name)
 print(record_test_file_name)
+print('----------------------\n\n\n')
 
 
-# # file_number = re.findall(r"\d+", file_name)[-1]
-# scaler_name = model_record_path + method_name + '_' + scaler_name
-# train_data, train_label = handle_data.loadTrainData(file_name)
 
-# train_data = train_data.values
-# train_data = train_data.astype(np.float64)
+train_data, train_label = loadTrainData(train_file_name)
+scaler = standardize_data(train_data)
+train_data = scaler.transform(train_data)
+std_train_data = np.hstack((train_data, train_label))
+np.savetxt(record_train_file_name, std_train_data, delimiter=',')
+joblib.dump(scaler, scaler_name)
 
-
-# scaler = standardize_data(train_data)
-# train_data = scaler.transform(train_data)
-    
-# joblib.dump(scaler, scaler_name)
-
-
-# running_time = finish-start
-
-# print('running time is {0}'.format(running_time))
+test_data, test_label = loadTrainData(test_file_name)
+test_data = scaler.transform(test_data)
+std_test_data = np.hstack((test_data, test_label))
+np.savetxt(record_train_file_name, std_test_data, delimiter=',')

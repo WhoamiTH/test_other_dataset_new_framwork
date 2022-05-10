@@ -10,7 +10,7 @@ with open('standlization_execute.sh','w') as fsh:
     fsh.write('set -e\n\n\n')
     for dataset in dataset_list:
         for dataset_index in range(1, 1+data_range):
-            fsh.write('python ./standlization_data/transform_standlization.py dataset_name={0} dataset_index={1}\n'.format(dataset, dataset_index))
+            fsh.write('python3 ./standlization_data/transform_standlization.py dataset_name={0} dataset_index={1}\n'.format(dataset, dataset_index))
 
 
 
