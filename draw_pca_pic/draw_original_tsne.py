@@ -11,9 +11,11 @@ import sys
 from sklearn.externals import joblib
 from sklearn.decomposition import PCA
 from sklearn.decomposition import KernelPCA
+from sklearn.manifold import TSNE 
 # import joblib
 import time
 import sklearn.preprocessing as skpre
+
 
 import pandas as pd
 import numpy as np
