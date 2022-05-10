@@ -243,7 +243,7 @@ positive_data, negative_data = divide_data(train_data, train_label)
 minus_mirror_train_data, minus_mirror_train_label = handleData_minus_mirror(positive_data, negative_data)
 tsne_minus_mirror_train_data = condense_data_tsne(minus_mirror_train_data)
 
-pos_tsne_train_data, neg_tsne_train_data = devide_data(tsne_minus_mirror_train_data, minus_mirror_train_label)
+pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_minus_mirror_train_data, minus_mirror_train_label)
 
 
 
