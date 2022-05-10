@@ -1,0 +1,14 @@
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./draw_pca_pic/draw_original_tsne.py", line 234, in <module>
+    tsne_train_data = condense_data_tsne(train_data)
+  File "./draw_pca_pic/draw_original_tsne.py", line 26, in condense_data_tsne
+    tsne = TSNE(n_components=num_of_components)
+NameError: name 'TSNE' is not defined

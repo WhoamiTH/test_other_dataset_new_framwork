@@ -1,0 +1,67 @@
+nohup: ignoring input
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./draw_pca_pic/draw_original_tsne.py", line 260, in <module>
+    plot_tsne_fig(pos_tsne_train_data, neg_tsne_train_data, record_path, dataset_name, dataset_index )
+  File "./draw_pca_pic/draw_original_tsne.py", line 258, in plot_tsne_fig
+    plt.savefig(record_file_name)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/matplotlib/pyplot.py", line 695, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/matplotlib/figure.py", line 2062, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/matplotlib/backend_bases.py", line 2263, in print_figure
+    **kwargs)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/matplotlib/backends/backend_pdf.py", line 2578, in print_pdf
+    file = PdfFile(filename, metadata=kwargs.pop("metadata", None))
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/matplotlib/backends/backend_pdf.py", line 438, in __init__
+    fh, opened = cbook.to_filehandle(filename, "wb", return_opened=True)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/matplotlib/cbook/__init__.py", line 611, in to_filehandle
+    fh = io.open(fname, flag, encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: './test_ecoli1/draw_pca_pic/record_1/ecoli1_1_original_data_tsne.pdf'
