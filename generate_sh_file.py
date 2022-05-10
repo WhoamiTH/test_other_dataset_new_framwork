@@ -23,9 +23,8 @@ with open('draw_pca_pic.sh','w') as fsh:
     fsh.write('#!/bin/bash\n')
     fsh.write('set -e\n\n\n')
     for dataset in dataset_list:
-        fsh.write('mkdir -p ./test_{0}/draw_pca_pic/record_1/\n\n'.format(dataset))
         for dataset_index in range(1, 1+data_range):
-            fsh.write('python3 ./draw_pca_pic/draw_original_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('python3 ./draw_pca_pic/draw_original_pca_pic.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
         fsh.write('\n\n\n')
 
 
