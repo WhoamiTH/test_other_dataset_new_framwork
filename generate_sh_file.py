@@ -1,21 +1,42 @@
 
-# -*- coding:utf-8 -*-
+# # -*- coding:utf-8 -*-
+# import sys
+
+# dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+# data_range = 5
+
+# with open('standlization_execute.sh','w') as fsh:
+#     fsh.write('#!/bin/bash\n')
+#     fsh.write('set -e\n\n\n')
+#     for dataset in dataset_list:
+#         for dataset_index in range(1, 1+data_range):
+#             fsh.write('python3 ./standlization_data/transform_standlization.py dataset_name={0} dataset_index={1}\n'.format(dataset, dataset_index))
+
+
+
+
+
+
+
+
+
+
+# ------------------------------- 任务 --------------------------------------------
+# change_dir_name 把 1_year_data 改名 并且将 1_year_result 删除掉
+
 import sys
 
-dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
-data_range = 5
 
-with open('standlization_execute.sh','w') as fsh:
+dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+
+with open('mkdir_standlization_name.sh','w') as fsh:
     fsh.write('#!/bin/bash\n')
     fsh.write('set -e\n\n\n')
     for dataset in dataset_list:
-        for dataset_index in range(1, 1+data_range):
-            fsh.write('python3 ./standlization_data/transform_standlization.py dataset_name={0} dataset_index={1}\n'.format(dataset, dataset_index))
-
-
-
-
-
+        fsh.write('cd test_{0}\n'.format(dataset))
+        fsh.write('mkdir -p standlization_data\n')
+        fsh.write('cd ..\n')
+        fsh.write('\n\n')
 
 
 
