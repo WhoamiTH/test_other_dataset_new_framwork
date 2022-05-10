@@ -54,6 +54,8 @@ def divide_data(Data, Label):
 
 
 
+
+
 def handleData_minus_mirror(positive_data, negative_data):
     # 生成镜像数据
     length_pos = positive_data.shape[0]
@@ -192,6 +194,7 @@ def handleData_extend_not_mirror(positive_data, negative_data, positive_value=1,
 
     return transformed_data, transformed_label
 
+
 def loadTrainData(file_name):
     file_data = np.loadtxt(file_name, delimiter=',')
     label = file_data[:,-1]
@@ -225,161 +228,43 @@ record_index = '1'
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-# test_file_name = './test_{0}/standlization_data/{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
 record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)
-# record_file_name = record_path + '{0}_pca_{1}.pdf'.format(dataset_name, dataset_index)
-# scaler_name = record_path + 'scaler_' + dataset_index + '.m'
-# record_train_file_name = record_path + '{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-# record_test_file_name = record_path + '{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
 
 # ----------------------------------start processing-------------------------------------
 print(train_file_name)
-# print(test_file_name)
 print(record_path)
-# print(scaler_name)
-# print(record_file_name)
 print('----------------------\n\n\n')
 
 
 # 原始数据 pca
 train_data, train_label = loadTrainData(train_file_name)
-pca_train_data = condense_data_pca(train_data)
-kernel_pca_train_data = condense_data_kernel_pca(train_data)
-
-
 
 positive_data, negative_data = divide_data(train_data, train_label)
 
-# concat mirror
-concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
-pca_concat_mirror_train_data = condense_data_pca(concat_mirror_train_data)
-kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
-
-
-# concat not mirror
-concat_not_mirror_train_data, concat_not_mirror_train_label = handleData_extend_not_mirror(positive_data, negative_data)
-pca_concat_not_mirror_train_data = condense_data_pca(concat_not_mirror_train_data)
-kernel_pca_concat_not_mirror_train_data = condense_data_kernel_pca(concat_not_mirror_train_data)
-
-# minus mirror
-minus_mirror_train_data, minus_mirror_train_label = handleData_minus_mirror(positive_data, negative_data)
-pca_minus_mirror_train_data = condense_data_pca(minus_mirror_train_data)
-kernel_pca_minus_mirror_train_data = condense_data_kernel_pca(minus_mirror_train_data)
-
 # minus not mirror
 minus_not_mirror_train_data, minus_not_mirror_train_label = handleData_minus_not_mirror(positive_data, negative_data)
-pca_minus_not_mirror_train_data = condense_data_pca(minus_not_mirror_train_data)
-kernel_pca_minus_not_mirror_train_data = condense_data_kernel_pca(minus_not_mirror_train_data)
+tsne_minus_not_mirror_train_data = condense_data_tsne(minus_not_mirror_train_data)
 
+pos_tsne_train_data, neg_tsne_train_data = devide_data(tsne_minus_not_mirror_train_data, minus_not_mirror_train_label)
 
-# 画图部分，plt 比较麻烦，暂时就重复建图了
-fig, [ax1, ax2] = plt.subplots(1,2)
-# ax2 = ax1.twinx() twinx 用于新增个图
+def plot_tsne_fig(pos_data, neg_data, record_path, dataset_name, dataset_index):
+    '''
+        仅绘画一张图，根据 tsne 绘制
+    '''
+    # 画图部分，plt 比较麻烦，暂时就重复建图了
 
-# 原始数据 pca 及 kernel pca
-# ax01, ax02 = axs[0]
-pca_pos_train_data, pca_neg_train_data = divide_data(pca_train_data, train_label)
-kernel_pca_pos_train_data, kernel_pca_neg_train_data = divide_data(kernel_pca_train_data, train_label)
+    plt.figure()
+    plt.scatter(pos_data[:, 0], pos_data[:, 1], s=1, color='r', label='pos')
+    plt.scatter(neg_data[:, 0], neg_data[:, 1], s=1, color='b', label='neg')
+    # plt.set_title('original pca')
+    # plt.xlabel('test week')
+    # plt.ylabel('Fscore')
+    plt.legend(loc='upper left')
 
-ax1.scatter(pca_pos_train_data[:, 0], pca_pos_train_data[:, 1], color='r', label='pos')
-ax1.scatter(pca_neg_train_data[:, 0], pca_neg_train_data[:, 1], color='b', label='neg')
-ax1.set_title('original pca')
-ax1.legend(loc=0)
+    record_file_postfix = 'minus_not_mirror_data_tsne'
+    plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+    record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
 
-ax2.scatter(kernel_pca_pos_train_data[:, 0], kernel_pca_pos_train_data[:, 1], color='r', label='pos')
-ax2.scatter(kernel_pca_neg_train_data[:, 0], kernel_pca_neg_train_data[:, 1], color='b', label='neg')
-ax2.set_title('original kernel pca')
-ax2.legend(loc=0)
+    plt.savefig(record_file_name)
 
-plt.title(dataset_name + '_' + dataset_index + 'original_data')
-record_file_name = record_path + '{0}_pca_{1}_original_data.pdf'.format(dataset_name, dataset_index)
-plt.savefig(record_file_name)
-
-
-# concat mirror 数据 pca 及 kernel pca
-fig, [ax1, ax2] = plt.subplots(1,2)
-pca_pos_concat_mirror_data, pca_neg_concat_mirror_data = divide_data(pca_concat_mirror_train_data, concat_mirror_train_label)
-kernel_pca_pos_concat_mirror_data, kernel_pca_neg_concat_mirror_data = divide_data(kernel_pca_concat_mirror_train_data, concat_mirror_train_label)
-
-ax1.scatter(pca_pos_concat_mirror_data[:, 0], pca_pos_concat_mirror_data[:, 1], color='r', s=1, label='pos')
-ax1.scatter(pca_neg_concat_mirror_data[:, 0], pca_neg_concat_mirror_data[:, 1], color='b', s=1, label='neg')
-ax1.set_title('concat mirror pca')
-ax1.legend(loc=0)
-
-ax2.scatter(kernel_pca_pos_concat_mirror_data[:, 0], kernel_pca_pos_concat_mirror_data[:, 1], s=1, color='r', label='pos')
-ax2.scatter(kernel_pca_neg_concat_mirror_data[:, 0], kernel_pca_neg_concat_mirror_data[:, 1], s=1, color='b', label='neg')
-ax2.set_title('concat mirror kernel pca')
-ax2.legend(loc=0)
-
-plt.title(dataset_name + '_' + dataset_index + 'concat_mirror_data')
-record_file_name = record_path + '{0}_pca_{1}_concat_mirror_data.pdf'.format(dataset_name, dataset_index)
-plt.savefig(record_file_name)
-
-
-
-# concat not mirror 数据 pca 及 kernel pca
-fig, [ax1, ax2] = plt.subplots(1,2)
-pca_pos_concat_not_mirror_data, pca_neg_concat_not_mirror_data = divide_data(pca_concat_not_mirror_train_data, concat_not_mirror_train_label)
-kernel_pca_pos_concat_not_mirror_data, kernel_pca_neg_concat_not_mirror_data = divide_data(kernel_pca_concat_not_mirror_train_data, concat_not_mirror_train_label)
-
-ax1.scatter(pca_pos_concat_not_mirror_data[:, 0], pca_pos_concat_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax1.scatter(pca_neg_concat_not_mirror_data[:, 0], pca_neg_concat_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax1.set_title('concat not mirror pca')
-ax1.legend(loc=0)
-
-ax2.scatter(kernel_pca_pos_concat_not_mirror_data[:, 0], kernel_pca_pos_concat_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax2.scatter(kernel_pca_neg_concat_not_mirror_data[:, 0], kernel_pca_neg_concat_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax2.set_title('concat not mirror kernel pca')
-ax2.legend(loc=0)
-
-plt.title(dataset_name + '_' + dataset_index + 'concat_not_mirror_data')
-record_file_name = record_path + '{0}_pca_{1}_concat_not_mirror_data.pdf'.format(dataset_name, dataset_index)
-plt.savefig(record_file_name)
-
-
-# minus mirror 数据 pca 及 kernel pca
-fig, [ax1, ax2] = plt.subplots(1,2)
-pca_pos_minus_mirror_data, pca_neg_minus_mirror_data = divide_data(pca_minus_mirror_train_data, minus_mirror_train_label)
-kernel_pca_pos_minus_mirror_data, kernel_pca_neg_minus_mirror_data = divide_data(kernel_pca_minus_mirror_train_data, minus_mirror_train_label)
-
-ax1.scatter(pca_pos_minus_mirror_data[:, 0], pca_pos_minus_mirror_data[:, 1], s=1, color='r', label='pos')
-ax1.scatter(pca_neg_minus_mirror_data[:, 0], pca_neg_minus_mirror_data[:, 1], s=1, color='b', label='neg')
-ax1.set_title('minus mirror pca')
-ax1.legend(loc=0)
-
-ax2.scatter(kernel_pca_pos_minus_mirror_data[:, 0], kernel_pca_pos_minus_mirror_data[:, 1], s=1, color='r', label='pos')
-ax2.scatter(kernel_pca_neg_minus_mirror_data[:, 0], kernel_pca_neg_minus_mirror_data[:, 1], s=1, color='b', label='neg')
-ax2.set_title('minus mirror kernel pca')
-ax2.legend(loc=0)
-
-plt.title(dataset_name + '_' + dataset_index + 'minus_mirror_data')
-record_file_name = record_path + '{0}_pca_{1}_minus_mirror_data.pdf'.format(dataset_name, dataset_index)
-plt.savefig(record_file_name)
-
-
-# minus not mirror 数据 pca 及 kernel pca
-fig, [ax1, ax2] = plt.subplots(1,2)
-pca_pos_minus_not_mirror_data, pca_neg_minus_not_mirror_data = divide_data(pca_minus_not_mirror_train_data, minus_not_mirror_train_label)
-kernel_pca_pos_minus_not_mirror_data, kernel_pca_neg_minus_not_mirror_data = divide_data(kernel_pca_minus_not_mirror_train_data, minus_not_mirror_train_label)
-
-ax1.scatter(pca_pos_minus_not_mirror_data[:, 0], pca_pos_minus_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax1.scatter(pca_neg_minus_not_mirror_data[:, 0], pca_neg_minus_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax1.set_title('minus not mirror pca')
-ax1.legend(loc=0)
-
-ax2.scatter(kernel_pca_pos_minus_not_mirror_data[:, 0], kernel_pca_pos_minus_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax2.scatter(kernel_pca_neg_minus_not_mirror_data[:, 0], kernel_pca_neg_minus_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax2.set_title('minus not mirror kernel pca')
-ax2.legend(loc=0)
-
-plt.title(dataset_name + '_' + dataset_index + 'minus_not_mirror_data')
-record_file_name = record_path + '{0}_pca_{1}_minus_not_mirror_data.pdf'.format(dataset_name, dataset_index)
-plt.savefig(record_file_name)
-
-
-
-# plt.title(dataset_name + '_' + dataset_index)
-# plt.savefig(record_file_name)
-
-
-
+plot_tsne_fig(pos_tsne_train_data, neg_tsne_train_data, record_path, dataset_name, dataset_index )

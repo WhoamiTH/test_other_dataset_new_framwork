@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+'''
+    将所有数据都画在一张图里，但是会有超内存的问题，所以需要分开运算，分开画，全放在一个文件里不行
+'''
+
 import sys
 # sys.path.append('..')
 # import sklearn.svm as sksvm
