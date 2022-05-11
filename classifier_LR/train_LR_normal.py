@@ -52,7 +52,7 @@ model_record_path = './test_{0}/model_normal_LR/record_{1}/'.format(dataset_name
 
 # ----------------------------------start processing-------------------------------------
 print(train_file_name)
-print(record_path)
+print(model_record_path)
 print('----------------------\n\n\n')
 
 model_name = model_record_path + 'normal_LR_{0}.m'.format(dataset_index)
