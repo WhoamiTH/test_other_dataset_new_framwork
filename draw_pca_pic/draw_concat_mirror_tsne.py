@@ -256,8 +256,11 @@ def plot_tsne_fig(pos_data, neg_data, record_path, dataset_name, dataset_index):
     # 画图部分，plt 比较麻烦，暂时就重复建图了
 
     plt.figure()
-    plt.scatter(pos_data[:, 0], pos_data[:, 1], s=1, color='r', label='pos')
-    plt.scatter(neg_data[:, 0], neg_data[:, 1], s=1, color='b', label='neg')
+    # plt.scatter(pos_data[:, 0], pos_data[:, 1], s=1, color='r', label='pos')
+    # plt.scatter(neg_data[:, 0], neg_data[:, 1], s=1, color='b', label='neg')
+    plt.plot(pos_data[:, 0], pos_data[:, 1], marker='o', markersize=12, color='r', label='pos')
+    plt.plot(neg_data[:, 0], neg_data[:, 1], marker='o', markersize=12, color='b', label='neg')
+
     # plt.set_title('original pca')
     # plt.xlabel('test week')
     # plt.ylabel('Fscore')
