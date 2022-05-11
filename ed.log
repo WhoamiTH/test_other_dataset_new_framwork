@@ -7,7 +7,27 @@ nohup: ignoring input
 
 
 
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/draw_pca_pic/record_1/
+----------------------
+
+
+
 Traceback (most recent call last):
-  File "./draw_pca_pic/draw_concat_mirror_tsne.py", line 245, in <module>
-    pos_tsne_train_data, neg_tsne_train_data = devide_data(tsne_concat_mirror_train_data, concat_mirror_train_label)
-NameError: name 'devide_data' is not defined
+  File "./draw_pca_pic/draw_concat_mirror_pca.py", line 243, in <module>
+    kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
+  File "./draw_pca_pic/draw_concat_mirror_pca.py", line 42, in condense_data_kernel_pca
+    kernelpca.fit(Data)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/decomposition/kernel_pca.py", line 277, in fit
+    self._fit_transform(K)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/decomposition/kernel_pca.py", line 185, in _fit_transform
+    K = self._centerer.fit_transform(K)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py", line 553, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/preprocessing/data.py", line 1951, in transform
+    K = check_array(K, copy=copy, dtype=FLOAT_DTYPES)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/utils/validation.py", line 566, in check_array
+    array = np.array(array, dtype=dtype, order=order)
+MemoryError
