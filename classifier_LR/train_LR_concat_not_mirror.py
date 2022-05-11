@@ -195,7 +195,7 @@ print(train_file_name)
 
 model_name = model_record_path + 'LR_concat_not_mirror_{0}.m'.format(dataset_index)
 print(model_name)
-train_data, train_label = handle_data.loadTrainData(file_name)
+train_data, train_label = handle_data.loadTrainData(train_file_name)
 
 
 

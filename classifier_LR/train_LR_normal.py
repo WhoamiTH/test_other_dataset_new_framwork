@@ -57,7 +57,7 @@ print('----------------------\n\n\n')
 
 model_name = model_record_path + 'normal_LR_{0}.m'.format(dataset_index)
 print(model_name)
-train_data, train_label = loadTrainData(file_name)
+train_data, train_label = loadTrainData(train_file_name)
 
 # start = clock()
 start = time.process_time()
