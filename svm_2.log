@@ -1,0 +1,1351 @@
+nohup: ignoring input
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_1.m
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_1.m
+running time is 0.012129772999999955
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_2.m
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_2.m
+running time is 0.014504874000000001
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_3.m
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_3.m
+running time is 0.014234585999999938
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_4.m
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_4.m
+running time is 0.016802717999999994
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_5.m
+./test_yeast5/model_SVM_RBF/record_1/SVM_RBF_5.m
+running time is 0.012324058999999998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_1.m
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_1.m
+running time is 75.73386259899999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_2.m
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_2.m
+running time is 134.47537321500002
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_3.m
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_3.m
+running time is 67.065489884
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_4.m
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_4.m
+running time is 85.19088306200001
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_5.m
+./test_yeast5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_5.m
+running time is 82.573310754
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_1.m
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_1.m
+running time is 313.096655665
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_2.m
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_2.m
+running time is 338.137319507
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_3.m
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_3.m
+running time is 503.05055065700003
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_4.m
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_4.m
+running time is 441.703509645
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_5.m
+./test_yeast5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_5.m
+running time is 401.947076094
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+running time is 68.910813802
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+running time is 69.312526909
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+running time is 63.500837113
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+running time is 77.02494676
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+running time is 75.94016275899999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+running time is 79.912497655
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+running time is 83.689301082
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+running time is 67.85906490299999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+running time is 79.958938667
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+running time is 74.796928907
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_1.m
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_1.m
+running time is 0.013011368999999995
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_2.m
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_2.m
+running time is 0.010903015000000016
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_3.m
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_3.m
+running time is 0.010031997000000015
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_4.m
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_4.m
+running time is 0.009285537999999982
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_5.m
+./test_yeast5/model_SVM_POLY/record_1/SVM_POLY_5.m
+running time is 0.01329270700000007
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_1.m
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_1.m
+running time is 55.649944493
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_2.m
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_2.m
+running time is 164.944438197
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_3.m
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_3.m
+running time is 65.448572627
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_4.m
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_4.m
+running time is 83.21262497
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_5.m
+./test_yeast5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_5.m
+running time is 73.45462548
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_1.m
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_1.m
+running time is 367.459726944
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_2.m
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_2.m
+running time is 420.799742774
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_3.m
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_3.m
+running time is 360.860631453
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_4.m
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_4.m
+running time is 419.30617745
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_5.m
+./test_yeast5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_5.m
+running time is 408.66916143
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+running time is 66.730701385
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+running time is 146.39600239499998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+running time is 62.438709269
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+running time is 68.353767572
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+running time is 59.677155089
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+running time is 54.847911337999996
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+running time is 55.500109933
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+running time is 50.608420523
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+running time is 60.067415632999996
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+running time is 57.862986881
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_1.m
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_1.m
+running time is 0.0010844030000000116
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_2.m
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_2.m
+running time is 0.0009071449999999981
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_3.m
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_3.m
+running time is 0.0010730389999999979
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_4.m
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_4.m
+running time is 0.000879387999999981
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_5.m
+./test_glass5/model_SVM_RBF/record_1/SVM_RBF_5.m
+running time is 0.0008207000000000075
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_1.m
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_1.m
+running time is 0.023536344000000042
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_2.m
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_2.m
+running time is 0.018933093000000012
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_3.m
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_3.m
+running time is 0.015049996999999982
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_4.m
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_4.m
+running time is 0.02133315800000002
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_5.m
+./test_glass5/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_5.m
+running time is 0.02094599599999991
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_1.m
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_1.m
+running time is 0.07319920499999999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_2.m
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_2.m
+running time is 0.057975614000000064
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_3.m
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_3.m
+running time is 0.043180960000000046
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_4.m
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_4.m
+running time is 0.05133477799999997
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_5.m
+./test_glass5/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_5.m
+running time is 0.07402094000000004
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+running time is 0.029954065999999946
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+running time is 0.016352805000000026
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+running time is 0.01952214200000002
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+running time is 0.021041267999999946
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+running time is 0.018027160000000042
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+running time is 0.022569381000000055
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+running time is 0.017081879000000022
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+running time is 0.016850527000000004
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+running time is 0.01667584100000008
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+running time is 0.01838727699999998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_1.m
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_1.m
+running time is 0.0010169509999999882
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_2.m
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_2.m
+running time is 0.0007865500000000525
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_3.m
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_3.m
+running time is 0.00094126299999997
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_4.m
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_4.m
+running time is 0.0007170359999999487
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_5.m
+./test_glass5/model_SVM_POLY/record_1/SVM_POLY_5.m
+running time is 0.0007313209999999515
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_1.m
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_1.m
+running time is 0.018649494000000044
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_2.m
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_2.m
+running time is 0.014007583000000046
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_3.m
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_3.m
+running time is 0.015946187000000056
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_4.m
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_4.m
+running time is 0.016335509000000026
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_5.m
+./test_glass5/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_5.m
+running time is 0.01854170200000005
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_1.m
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_1.m
+running time is 0.06356015700000006
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_2.m
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_2.m
+running time is 0.047446063000000094
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_3.m
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_3.m
+running time is 0.05051682499999999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_4.m
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_4.m
+running time is 0.046034589000000015
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_5.m
+./test_glass5/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_5.m
+running time is 0.043680643999999935
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+running time is 0.025527226999999986
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+running time is 0.014108432000000004
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+running time is 0.012580486000000057
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+running time is 0.014214198999999983
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+running time is 0.015020774000000015
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+running time is 0.018775115999999925
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+running time is 0.01432132999999991
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+running time is 0.012398780999999914
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+running time is 0.01365590300000008
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+running time is 0.01577190500000003
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_1.m
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_1.m
+running time is 0.01091721499999998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_2.m
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_2.m
+running time is 0.011057258000000014
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_3.m
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_3.m
+running time is 0.012862567999999963
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_4.m
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_4.m
+running time is 0.011770269
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_5.m
+./test_vehicle0/model_SVM_RBF/record_1/SVM_RBF_5.m
+running time is 0.015486843000000028
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_1.m
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_1.m
+running time is 25.004134387
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_2.m
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_2.m
+running time is 106.280757899
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_3.m
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_3.m
+running time is 35.272249007
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_4.m
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_4.m
+running time is 129.031583326
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_5.m
+./test_vehicle0/model_SVM_RBF_minus_not_mirror/record_1/SVM_RBF_minus_not_mirror_5.m
+running time is 121.255314378
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_1.m
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_1.m
+running time is 89.830160505
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_2.m
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_2.m
+running time is 107.14996568
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_3.m
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_3.m
+running time is 95.024819753
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_4.m
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_4.m
+running time is 212.939007403
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_5.m
+./test_vehicle0/model_SVM_RBF_minus_mirror/record_1/SVM_RBF_minus_mirror_5.m
+running time is 114.030599345
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+running time is 25.762956491999997
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+running time is 117.410549049
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+running time is 27.938193217
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+running time is 112.79077022599999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+running time is 152.896591467
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+running time is 27.515774699999998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+running time is 116.170300804
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+running time is 27.528889928999998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+running time is 107.71867115900001
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+running time is 27.890520208999998
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_1.m
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_1.m
+running time is 0.009099424000000078
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_2.m
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_2.m
+running time is 0.016191130000000054
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_3.m
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_3.m
+running time is 0.009199503000000053
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_4.m
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_4.m
+running time is 0.007888165000000003
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY/record_1/
+----------------------
+
+
+
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_5.m
+./test_vehicle0/model_SVM_POLY/record_1/SVM_POLY_5.m
+running time is 0.009078359999999952
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_1.m
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_1.m
+running time is 55.587555863000006
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_2.m
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_2.m
+running time is 90.295737231
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_3.m
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_3.m
+running time is 99.17534413199999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_4.m
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_4.m
+running time is 129.613720766
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_5.m
+./test_vehicle0/model_SVM_POLY_minus_not_mirror/record_1/SVM_POLY_minus_not_mirror_5.m
+running time is 97.701840745
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_1.m
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_1.m
+running time is 355.402004052
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_2.m
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_2.m
+running time is 189.651256312
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_3.m
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_3.m
+running time is 298.756597276
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_4.m
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_4.m
+running time is 467.644441105
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_5.m
+./test_vehicle0/model_SVM_POLY_minus_mirror/record_1/SVM_POLY_minus_mirror_5.m
+running time is 586.739368185
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+running time is 43.733690243999995
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+running time is 89.63087759
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+running time is 76.342581802
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+running time is 117.04002151899999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+running time is 91.18730449099999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+running time is 130.673349218
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+running time is 123.986335581
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+running time is 80.44300752699999
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+running time is 102.617237159
+
+
+/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+running time is 79.77304305899999
+
+
