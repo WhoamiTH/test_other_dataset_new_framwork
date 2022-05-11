@@ -112,7 +112,7 @@ dataset_name = 'abalone19'
 dataset_index = '1'
 record_index = '1'
 device_id = '1'
-method_name = 'MLP_normal'
+method_name = 'MLP_minus_not_mirror'
 num_epochs = 5000
 batch_size = 50
 # ----------------------------------set parameters---------------------------------------
