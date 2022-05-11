@@ -1,26 +1,81 @@
 nohup: ignoring input
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
 ./test_abalone19/standlization_data/abalone19_std_train_1.csv
-./test_abalone19/draw_pca_pic/record_1/
-./test_abalone19/draw_pca_pic/record_1/abalone19_pca_1.pdf
-----------------------
-
-
-
-Traceback (most recent call last):
-  File "./draw_pca_pic/draw_pca_pic.py", line 244, in <module>
-    kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
-  File "./draw_pca_pic/draw_pca_pic.py", line 30, in condense_data_kernel_pca
-    kernelpca.fit(Data)
-  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/decomposition/kernel_pca.py", line 238, in fit
-    K = self._get_kernel(X)
-  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/decomposition/kernel_pca.py", line 166, in _get_kernel
-    **params)
-  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/metrics/pairwise.py", line 1405, in pairwise_kernels
-    return _parallel_pairwise(X, Y, func, n_jobs, **kwds)
-  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/metrics/pairwise.py", line 1090, in _parallel_pairwise
-    return func(X, Y, **kwds)
-  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/metrics/pairwise.py", line 742, in linear_kernel
-    return safe_sparse_dot(X, Y.T, dense_output=True)
-  File "/home/junda/.conda/envs/thtf8/lib/python3.6/site-packages/sklearn/utils/extmath.py", line 140, in safe_sparse_dot
-    return np.dot(a, b)
-MemoryError
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_1.m
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_1.m
+running time is 0.38731380000000026
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_2.m
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_2.m
+running time is 0.39909912899999966
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_3.m
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_3.m
+running time is 0.6595169460000001
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_4.m
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_4.m
+running time is 0.514644594
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_5.m
+./test_abalone19/model_LR_minus_mirror/record_1/LR_minus_mirror_5.m
+running time is 0.504817428
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_1.m
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_1.m
+running time is 22.276979746000002
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_2.m
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_2.m
+running time is 14.835801959000001
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_3.m
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_3.m
+running time is 14.822332309
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_4.m
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_4.m
+running time is 14.510631829000001
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_5.m
+./test_pageblocks1/model_LR_minus_mirror/record_1/LR_minus_mirror_5.m
+running time is 14.674642202000001
