@@ -10,8 +10,6 @@ import sklearn.tree as sktree
 from sklearn.externals import joblib
 # import joblib
 import time
-import handle_data
-import predict_test
 import pandas as pd
 import numpy as np
 
