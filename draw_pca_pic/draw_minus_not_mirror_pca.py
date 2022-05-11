@@ -237,15 +237,16 @@ print('----------------------\n\n\n')
 
 # 原始数据 pca
 train_data, train_label = loadTrainData(train_file_name)
-
+print('read_data')
 positive_data, negative_data = divide_data(train_data, train_label)
 print('divide_data')
 
 # minus not mirror
 minus_not_mirror_train_data, minus_not_mirror_train_label = handleData_minus_not_mirror(positive_data, negative_data)
+print('data_transform')
 pca_minus_not_mirror_train_data = condense_data_pca(minus_not_mirror_train_data)
 kernel_pca_minus_not_mirror_train_data = condense_data_kernel_pca(minus_not_mirror_train_data)
-
+print('pac or tsne')
 
 
 

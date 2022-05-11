@@ -240,13 +240,15 @@ print('----------------------\n\n\n')
 
 # 原始数据 pca
 train_data, train_label = loadTrainData(train_file_name)
+print('read_data')
 positive_data, negative_data = divide_data(train_data, train_label)
 print('divide_data')
 
 # concat not mirror
 concat_not_mirror_train_data, concat_not_mirror_train_label = handleData_extend_not_mirror(positive_data, negative_data)
+print('data_transform')
 tsne_concat_not_mirror_train_data = condense_data_tsne(concat_not_mirror_train_data)
-
+print('pac or tsne')
 pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_concat_not_mirror_train_data, concat_not_mirror_train_label)
 
 
