@@ -202,7 +202,7 @@ print(train_file_name)
 
 model_name = model_record_path + 'LR_minus_not_mirror_{0}.m'.format(dataset_index)
 print(model_name)
-train_data, train_label = handle_data.loadTrainData(train_file_name)
+train_data, train_label = loadTrainData(train_file_name)
 
 
 
@@ -211,7 +211,7 @@ start = time.process_time()
 
 positive_data, negative_data = divide_data(train_data, train_label)
 transformed_train_data, transformed_train_label = handleData_minus_not_mirror(positive_data, negative_data)
-# train_data,train_label= handle_data.transform_data_to_compare_data(train_data, train_label, mirror_type, positive_value, negative_value)
+# train_data,train_label= transform_data_to_compare_data(train_data, train_label, mirror_type, positive_value, negative_value)
 
 start = time.process_time()
 
