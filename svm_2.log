@@ -1,67 +1,841 @@
 nohup: ignoring input
-/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
-  warnings.warn(msg, category=FutureWarning)
-./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
-./test_pageblocks1/model_SVM_POLY/record_1/
-----------------------
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_1.m
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_1.m
+running time is 1.258405562
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_2.m
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_2.m
+running time is 1.4376191980000002
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_3.m
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_3.m
+running time is 1.2026273969999997
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_4.m
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_4.m
+running time is 1.3081384710000004
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_5.m
+./test_yeast5/model_LR_concat_mirror/record_1/LR_concat_mirror_5.m
+running time is 1.2980980640000004
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_1.m
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_1.m
+running time is 0.9115388590000002
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_2.m
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_2.m
+running time is 0.7004572510000004
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_3.m
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_3.m
+running time is 0.6218559470000002
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_4.m
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_4.m
+running time is 0.7208145860000004
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_5.m
+./test_yeast5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_5.m
+running time is 0.6613331039999997
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+running time is 102.57262958300001
 
 
-
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_1.m
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_1.m
-running time is 0.039194976999999964
-
-
-/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
-  warnings.warn(msg, category=FutureWarning)
-./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
-./test_pageblocks1/model_SVM_POLY/record_1/
-----------------------
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+running time is 108.561050723
 
 
-
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_2.m
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_2.m
-running time is 0.03641150900000001
-
-
-/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
-  warnings.warn(msg, category=FutureWarning)
-./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
-./test_pageblocks1/model_SVM_POLY/record_1/
-----------------------
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+running time is 90.600025715
 
 
-
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_3.m
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_3.m
-running time is 0.05425810799999997
-
-
-/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
-  warnings.warn(msg, category=FutureWarning)
-./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
-./test_pageblocks1/model_SVM_POLY/record_1/
-----------------------
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+running time is 205.522327383
 
 
-
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_4.m
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_4.m
-running time is 0.04509378800000008
-
-
-/opt/anaconda/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
-  warnings.warn(msg, category=FutureWarning)
-./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
-./test_pageblocks1/model_SVM_POLY/record_1/
-----------------------
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+./test_yeast5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+running time is 111.880472497
 
 
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+running time is 398.585221312
 
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_5.m
-./test_pageblocks1/model_SVM_POLY/record_1/SVM_POLY_5.m
-running time is 0.06134089799999998
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+running time is 515.445564367
 
 
-train_svm_2.sh: line 17:  8075 Terminated              python3 ./classifier_SVM/train_SVM_POLY_minus_not_mirror.py dataset_name=pageblocks1 dataset_index=1 record_index=1
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+running time is 340.960432626
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+running time is 413.446987729
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+./test_yeast5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+running time is 546.353643124
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+running time is 243.088952019
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+running time is 124.57788668299999
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+running time is 79.62707028599999
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+running time is 212.283177448
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+./test_yeast5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+running time is 106.08595858
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+running time is 408.822959829
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+running time is 1206.877103035
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+running time is 430.936884725
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+running time is 464.409624706
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+./test_yeast5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+running time is 581.8641692340001
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_1.m
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_1.m
+running time is 0.009699277000000173
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_2.m
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_2.m
+running time is 0.00876489799999991
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_3.m
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_3.m
+running time is 0.008120748999999705
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_4.m
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_4.m
+running time is 0.008870460999999885
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_5.m
+./test_glass5/model_LR_concat_mirror/record_1/LR_concat_mirror_5.m
+running time is 0.010413444000000105
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_1.m
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_1.m
+running time is 0.0054027649999994765
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_2.m
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_2.m
+running time is 0.005182730999999663
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_3.m
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_3.m
+running time is 0.0054858100000005905
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_4.m
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_4.m
+running time is 0.005702643999999424
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_5.m
+./test_glass5/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_5.m
+running time is 0.005634847000000498
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+running time is 0.042646597000000064
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+running time is 0.024324369000000345
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+running time is 0.03224789300000008
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+running time is 0.023842002000000306
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+./test_glass5/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+running time is 0.04761912499999976
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+running time is 0.1499384630000007
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+running time is 0.06667534500000016
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+running time is 0.06198282999999982
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+running time is 0.06806726100000038
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+./test_glass5/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+running time is 0.06680005900000019
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+running time is 0.03994176900000035
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+running time is 0.020450900999999355
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+running time is 0.019252100000000105
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+running time is 0.024106946999999934
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+./test_glass5/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+running time is 0.023958042999999485
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+running time is 0.09595479299999976
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+running time is 0.06574540499999948
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+running time is 0.07402486600000024
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+running time is 0.08774089300000032
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+./test_glass5/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+running time is 0.10772999100000025
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_1.m
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_1.m
+running time is 3.8077644820000005
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_2.m
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_2.m
+running time is 4.151660261
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_3.m
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_3.m
+running time is 4.7278928460000005
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_4.m
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_4.m
+running time is 4.8858874629999995
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_5.m
+./test_vehicle0/model_LR_concat_mirror/record_1/LR_concat_mirror_5.m
+running time is 3.745109608
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_1.m
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_1.m
+running time is 2.6137151869999995
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_2.m
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_2.m
+running time is 2.123117378
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_3.m
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_3.m
+running time is 2.029745323
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_4.m
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_4.m
+running time is 2.2386912910000003
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_5.m
+./test_vehicle0/model_LR_concat_not_mirror/record_1/LR_concat_not_mirror_5.m
+running time is 1.9931902099999999
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_1.m
+running time is 51.011389959999995
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_2.m
+running time is 205.912608086
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_3.m
+running time is 53.685250075
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_4.m
+running time is 263.52440564100004
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+./test_vehicle0/model_SVM_RBF_concat_not_mirror/record_1/SVM_RBF_concat_not_mirror_5.m
+running time is 50.371763033
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_1.m
+running time is 143.251596095
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_2.m
+running time is 486.544387841
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_3.m
+running time is 153.19565328200002
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_4.m
+running time is 132.47330237100002
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+./test_vehicle0/model_SVM_RBF_concat_mirror/record_1/SVM_RBF_concat_mirror_5.m
+running time is 139.280201232
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_1.m
+running time is 138.931726587
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_2.m
+running time is 52.447576086
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_3.m
+running time is 137.200023666
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_4.m
+running time is 52.288045358999995
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+./test_vehicle0/model_SVM_POLY_concat_not_mirror/record_1/SVM_POLY_concat_not_mirror_5.m
+running time is 55.607566118
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_1.m
+running time is 209.00227916699998
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_2.m
+running time is 186.945643408
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_3.m
+running time is 209.92990940099997
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_4.m
+running time is 184.655648064
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+./test_vehicle0/model_SVM_POLY_concat_mirror/record_1/SVM_POLY_concat_mirror_5.m
+running time is 203.76092869
+
+
