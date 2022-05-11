@@ -48,7 +48,7 @@ method_name = 'normal_LR'
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-model_record_path = './test_{0}/model_normal_LR/record_{1}/'.format(dataset_name, record_index)
+model_record_path = './test_{0}/model_LR_normal/record_{1}/'.format(dataset_name, record_index)
 
 # ----------------------------------start processing-------------------------------------
 print(train_file_name)
