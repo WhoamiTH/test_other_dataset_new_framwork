@@ -258,26 +258,27 @@ for epoch in range(num_epochs):
         auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
         print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
         
-    valid_loss = loss(valid_output, input_valid_label)
+    if epoch > 1000:
+        valid_loss = loss(valid_output, input_valid_label)
 
-    early_stopping(valid_loss, net)
-    # 若满足 early stopping 要求
-    if early_stopping.early_stop:
-        result =  torch.ge(valid_output, 0.5) 
-        #计算准确率
-        train_acc = accuracy_score(input_valid_label, result)
+        early_stopping(valid_loss, net)
+        # 若满足 early stopping 要求
+        if early_stopping.early_stop:
+            result =  torch.ge(valid_output, 0.5) 
+            #计算准确率
+            train_acc = accuracy_score(input_valid_label, result)
 
-        #计算精确率
-        pre = skmet.precision_score(y_true=input_valid_label, y_pred=result)
+            #计算精确率
+            pre = skmet.precision_score(y_true=input_valid_label, y_pred=result)
 
-        #计算召回率
-        rec = skmet.recall_score(y_true=input_valid_label, y_pred=result)
-        f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
-        auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
-        print('Early stopping epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}\n\n\n'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
-        
-        # 结束模型训练
-        break
+            #计算召回率
+            rec = skmet.recall_score(y_true=input_valid_label, y_pred=result)
+            f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
+            auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
+            print('Early stopping epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}\n\n\n'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
+            
+            # 结束模型训练
+            break
 torch.save(net, model_name)
 
 
