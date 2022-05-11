@@ -160,7 +160,7 @@ train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(d
 model_record_path = './test_{0}/model_MLP_minus_not_mirror/record_{1}/'.format(dataset_name, record_index)
 
 
-# os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
+os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 
 
 # ----------------------------------start processing-------------------------------------
@@ -208,7 +208,7 @@ init.normal_(net.hidden_1.weight, mean=0, std=0.01)
 init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
-device = torch.device("cuda:{0}".format(device_id) if torch.cuda.is_available() else "cpu")
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 net.to(device)
 
