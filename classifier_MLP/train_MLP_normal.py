@@ -135,6 +135,7 @@ train_data, train_label = loadTrainData(train_file_name)
 
 valid_data, valid_label, train_data, train_label = generate_valid_data(train_data, train_label)
 
+input_dim = valid_data.shape[1]
 patience = 20	
 # 当验证集损失在连续20次训练周期中都没有得到降低时，停止模型训练，以防止模型过拟合
 early_stopping = EarlyStopping(patience, verbose=True)

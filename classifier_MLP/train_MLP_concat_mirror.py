@@ -177,7 +177,7 @@ valid_positive_data, valid_negative_data = divide_data(valid_data, valid_label)
 # ！！！！！！！！！！需要注意转换方法！！！！！！！
 transformed_valid_data, transformed_valid_label = handleData_extend_mirror(valid_positive_data, valid_negative_data)
 
-input_dim = transformed_valid_data.shape[0]
+input_dim = transformed_valid_data.shape[1]
 
 patience = 20	
 # 当验证集损失在连续20次训练周期中都没有得到降低时，停止模型训练，以防止模型过拟合
