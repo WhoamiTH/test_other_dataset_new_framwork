@@ -23,6 +23,37 @@ def divide_data(Data, Label):
     negative = Data[negative_index[0]]
     return positive, negative
 
+
+def handleData_minus_mirror(positive_data, negative_data):
+    # 生成镜像数据
+    length_pos = positive_data.shape[0]
+    length_neg = negative_data.shape[0]
+    all_generate_num = length_pos * length_neg
+
+    # repeat 每一个都连续重复
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
+    # tile 整体重复
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
+
+
+    transfrom_positive_data = positive_repeat_data - negetive_tile_data
+    transform_positive_label = np.ones(all_generate_num).reshape(-1, 1)
+
+    transfrom_negetive_data = negetive_tile_data - positive_repeat_data 
+    transform_negetive_label = np.zeros(all_generate_num).reshape(-1, 1)
+
+    all_transformed_data = np.vstack( (transfrom_positive_data, transfrom_negetive_data) )
+    all_transformed_label = np.vstack( (transform_positive_label, transform_negetive_label) )
+
+    all_data_label = np.hstack( (all_transformed_data, all_transformed_label) )
+    np.random.shuffle(all_data_label)
+
+    transformed_data = all_data_label[:, :-1]
+    transformed_label = all_data_label[:, -1].reshape(-1, 1)
+
+    return transformed_data, transformed_label
+
+
 def generate_valid_data(data, label, size=0.05):
     data_length = data.shape[0]
     valid_length = int( data_length * size )
@@ -63,19 +94,20 @@ def generate_valid_data(data, label, size=0.05):
     return valid_data, valid_label, train_data, train_label
 
 
-
-def generate_batch_data(data, label, batch_size):
-    data_length = data.shape[0]
-    if batch_size > data_length:
-        batch_size = data_length
+def generate_batch_data(positive_data, negative_data, batch_size):
+    positive_length = positive_data.shape[0]
+    negative_length = negative_data.shape[0]
+    times = negative_length / positive_length
     
-    data_index = np.random.choice(positive_length, batch_size, replace=False)
+    times = int(times)
 
-    train_data = data[data_index]
-    train_label = label[data_index]
+    current_batch_size = min(positive_length, batch_size)
+
+    sampled_positive_data = np.random.sample(positive_data, current_batch_size, replace=False)
+    sampled_negative_data = np.random.choice(negative_data, times*current_batch_size, replace=False)
     
-    train_label = train_label.reshape(-1, 1)
-    return train_data, train_label
+    return sampled_positive_data, sampled_negative_data
+
 
 def loadTrainData(file_name):
     file_data = np.loadtxt(file_name, delimiter=',')
@@ -112,13 +144,15 @@ dataset_name = 'abalone19'
 dataset_index = '1'
 record_index = '1'
 device_id = '1'
-method_name = 'MLP_normal'
+# ！！！！！！！！！！需要注意名字方法！！！！！！！
+method_name = 'MLP_minus_mirror'
 num_epochs = 5000
 batch_size = 50
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-model_record_path = './test_{0}/model_MLP_normal/record_{1}/'.format(dataset_name, record_index)
+# ！！！！！！！！！！需要注意名字方法！！！！！！！
+model_record_path = './test_{0}/model_MLP_minus_mirror/record_{1}/'.format(dataset_name, record_index)
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
@@ -128,12 +162,19 @@ os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 print(train_file_name)
 print(model_record_path)
 print('----------------------\n\n\n')
-
-model_name = model_record_path + 'normal_MLP_{0}'.format(dataset_index)
+# ！！！！！！！！！！需要注意名字方法！！！！！！！
+model_name = model_record_path + 'MLP_minus_mirror_{0}'.format(dataset_index)
 print(model_name)
 train_data, train_label = loadTrainData(train_file_name)
 
 valid_data, valid_label, train_data, train_label = generate_valid_data(train_data, train_label)
+positive_data, negative_data = divide_data(train_data, train_label)
+
+valid_positive_data, valid_negative_data = divide_data(valid_data, valid_label)
+# ！！！！！！！！！！需要注意转换方法！！！！！！！
+transformed_valid_data, transformed_valid_label = handleData_minus_mirror(valid_positive_data, valid_negative_data)
+
+input_dim = transformed_valid_data.shape[0]
 
 patience = 20	
 # 当验证集损失在连续20次训练周期中都没有得到降低时，停止模型训练，以防止模型过拟合
@@ -171,13 +212,16 @@ loss = nn.BCELoss()
 
 optimizer = torch.optim.Adam(net.parameters(), lr=0.001)
 
-input_valid_data = torch.Tensor(torch.from_numpy(valid_data).float())
-input_valid_label = torch.Tensor(torch.from_numpy(valid_label).float())
+
+input_valid_data = torch.Tensor(torch.from_numpy(transformed_valid_data).float())
+input_valid_label = torch.Tensor(torch.from_numpy(transformed_valid_label).float())
 input_valid_data = input_valid_data.to(device)
 input_valid_label = input_valid_label.to(device)
 
 for epoch in range(num_epochs):
-    train_x, train_y = generate_batch_data(train_data, train_label, batch_size)
+    batch_pos_data, batch_neg_data = generate_batch_data(positive_data, negative_data, batch_size)
+    # ！！！！！！！！！！需要注意转换方法！！！！！！！
+    train_x, train_y = handleData_minus_mirror(batch_pos_data, batch_neg_data)
     
     input_data = torch.Tensor(torch.from_numpy(train_x).float())
     train_label = torch.Tensor(torch.from_numpy(train_y).float())
@@ -196,6 +240,7 @@ for epoch in range(num_epochs):
 
     
     valid_output = net(input_valid_data)
+    
 
     if epoch % 100 == 0:
         result =  torch.ge(valid_output, 0.5) 
