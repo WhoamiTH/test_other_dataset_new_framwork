@@ -44,11 +44,11 @@ python3 ./classifier_MLP/train_MLP_concat_not_mirror.py dataset_name=yeast6 data
 
 mkdir -p ./test_yeast6/model_MLP_concat_mirror/record_1/
 
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=yeast6 dataset_index=1 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=yeast6 dataset_index=2 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=yeast6 dataset_index=3 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=yeast6 dataset_index=4 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=yeast6 dataset_index=5 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=yeast6 dataset_index=1 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=yeast6 dataset_index=2 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=yeast6 dataset_index=3 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=yeast6 dataset_index=4 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=yeast6 dataset_index=5 record_index=1 device_id=3
 
 
 
@@ -94,11 +94,11 @@ python3 ./classifier_MLP/train_MLP_concat_not_mirror.py dataset_name=ecoli1 data
 
 mkdir -p ./test_ecoli1/model_MLP_concat_mirror/record_1/
 
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=ecoli1 dataset_index=1 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=ecoli1 dataset_index=2 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=ecoli1 dataset_index=3 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=ecoli1 dataset_index=4 record_index=1 device_id=3
-python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name=ecoli1 dataset_index=5 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=ecoli1 dataset_index=1 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=ecoli1 dataset_index=2 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=ecoli1 dataset_index=3 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=ecoli1 dataset_index=4 record_index=1 device_id=3
+python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name=ecoli1 dataset_index=5 record_index=1 device_id=3
 
 
 

@@ -67,7 +67,7 @@ for cur_dataset_list_index in dataset_dict:
 
             fsh.write('mkdir -p ./test_{0}/model_MLP_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
             for dataset_index in range(1, 1+data_range):
-                fsh.write('python3 ./classifier_MLP/train_MLP_concat_mirror.py.py dataset_name={0} dataset_index={1} record_index=1 device_id={2}\n'.format(dataset, dataset_index, cur_dataset_list_index))
+                fsh.write('python3 ./classifier_MLP/train_MLP_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1 device_id={2}\n'.format(dataset, dataset_index, cur_dataset_list_index))
             fsh.write('\n\n\n')
 
 

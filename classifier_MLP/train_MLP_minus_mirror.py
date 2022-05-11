@@ -226,15 +226,15 @@ for epoch in range(num_epochs):
     train_x, train_y = handleData_minus_mirror(batch_pos_data, batch_neg_data)
     
     input_data = torch.Tensor(torch.from_numpy(train_x).float())
-    train_label = torch.Tensor(torch.from_numpy(train_y).float())
+    input_label = torch.Tensor(torch.from_numpy(train_y).float())
 
     input_data = input_data.to(device)
-    train_label = train_label.to(device)
+    input_label = input_label.to(device)
     
     predict = net(input_data)
 
     
-    l = loss(predict, train_label)
+    l = loss(predict, input_label)
     optimizer.zero_grad()
     l.backward()
     optimizer.step()
