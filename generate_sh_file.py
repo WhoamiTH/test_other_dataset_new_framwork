@@ -21,7 +21,7 @@ dataset_dict = {
 
 data_range = 5
 record_index = 1
-bash_file_name_prefix = 'train_LR_minus_not_mirror_'
+bash_file_name_prefix = 'train_LR_concat_mirror_'
 
 for cur_dataset_list_index in dataset_dict:
     dataset_list = dataset_dict[cur_dataset_list_index]
@@ -31,9 +31,9 @@ for cur_dataset_list_index in dataset_dict:
         fsh.write('set -e\n\n\n')
 
         for dataset in dataset_list:
-            fsh.write('mkdir -p ./test_{0}/model_LR_minus_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            fsh.write('mkdir -p ./test_{0}/model_LR_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
             for dataset_index in range(1, 1+data_range):
-                fsh.write('python3 ./classifier_LR/train_LR_minus_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+                fsh.write('python3 ./classifier_LR/train_LR_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
             fsh.write('\n\n\n')
             
 
