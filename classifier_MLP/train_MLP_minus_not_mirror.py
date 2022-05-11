@@ -180,7 +180,7 @@ positive_data, negative_data = divide_data(train_data, train_label)
 
 valid_positive_data, valid_negative_data = divide_data(valid_data, valid_label)
 transformed_valid_data, transformed_valid_label = handleData_minus_not_mirror(valid_positive_data, valid_negative_data)
-
+print(transformed_valid_data.shape)
 input_dim = transformed_valid_data.shape[0]
 
 patience = 20	
@@ -228,6 +228,8 @@ for epoch in range(num_epochs):
     batch_pos_data, batch_neg_data = generate_batch_data(positive_data, negative_data, batch_size)
     train_x, train_y = handleData_minus_not_mirror(batch_pos_data, batch_neg_data)
     
+    print(train_x.shape)
+
     input_data = torch.Tensor(torch.from_numpy(train_x).float())
     train_label = torch.Tensor(torch.from_numpy(train_y).float())
 
