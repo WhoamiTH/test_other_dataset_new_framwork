@@ -1,16 +1,29 @@
 # -*- coding: utf-8 -*-
+'''
+    baseline LR
+'''
 import sys
 sys.path.append('..')
 import sklearn.svm as sksvm
 import sklearn.linear_model as sklin
 import sklearn.tree as sktree
-# from sklearn.externals import joblib
-import joblib
+from sklearn.externals import joblib
+# import joblib
 import time
 import handle_data
 import predict_test
 import pandas as pd
 import numpy as np
+
+
+def loadTrainData(file_name):
+    file_data = np.loadtxt(file_name, delimiter=',')
+    label = file_data[:,-1]
+    data = np.delete(file_data, -1, axis=1)
+    data = data.astype(np.float64)
+    label = label.reshape(-1, 1)
+    label = label.astype(np.int)
+    return data, label
 
 def set_para():
     global dataset_name
@@ -31,36 +44,20 @@ def set_para():
 dataset_name = 'abalone19'
 dataset_index = '1'
 record_index = '1'
-
+method_name = 'normal_LR'
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)
+model_record_path = './test_{0}/model_normal_LR/record_{1}/'.format(dataset_name, record_index)
 
 # ----------------------------------start processing-------------------------------------
 print(train_file_name)
 print(record_path)
 print('----------------------\n\n\n')
 
-
-
-
-
-
-
-
-
-
-
-# file_number = re.findall(r"\d+", file_name)[-1]
-scaler_name = model_record_path + method_name + '_' + scaler_name
-if pca_or_not:
-    pca_name = model_record_path + method_name + '_' + pca_name
-if kernelpca_or_not:
-    kernelpca_name = model_record_path  + method_name + '_' + kernelpca_name
-model_name = model_record_path + method_name + '_' + model_name
+model_name = model_record_path + 'normal_LR_{0}.m'.format(dataset_index)
 print(model_name)
-train_data, train_label = handle_data.loadTrainData(file_name)
+train_data, train_label = loadTrainData(file_name)
 
 # start = clock()
 start = time.process_time()

@@ -243,7 +243,7 @@ print('----------------------\n\n\n')
 train_data, train_label = loadTrainData(train_file_name)
 
 positive_data, negative_data = divide_data(train_data, train_label)
-
+print('divide_data')
 # minus not mirror
 minus_not_mirror_train_data, minus_not_mirror_train_label = handleData_minus_not_mirror(positive_data, negative_data)
 tsne_minus_not_mirror_train_data = condense_data_tsne(minus_not_mirror_train_data)

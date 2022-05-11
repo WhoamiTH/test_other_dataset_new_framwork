@@ -1,58 +1,19 @@
 # -*- coding: utf-8 -*-
-
 '''
-    将所有数据都画在一张图里，但是会有超内存的问题，所以需要分开运算，分开画，全放在一个文件里不行
-    这个脚本只画 concat not mirror 转换后的结果
+    根据
 '''
-
-
-
 import sys
-# sys.path.append('..')
-# import sklearn.svm as sksvm
-# import sklearn.linear_model as sklin
-# import sklearn.tree as sktree
+sys.path.append('..')
+import sklearn.svm as sksvm
+import sklearn.linear_model as sklin
+import sklearn.tree as sktree
 from sklearn.externals import joblib
-from sklearn.decomposition import PCA
-from sklearn.decomposition import KernelPCA
-from sklearn.manifold import TSNE 
 # import joblib
 import time
-import sklearn.preprocessing as skpre
-from sklearn.decomposition import PCA
+import handle_data
+import predict_test
 import pandas as pd
 import numpy as np
-
-import matplotlib
-matplotlib.use('agg')
-from matplotlib import pyplot as plt
-
-def condense_data_tsne(Data, num_of_components=2):
-    tsne = TSNE(n_components=num_of_components)
-    new_data = tsne.fit_transform(Data) 
-    return new_data
-
-def condense_data_pca(Data, num_of_components=2):
-    pca = PCA(n_components=num_of_components)
-    pca.fit(Data)
-    new_data = pca.transform(Data)
-    return new_data
-
-def condense_data_kernel_pca(Data, num_of_components=2):
-    kernelpca = KernelPCA(n_components=num_of_components)
-    kernelpca.fit(Data)
-    new_data = kernelpca.transform(Data)
-    return new_data
-
-def divide_data(Data, Label):
-    positive_index = np.where(Label == 1)
-    negative_index = np.where(Label == 0)
-
-    positive = Data[positive_index[0]]
-    negative = Data[negative_index[0]]
-
-    return positive, negative
-
 
 
 def handleData_minus_mirror(positive_data, negative_data):
@@ -202,7 +163,6 @@ def loadTrainData(file_name):
     label = label.astype(np.int)
     return data, label
 
-
 def set_para():
     global dataset_name
     global dataset_index
@@ -218,58 +178,43 @@ def set_para():
         if para[0] == 'record_index':
             record_index = para[1]
 
+
 # -------------------------------------parameters----------------------------------------
-print('draw_minus_mirror_tsne\n')
 dataset_name = 'abalone19'
 dataset_index = '1'
 record_index = '1'
-
+method_name = 'normal_LR'
 # ----------------------------------set parameters---------------------------------------
-
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)
+model_record_path = './test_{0}/model_LR_minus_mirror/record_{1}/'.format(dataset_name, record_index)
+
 
 # ----------------------------------start processing-------------------------------------
-print('{0}_{1}_draw_minus_mirror_tsne\n'.format(dataset_name, dataset_index))
-print(train_file_name)
-print(record_path)
-print('----------------------\n\n\n')
+print(file_name)
 
-
-# 原始数据 pca
-train_data, train_label = loadTrainData(train_file_name)
-
-positive_data, negative_data = divide_data(train_data, train_label)
-print('divide_data')
-
-# minus mirror
-minus_mirror_train_data, minus_mirror_train_label = handleData_minus_mirror(positive_data, negative_data)
-tsne_minus_mirror_train_data = condense_data_tsne(minus_mirror_train_data)
-
-pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_minus_mirror_train_data, minus_mirror_train_label)
+model_name = model_record_path + 'LR_minus_mirror_{0}.m'.format(dataset_index)
+print(model_name)
+train_data, train_label = handle_data.loadTrainData(file_name)
 
 
 
+# start = clock()
+start = time.process_time()
 
-def plot_tsne_fig(pos_data, neg_data, record_path, dataset_name, dataset_index):
-    '''
-        仅绘画一张图，根据 tsne 绘制
-    '''
-    # 画图部分，plt 比较麻烦，暂时就重复建图了
+positive_data, negative_data = handle_data.divide_data(train_data, train_label)
+transformed_train_data, transformed_train_label = handleData_minus_mirror(positive_data, negative_data)
+# train_data,train_label= handle_data.transform_data_to_compare_data(train_data, train_label, mirror_type, positive_value, negative_value)
 
-    plt.figure()
-    plt.scatter(pos_data[:, 0], pos_data[:, 1], s=1, color='r', label='pos')
-    plt.scatter(neg_data[:, 0], neg_data[:, 1], s=1, color='b', label='neg')
-    # plt.set_title('original pca')
-    # plt.xlabel('test week')
-    # plt.ylabel('Fscore')
-    plt.legend(loc='upper left')
+start = time.process_time()
 
-    record_file_postfix = 'minus_mirror_data_tsne'
-    plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
-    record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
+model = sklin.LogisticRegression()
+model.fit(transformed_train_data,transformed_train_label.flatten())
 
-    plt.savefig(record_file_name)
 
-plot_tsne_fig(pos_tsne_train_data, neg_tsne_train_data, record_path, dataset_name, dataset_index )
+finish = time.process_time()
+joblib.dump(model, model_name)
+
+running_time = finish-start
+print(model_name)
+print('running time is {0}'.format(running_time))
