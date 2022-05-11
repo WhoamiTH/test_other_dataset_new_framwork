@@ -110,9 +110,11 @@ def generate_batch_data(positive_data, negative_data, batch_size):
 
     current_batch_size = min(positive_length, batch_size)
 
-    sampled_positive_data = np.random.sample(positive_data, current_batch_size, replace=False)
-    sampled_negative_data = np.random.choice(negative_data, times*current_batch_size, replace=False)
-    
+    pos_sample_index = np.random.choice(positive_length, current_batch_size, replace=False)
+    neg_sample_index = np.random.choice(negative_length, times*current_batch_size, replace=False)
+
+    sampled_positive_data = positive_data[pos_sample_index]
+    sampled_negative_data = negative_data[neg_sample_index]
     return sampled_positive_data, sampled_negative_data
 
 

@@ -69,7 +69,7 @@ def generate_batch_data(data, label, batch_size):
     if batch_size > data_length:
         batch_size = data_length
     
-    data_index = np.random.choice(positive_length, batch_size, replace=False)
+    data_index = np.random.choice(data_length, batch_size, replace=False)
 
     train_data = data[data_index]
     train_label = label[data_index]

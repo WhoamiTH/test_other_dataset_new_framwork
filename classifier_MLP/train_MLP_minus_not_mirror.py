@@ -110,8 +110,11 @@ def generate_batch_data(positive_data, negative_data, batch_size):
 
     current_batch_size = min(positive_length, batch_size)
 
-    sampled_positive_data = np.random.sample(positive_data, current_batch_size, replace=False)
-    sampled_negative_data = np.random.choice(negative_data, times*current_batch_size, replace=False)
+    pos_sample_index = np.random.choice(positive_length, current_batch_size, replace=False)
+    neg_sample_index = np.random.choice(negative_length, times*current_batch_size, replace=False)
+
+    sampled_positive_data = positive_data[pos_sample_index]
+    sampled_negative_data = negative_data[neg_sample_index]
     
     return sampled_positive_data, sampled_negative_data
 
@@ -209,7 +212,6 @@ init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-print(device)
 net.to(device)
 
 loss = nn.BCELoss()  

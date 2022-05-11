@@ -25,7 +25,9 @@ def transform_data_to_test_form_data_minus(test_data, reference_data, test_ref_n
     # repeat 每一个都连续重复
     test_sample = np.repeat(test_data, test_ref_num, axis=0)
     # reference data
-    ref_samples = np.random.sample(reference_data, length_test_data * test_ref_num, replace=True)
+    ref_index = np.random.choice(length_reference_data, times*current_batch_size, replace=True)
+
+    ref_samples = reference_data[ref_index]
     
     transformed_test_data = test_sample - ref_samples
     return transformed_test_data  
