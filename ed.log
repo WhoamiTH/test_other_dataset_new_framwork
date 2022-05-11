@@ -1,2 +1,737 @@
 nohup: ignoring input
-draw_pca_pic_8.sh: line 5: 30211 Terminated              python3 ./draw_pca_pic/draw_concat_mirror_tsne.py dataset_name=abalone19 dataset_index=1 record_index=1
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass0_1_draw_concat_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_1.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass0_1_draw_concat_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_1.csv
+./test_glass0/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass0_1_draw_minus_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_1.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass0_1_draw_minus_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_1.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass0_2_draw_concat_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_2.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass0_2_draw_concat_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_2.csv
+./test_glass0/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass0_2_draw_minus_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_2.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass0_2_draw_minus_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_2.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass0_3_draw_concat_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_3.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass0_3_draw_concat_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_3.csv
+./test_glass0/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass0_3_draw_minus_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_3.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass0_3_draw_minus_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_3.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass0_4_draw_concat_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_4.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass0_4_draw_concat_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_4.csv
+./test_glass0/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass0_4_draw_minus_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_4.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass0_4_draw_minus_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_4.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass0_5_draw_concat_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_5.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass0_5_draw_concat_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_5.csv
+./test_glass0/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass0_5_draw_minus_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_5.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass0_5_draw_minus_not_mirror_tsne
+
+./test_glass0/standlization_data/glass0_std_train_5.csv
+./test_glass0/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass5_1_draw_concat_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass5_1_draw_concat_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass5_1_draw_minus_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass5_1_draw_minus_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass5_2_draw_concat_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass5_2_draw_concat_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass5_2_draw_minus_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass5_2_draw_minus_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass5_3_draw_concat_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass5_3_draw_concat_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass5_3_draw_minus_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass5_3_draw_minus_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass5_4_draw_concat_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass5_4_draw_concat_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass5_4_draw_minus_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass5_4_draw_minus_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+glass5_5_draw_concat_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+glass5_5_draw_concat_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+glass5_5_draw_minus_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+glass5_5_draw_minus_not_mirror_tsne
+
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+ecoli1_1_draw_concat_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+ecoli1_1_draw_concat_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
+./test_ecoli1/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+ecoli1_1_draw_minus_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+ecoli1_1_draw_minus_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+ecoli1_2_draw_concat_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+ecoli1_2_draw_concat_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
+./test_ecoli1/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+ecoli1_2_draw_minus_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+ecoli1_2_draw_minus_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+ecoli1_3_draw_concat_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+ecoli1_3_draw_concat_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
+./test_ecoli1/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+ecoli1_3_draw_minus_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+ecoli1_3_draw_minus_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+ecoli1_4_draw_concat_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+ecoli1_4_draw_concat_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
+./test_ecoli1/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+ecoli1_4_draw_minus_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+ecoli1_4_draw_minus_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_mirror_tsne
+
+ecoli1_5_draw_concat_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_concat_not_mirror_tsne
+
+ecoli1_5_draw_concat_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
+./test_ecoli1/draw_pca_pic/record_1/
+1
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_mirror_tsne
+
+ecoli1_5_draw_minus_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+draw_minus_not_mirror_tsne
+
+ecoli1_5_draw_minus_not_mirror_tsne
+
+./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
+./test_ecoli1/draw_pca_pic/record_1/
+----------------------
+
+
+
+draw_pca_pic_8.sh: line 74: 39516 Terminated              python3 ./draw_pca_pic/draw_concat_mirror_tsne.py dataset_name=pageblocks1 dataset_index=1 record_index=1
