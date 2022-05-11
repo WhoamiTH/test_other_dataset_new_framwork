@@ -5,30 +5,70 @@
 
 # ---------------------  分割线 在此下方添加数据 -----------------------------------
 
+# # ------------------------------- 任务 ----------------------------------------
+# # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
 
-# ------------------------------- 任务 --------------------------------------------
-# 避免超内存，全部单独执行
+
+import sys
+
+dataset_dict = {
+    1: ['yeast3', 'glass0', 'pima'],
+    2: ['yeast5', 'glass5', 'vehicle0'],
+    3: ['yeast6', 'ecoli1'],
+    4: ['abalone19', 'pageblocks1']
+}
 
 
-# dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
-# abalong19 数量太多，暂时不执行
-dataset_list = [ 'glass0', 'glass5', 'ecoli1',  'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 data_range = 5
+record_index = 1
+bash_file_name_prefix = 'train_LR_minus_mirror_'
 
-with open('draw_pca_pic_8.sh','w') as fsh:
-    fsh.write('#!/bin/bash\n')
-    fsh.write('set -e\n\n\n')
-    for dataset in dataset_list:
-        for dataset_index in range(1, 1+data_range):
-            fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            # fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            # fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            # fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            # fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
+for cur_dataset_list_index in dataset_dict:
+    dataset_list = dataset_dict[cur_dataset_list_index]
+    bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+    with open(bash_file_name,'w') as fsh:
+        fsh.write('#!/bin/bash\n')
+        fsh.write('set -e\n\n\n')
+
+        for dataset in dataset_list:
+            fsh.write('mkdir -p ./test_{0}/model_LR_minus_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_LR/train_LR_minus_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+            
+
+
+
+
+
+
+
+
+
+
+# # ------------------------------- 任务 --------------------------------------------
+# # 避免超内存，全部单独执行
+
+
+# # dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+# # abalong19 数量太多，暂时不执行
+# dataset_list = [ 'glass0', 'glass5', 'ecoli1',  'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+# data_range = 5
+
+# with open('draw_pca_pic_8.sh','w') as fsh:
+#     fsh.write('#!/bin/bash\n')
+#     fsh.write('set -e\n\n\n')
+#     for dataset in dataset_list:
+#         for dataset_index in range(1, 1+data_range):
+#             fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             # fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             # fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             # fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             # fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#             fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
 
 
 
