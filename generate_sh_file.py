@@ -19,137 +19,137 @@
 # # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
 
 
-import sys
-
-
-
-dataset = 'pageblocks1'
-data_range = 5
-record_index = 1
-bash_file_name_prefix = 'train_pageblocks1_svm_'
-
-for dataset_index in range(1, 1+data_range):
-    bash_file_name = bash_file_name_prefix + str(dataset_index) + '.sh'
-    with open(bash_file_name,'w') as fsh:
-        fsh.write('#!/bin/bash\n')
-        fsh.write('set -e\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_minus_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        fsh.write('python3 ./classifier_SVM/train_SVM_RBF_minus_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_minus_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_RBF_minus_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_minus_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_POLY_minus_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_minus_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_POLY_minus_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-        fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
-        
-        fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-        fsh.write('\n\n\n')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# # ------------------------------- 任务 ----------------------------------------
-# # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
-
-
 # import sys
 
-# dataset_dict = {
-#     1: ['yeast3', 'glass0', 'pima'],
-#     2: ['yeast5', 'glass5', 'vehicle0'],
-#     3: ['yeast6', 'ecoli1'],
-#     4: ['abalone19', 'pageblocks1']
-# }
 
 
+# dataset = 'pageblocks1'
 # data_range = 5
 # record_index = 1
-# bash_file_name_prefix = 'train_svm_'
+# bash_file_name_prefix = 'train_pageblocks1_svm_'
 
-# for cur_dataset_list_index in dataset_dict:
-#     dataset_list = dataset_dict[cur_dataset_list_index]
-#     bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+# for dataset_index in range(1, 1+data_range):
+#     bash_file_name = bash_file_name_prefix + str(dataset_index) + '.sh'
 #     with open(bash_file_name,'w') as fsh:
 #         fsh.write('#!/bin/bash\n')
 #         fsh.write('set -e\n\n\n')
 
-#         for dataset in dataset_list:
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_minus_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+#         fsh.write('python3 ./classifier_SVM/train_SVM_RBF_minus_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
 
-#             fsh.write('mkdir -p ./test_{0}/model_LR_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
-#             for dataset_index in range(1, 1+data_range):
-#                 fsh.write('python3 ./classifier_SVM/train_LR_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-#             fsh.write('\n\n\n')
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_minus_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_RBF_minus_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
 
-#             fsh.write('mkdir -p ./test_{0}/model_LR_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-#             for dataset_index in range(1, 1+data_range):
-#                 fsh.write('python3 ./classifier_SVM/train_LR_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-#             fsh.write('\n\n\n')
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
 
-#             fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-#             for dataset_index in range(1, 1+data_range):
-#                 fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-#             fsh.write('\n\n\n')
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
 
-#             fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
-#             for dataset_index in range(1, 1+data_range):
-#                 fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-#             fsh.write('\n\n\n')
 
-#             fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
-#             for dataset_index in range(1, 1+data_range):
-#                 fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-#             fsh.write('\n\n\n')
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_minus_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_POLY_minus_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
 
-#             fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
-#             for dataset_index in range(1, 1+data_range):
-#                 fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-#             fsh.write('\n\n\n')
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_minus_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_POLY_minus_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
+
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
+
+#         fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
+        
+#         fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+#         fsh.write('\n\n\n')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ------------------------------- 任务 ----------------------------------------
+# 根据不同的 dataset 大小 划分不同的组，生成执行脚本
+
+
+import sys
+
+dataset_dict = {
+    1: ['yeast3', 'glass0', 'pima'],
+    2: ['yeast5', 'glass5', 'vehicle0'],
+    3: ['yeast6', 'ecoli1'],
+    4: ['abalone19', 'pageblocks1']
+}
+
+
+data_range = 5
+record_index = 1
+bash_file_name_prefix = 'train_svm_'
+
+for cur_dataset_list_index in dataset_dict:
+    dataset_list = dataset_dict[cur_dataset_list_index]
+    bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+    with open(bash_file_name,'w') as fsh:
+        fsh.write('#!/bin/bash\n')
+        fsh.write('set -e\n\n\n')
+
+        for dataset in dataset_list:
+
+            fsh.write('mkdir -p ./test_{0}/model_LR_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_LR/train_LR_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+
+            fsh.write('mkdir -p ./test_{0}/model_LR_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_LR/train_LR_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+
+            fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+
+            fsh.write('mkdir -p ./test_{0}/model_SVM_RBF_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_SVM/train_SVM_RBF_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+
+            fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_not_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_not_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
+
+            fsh.write('mkdir -p ./test_{0}/model_SVM_POLY_concat_mirror/record_{1}/\n\n'.format(dataset, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_SVM/train_SVM_POLY_concat_mirror.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            fsh.write('\n\n\n')
 
 
 
