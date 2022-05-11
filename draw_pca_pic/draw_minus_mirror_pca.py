@@ -218,11 +218,13 @@ def set_para():
             record_index = para[1]
 
 # -------------------------------------parameters----------------------------------------
+print('draw_minues_mirror_pca\n')
 dataset_name = 'abalone19'
 dataset_index = '1'
 record_index = '1'
 
 # ----------------------------------set parameters---------------------------------------
+print('{0}_{1}_draw_minues_mirror_pca\n'.format(dataset_name, dataset_index))
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)

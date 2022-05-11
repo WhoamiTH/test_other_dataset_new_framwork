@@ -225,11 +225,13 @@ record_index = '1'
 
 
 # ----------------------------------set parameters---------------------------------------
+print('draw_concat_not_mirror_tsne\n')
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 record_path = './test_{0}/draw_pca_pic/record_{1}/'.format(dataset_name, record_index)
 
 # ----------------------------------start processing-------------------------------------
+print('{0}_{1}_draw_concat_not_mirror_tsne\n'.format(dataset_name, dataset_index))
 print(train_file_name)
 print(record_path)
 print(record_index)

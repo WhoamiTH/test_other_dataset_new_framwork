@@ -10,7 +10,9 @@
 # 避免超内存，全部单独执行
 
 
-dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+# dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
+# abalong19 数量太多，暂时不执行
+dataset_list = [ 'glass0', 'glass5', 'ecoli1',  'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 data_range = 5
 
 with open('draw_pca_pic_8.sh','w') as fsh:
