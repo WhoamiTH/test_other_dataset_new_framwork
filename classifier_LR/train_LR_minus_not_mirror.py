@@ -163,6 +163,15 @@ def loadTrainData(file_name):
     label = label.astype(np.int)
     return data, label
 
+def divide_data(Data, Label):
+    positive_index = np.where(Label == 1)
+    negative_index = np.where(Label == 0)
+
+    positive = Data[positive_index[0]]
+    negative = Data[negative_index[0]]
+
+    return positive, negative
+
 def set_para():
     global dataset_name
     global dataset_index
@@ -202,7 +211,7 @@ train_data, train_label = handle_data.loadTrainData(train_file_name)
 # start = clock()
 start = time.process_time()
 
-positive_data, negative_data = handle_data.divide_data(train_data, train_label)
+positive_data, negative_data = divide_data(train_data, train_label)
 transformed_train_data, transformed_train_label = handleData_minus_not_mirror(positive_data, negative_data)
 # train_data,train_label= handle_data.transform_data_to_compare_data(train_data, train_label, mirror_type, positive_value, negative_value)
 

@@ -163,6 +163,15 @@ def loadTrainData(file_name):
     label = label.astype(np.int)
     return data, label
 
+def divide_data(Data, Label):
+    positive_index = np.where(Label == 1)
+    negative_index = np.where(Label == 0)
+
+    positive = Data[positive_index[0]]
+    negative = Data[negative_index[0]]
+
+    return positive, negative
+
 def set_para():
     global dataset_name
     global dataset_index

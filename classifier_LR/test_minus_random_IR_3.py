@@ -31,7 +31,14 @@ def transform_data_to_test_form_data_minus(test_data, reference_data, test_ref_n
     return transformed_test_data  
 
 
+def divide_data(Data, Label):
+    positive_index = np.where(Label == 1)
+    negative_index = np.where(Label == 0)
 
+    positive = Data[positive_index[0]]
+    negative = Data[negative_index[0]]
+
+    return positive, negative
 
 def loadTrainData(file_name):
     file_data = np.loadtxt(file_name, delimiter=',')
@@ -103,10 +110,10 @@ model_name = model_record_path + 'LR_minus_mirror_{0}.m'.format(dataset_index)
 # ------------- load train data and find reference data --------------------------------
 print(train_file_name)
 train_data, train_label = loadTrainData(train_file_name)
-positive_data, negative_data = handle_data.divide_data(train_data, train_label)
+positive_data, negative_data = divide_data(train_data, train_label)
 
 test_data, test_label = loadTrainData(test_file_name)
-# test_data = handle_data.transform_data_by_standarize_pca(test_data, scaler_name, pca_name, kernelpca_name)
+# test_data = transform_data_by_standarize_pca(test_data, scaler_name, pca_name, kernelpca_name)
 
 reference_data = train_data
 reference_length = reference_data.shape[0]
