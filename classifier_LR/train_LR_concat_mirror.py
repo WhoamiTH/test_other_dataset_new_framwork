@@ -191,7 +191,7 @@ model_record_path = './test_{0}/model_LR_concat_mirror/record_{1}/'.format(datas
 
 
 # ----------------------------------start processing-------------------------------------
-print(file_name)
+print(train_file_name)
 
 model_name = model_record_path + 'LR_concat_mirror_{0}.m'.format(dataset_index)
 print(model_name)
