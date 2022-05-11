@@ -261,7 +261,7 @@ for epoch in range(num_epochs):
         auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
         print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
 
-    if epoch > 1000:
+    if epoch > 500:
         valid_loss = loss(valid_output, input_valid_label)
 
         early_stopping(valid_loss, net)
