@@ -160,7 +160,7 @@ train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(d
 model_record_path = './test_{0}/model_MLP_minus_not_mirror/record_{1}/'.format(dataset_name, record_index)
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
+# os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 
 
 # ----------------------------------start processing-------------------------------------
