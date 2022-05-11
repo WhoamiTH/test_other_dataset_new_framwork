@@ -19,12 +19,12 @@ with open('draw_pca_pic_8.sh','w') as fsh:
     for dataset in dataset_list:
         for dataset_index in range(1, 1+data_range):
             fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            # fsh.write('python3 ./draw_pca_pic/draw_concat_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            # fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
             fsh.write('python3 ./draw_pca_pic/draw_concat_not_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            # fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
             fsh.write('python3 ./draw_pca_pic/draw_minus_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
-            fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
+            # fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_pca.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
             fsh.write('python3 ./draw_pca_pic/draw_minus_not_mirror_tsne.py dataset_name={0} dataset_index={1} record_index=1\n'.format(dataset, dataset_index))
         fsh.write('\n\n\n')
 
