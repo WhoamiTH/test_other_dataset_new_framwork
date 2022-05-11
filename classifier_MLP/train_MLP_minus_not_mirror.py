@@ -209,7 +209,7 @@ init.normal_(net.output.weight, mean=0, std=0.01)
 init.constant_(net.hidden_1.bias, val=0)
 init.constant_(net.output.bias, val=0)
 device = torch.device("cuda:{0}".format(device_id) if torch.cuda.is_available() else "cpu")
-
+print(device)
 net.to(device)
 
 loss = nn.BCELoss()  
