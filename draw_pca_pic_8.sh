@@ -72,6 +72,7 @@ python3 ./draw_pca_pic/draw_minus_not_mirror_tsne.py dataset_name=ecoli1 dataset
 
 
 python3 ./draw_pca_pic/draw_concat_mirror_tsne.py dataset_name=pageblocks1 dataset_index=1 record_index=1
+
 python3 ./draw_pca_pic/draw_concat_not_mirror_tsne.py dataset_name=pageblocks1 dataset_index=1 record_index=1
 python3 ./draw_pca_pic/draw_minus_mirror_tsne.py dataset_name=pageblocks1 dataset_index=1 record_index=1
 python3 ./draw_pca_pic/draw_minus_not_mirror_tsne.py dataset_name=pageblocks1 dataset_index=1 record_index=1
