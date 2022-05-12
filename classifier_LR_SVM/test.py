@@ -33,16 +33,12 @@ def get_test_ref_samples(test_data, reference_data, test_ref_num):
 
 def transform_data_to_test_form_minus(test_data, reference_data, test_ref_num):
     test_samples, ref_samples = get_test_ref_samples(test_data, reference_data, test_ref_num)
-    print(test_samples.shape)
-    print(ref_samples.shape)
     transformed_test_data = test_samples - ref_samples
     return transformed_test_data
 
 
 def transform_data_to_test_form_extern(test_data, reference_data, test_ref_num):
     test_samples, ref_samples = get_test_ref_samples(test_data, reference_data, test_ref_num)
-    print(test_samples.shape)
-    print(ref_samples.shape)
     transformed_test_data = np.hstack((test_samples, ref_samples))
     return transformed_test_data
 
@@ -77,7 +73,7 @@ def loadTrainData(file_name):
     label = label.astype(np.int)
     return data, label
 
-def get_test_ref_num(ref_num_type, ref_times):
+def get_test_ref_num(dataset, ref_num_type, ref_times):
     ref_times = int(ref_times)
     if ref_num_type == 'num':
         return ref_times
@@ -176,7 +172,7 @@ print('----------------------\n\n\n')
 
 # 在测试方法中，用 _ 分割了不同的测试部分
 transform_method, ref_data_type, ref_num_type, ref_times, boundary_type = test_method.split('_')
-test_ref_num = get_test_ref_num(ref_num_type, ref_times)
+test_ref_num = get_test_ref_num(dataset_name, ref_num_type, ref_times)
 boundary_number = get_boundray_num(test_ref_num, boundary_type)
 
 # ------------- load train data and find reference data --------------------------------
@@ -187,15 +183,11 @@ reference_data = get_reference_data(train_data, positive_data, negative_data, re
 test_ref_num = min(test_ref_num, reference_data.shape[0])
 
 test_data, test_label = loadTrainData(test_file_name)
-print(test_data.shape)
-print(reference_data.shape)
-print(test_ref_num)
 cur_test_data = transform_data_to_test_form(transform_method, test_data, reference_data, test_ref_num)
 
 model = joblib.load(model_name)
 
 # 获取初步结果
-print(cur_test_data.shape)
 test_result = model.predict(cur_test_data)
 test_length = test_data.shape[0]
 test_pred_results = test_result.reshape(test_length, test_ref_num)
