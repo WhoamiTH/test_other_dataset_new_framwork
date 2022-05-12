@@ -188,6 +188,7 @@ cur_test_data = transform_data_to_test_form(transform_method, test_data, referen
 model = joblib.load(model_name)
 
 # 获取初步结果
+print(cur_test_data.shape)
 test_result = model.predict(cur_test_data)
 test_length = test_data.shape[0]
 test_pred_results = test_result.reshape(test_length, test_ref_num)
