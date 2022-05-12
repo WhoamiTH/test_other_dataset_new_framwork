@@ -33,12 +33,16 @@ def get_test_ref_samples(test_data, reference_data, test_ref_num):
 
 def transform_data_to_test_form_minus(test_data, reference_data, test_ref_num):
     test_samples, ref_samples = get_test_ref_samples(test_data, reference_data, test_ref_num)
+    print(test_samples.shape)
+    print(ref_samples.shape)
     transformed_test_data = test_samples - ref_samples
     return transformed_test_data
 
 
 def transform_data_to_test_form_extern(test_data, reference_data, test_ref_num):
     test_samples, ref_samples = get_test_ref_samples(test_data, reference_data, test_ref_num)
+    print(test_samples.shape)
+    print(ref_samples.shape)
     transformed_test_data = np.hstack((test_samples, ref_samples))
     return transformed_test_data
 
@@ -183,6 +187,9 @@ reference_data = get_reference_data(train_data, positive_data, negative_data, re
 test_ref_num = min(test_ref_num, reference_data.shape[0])
 
 test_data, test_label = loadTrainData(test_file_name)
+print(test_data.shape)
+print(reference_data.shape)
+print(test_ref_num)
 cur_test_data = transform_data_to_test_form(transform_method, test_data, reference_data, test_ref_num)
 
 model = joblib.load(model_name)
