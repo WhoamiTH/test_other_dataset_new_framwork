@@ -171,7 +171,7 @@ print(result_record_path)
 print('----------------------\n\n\n')
 
 # 在测试方法中，用 _ 分割了不同的测试部分
-transform_method, ref_data_type, ref_num_type, ref_times, boundary_type = test_method.split('_')
+transform_method, ref_data_type, ref_num_type, ref_times, boundary_type = get_test_info(test_method)
 test_ref_num = get_test_ref_num(dataset_name, ref_num_type, ref_times)
 boundary_number = get_boundray_num(test_ref_num, boundary_type)
 
