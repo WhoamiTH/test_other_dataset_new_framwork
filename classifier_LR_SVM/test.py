@@ -156,14 +156,19 @@ set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 test_file_name = './test_{0}/standlization_data/{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
 
-print(train_file_name)
-print(test_file_name)
-print('----------------------\n\n\n')
 
 # ############################# 注意修改模型及方法名称 ##############################
 model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}.m'.format(dataset_name, train_method, record_index, dataset_index)
 result_record_path = './test_{0}/result_{1}_{2}/record_{3}/'.format(dataset_name, train_method, test_method, record_index)
 record_name_prefix = '{0}_{1}_pred_result'.format(dataset_name, dataset_index)
+
+print(train_file_name)
+print(test_file_name)
+print(train_method)
+print(test_method)
+print(model_name)
+print(result_record_path)
+print('----------------------\n\n\n')
 
 # 在测试方法中，用 _ 分割了不同的测试部分
 transform_method, ref_data_type, ref_num_type, ref_times, boundary_type = test_method.split('_')
