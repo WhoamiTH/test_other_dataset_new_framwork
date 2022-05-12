@@ -1,0 +1,4 @@
+the AUC is 0.7770637666831438
+the Fscore is 0.5
+the precision is 0.4444444444444444
+the recall is 0.5714285714285714
