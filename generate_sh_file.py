@@ -111,7 +111,7 @@ import sys
 SVM_dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 
 # LR_dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
-train_method = 'MLP_concat_Mirror'
+train_method = 'LR_concat_Mirror'
 # new_train_method = 'SVMPOLY_concat_Mirror'
 
 data_range = 5
@@ -124,7 +124,7 @@ with open(bash_file_name,'w') as fsh:
 
     for dataset in SVM_dataset_list:
         fsh.write('cd ./test_{0}/\n'.format(dataset))
-        fsh.write('mv model_{0} model_{1}_new\n'.format(train_method, train_method))
+        fsh.write('mv model_{0}_new model_{1}\n'.format(train_method, train_method))
         # fsh.write('mv model_{0} model_{1}\n'.format(old_train_method, new_train_method))
         # fsh.write('cd model_{0}/record_{1}\n\n'.format(new_train_method, record_index))
 
