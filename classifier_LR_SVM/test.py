@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 import sys
 
-from sklearn.externals import joblib
+# from sklearn.externals import joblib
 import sklearn.svm as sksvm
 import sklearn.linear_model as sklin
 import sklearn.tree as sktree
 # from time import clock
-# import joblib
+import joblib
 import time
 import numpy as np
 import csv
