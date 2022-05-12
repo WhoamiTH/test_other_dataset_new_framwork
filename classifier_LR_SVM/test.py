@@ -2,6 +2,9 @@
 import sys
 
 from sklearn.externals import joblib
+import sklearn.svm as sksvm
+import sklearn.linear_model as sklin
+import sklearn.tree as sktree
 # from time import clock
 # import joblib
 import time
