@@ -25,7 +25,7 @@ def get_test_ref_samples(test_data, reference_data, test_ref_num):
     ref_index_list = []
     for epoch in range(length_test_data):
         ref_index_list.append( np.random.choice(length_reference_data, test_ref_num, replace=False) )
-    ref_index = np.array(ref_index_list).reshape(-1, 1)
+    ref_index = np.array(ref_index_list).flatten()
 
     ref_samples = reference_data[ref_index]
     return test_samples, ref_samples
