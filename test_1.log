@@ -1,211 +1,5957 @@
 nohup: ignoring input
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_1.csv
-./test_pima/standlization_data/pima_std_test_1.csv
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5357142857142857
+
+the Fscore is 0.04878048780487806
+
+the precision is 0.025
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5365853658536586
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5125
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6785714285714286
+
+the Fscore is 0.0689655172413793
+
+the precision is 0.03571428571428571
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5853658536585367
+
+the Fscore is 0.10526315789473684
+
+the precision is 0.05555555555555555
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6219512195121951
+
+the Fscore is 0.1142857142857143
+
+the precision is 0.06060606060606061
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5625
+
+the Fscore is 0.10256410256410257
+
+the precision is 0.05405405405405406
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9285714285714286
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8048780487804879
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9024390243902439
+
+the Fscore is 0.33333333333333337
+
+the precision is 0.2
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.675
+
+the Fscore is 0.13333333333333333
+
+the precision is 0.07142857142857142
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5476190476190477
+
+the Fscore is 0.05
+
+the precision is 0.02564102564102564
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9285714285714286
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7804878048780488
+
+the Fscore is 0.18181818181818182
+
+the precision is 0.1
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.675
+
+the Fscore is 0.13333333333333333
+
+the precision is 0.07142857142857142
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5125
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5365853658536586
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9285714285714286
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7804878048780488
+
+the Fscore is 0.18181818181818182
+
+the precision is 0.1
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9024390243902439
+
+the Fscore is 0.33333333333333337
+
+the precision is 0.2
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6625
+
+the Fscore is 0.12903225806451613
+
+the precision is 0.06896551724137931
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.04545454545454545
+
+the precision is 0.023255813953488372
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5125
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_random_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.725609756097561
+
+the Fscore is 0.4
+
+the precision is 0.3333333333333333
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7378048780487805
+
+the Fscore is 0.5
+
+the precision is 0.5
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_pos_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 1.0
+
+the Fscore is 1.0
+
+the precision is 1.0
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9166666666666667
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.125
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7560975609756098
+
+the Fscore is 0.16666666666666669
+
+the precision is 0.09090909090909091
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8536585365853658
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6375
+
+the Fscore is 0.12121212121212122
+
+the precision is 0.06451612903225806
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5476190476190477
+
+the Fscore is 0.05
+
+the precision is 0.02564102564102564
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5365853658536586
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6097560975609756
+
+the Fscore is 0.1111111111111111
+
+the precision is 0.058823529411764705
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7857142857142857
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6585365853658536
+
+the Fscore is 0.125
+
+the precision is 0.06666666666666667
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7195121951219512
+
+the Fscore is 0.14814814814814814
+
+the precision is 0.08
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_10_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.575
+
+the Fscore is 0.10526315789473684
+
+the precision is 0.05555555555555555
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9166666666666667
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.125
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7926829268292683
+
+the Fscore is 0.1904761904761905
+
+the precision is 0.10526315789473684
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8780487804878049
+
+the Fscore is 0.2857142857142857
+
+the precision is 0.16666666666666666
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6625
+
+the Fscore is 0.12903225806451613
+
+the precision is 0.06896551724137931
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5595238095238095
+
+the Fscore is 0.05128205128205127
+
+the precision is 0.02631578947368421
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6428571428571428
+
+the Fscore is 0.0625
+
+the precision is 0.03225806451612903
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5853658536585367
+
+the Fscore is 0.10526315789473684
+
+the precision is 0.05555555555555555
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6707317073170731
+
+the Fscore is 0.12903225806451613
+
+the precision is 0.06896551724137931
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_20_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9166666666666667
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.125
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5731707317073171
+
+the Fscore is 0.10256410256410257
+
+the precision is 0.05405405405405406
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7804878048780488
+
+the Fscore is 0.18181818181818182
+
+the precision is 0.1
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.65
+
+the Fscore is 0.125
+
+the precision is 0.06666666666666667
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5714285714285714
+
+the Fscore is 0.052631578947368425
+
+the precision is 0.02702702702702703
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5365853658536586
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5853658536585367
+
+the Fscore is 0.10526315789473684
+
+the precision is 0.05555555555555555
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_30_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9166666666666667
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.125
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7682926829268293
+
+the Fscore is 0.17391304347826084
+
+the precision is 0.09523809523809523
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9024390243902439
+
+the Fscore is 0.33333333333333337
+
+the precision is 0.2
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6625
+
+the Fscore is 0.12903225806451613
+
+the precision is 0.06896551724137931
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5365853658536586
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5833333333333333
+
+the Fscore is 0.05405405405405406
+
+the precision is 0.027777777777777776
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5731707317073171
+
+the Fscore is 0.10256410256410257
+
+the precision is 0.05405405405405406
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_num_40_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5375
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9047619047619048
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7560975609756098
+
+the Fscore is 0.16666666666666669
+
+the precision is 0.09090909090909091
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8780487804878049
+
+the Fscore is 0.2857142857142857
+
+the precision is 0.16666666666666666
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6625
+
+the Fscore is 0.12903225806451613
+
+the precision is 0.06896551724137931
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5476190476190477
+
+the Fscore is 0.05
+
+the precision is 0.02564102564102564
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6547619047619048
+
+the Fscore is 0.06451612903225806
+
+the precision is 0.03333333333333333
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5365853658536586
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6341463414634146
+
+the Fscore is 0.11764705882352941
+
+the precision is 0.0625
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_1_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.55
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9285714285714286
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7682926829268293
+
+the Fscore is 0.17391304347826084
+
+the precision is 0.09523809523809523
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.675
+
+the Fscore is 0.13333333333333333
+
+the precision is 0.07142857142857142
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5487804878048781
+
+the Fscore is 0.09756097560975609
+
+the precision is 0.05128205128205128
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5714285714285714
+
+the Fscore is 0.052631578947368425
+
+the precision is 0.02702702702702703
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_2_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9285714285714286
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7926829268292683
+
+the Fscore is 0.1904761904761905
+
+the precision is 0.10526315789473684
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.65
+
+the Fscore is 0.125
+
+the precision is 0.06666666666666667
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.04545454545454545
+
+the precision is 0.023255813953488372
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5125
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_3_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9285714285714286
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5609756097560976
+
+the Fscore is 0.1
+
+the precision is 0.05263157894736842
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7682926829268293
+
+the Fscore is 0.17391304347826084
+
+the precision is 0.09523809523809523
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.9146341463414633
+
+the Fscore is 0.3636363636363636
+
+the precision is 0.2222222222222222
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_half
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.675
+
+the Fscore is 0.13333333333333333
+
+the precision is 0.07142857142857142
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_1
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_1.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5119047619047619
+
+the Fscore is 0.046511627906976744
+
+the precision is 0.023809523809523808
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_2.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5121951219512195
+
+the Fscore is 0.0909090909090909
+
+the precision is 0.047619047619047616
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_3.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.08888888888888888
+
+the precision is 0.046511627906976744
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_4.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.524390243902439
+
+the Fscore is 0.09302325581395349
+
+the precision is 0.04878048780487805
+
+the recall is 1.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+SVMPOLY_concat_notMirror
+concat_neg_IR_4_3
+./test_glass5/model_SVMPOLY_concat_notMirror/record_1/SVMPOLY_concat_notMirror_5.m
+./test_glass5/result_SVMPOLY_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.525
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
+LR_normal
+normal
+./test_glass5/model_LR_normal/record_1/LR_normal_1.m
+./test_glass5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_2.csv
+./test_glass5/standlization_data/glass5_std_test_2.csv
+LR_normal
+normal
+./test_glass5/model_LR_normal/record_1/LR_normal_2.m
+./test_glass5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_3.csv
+./test_glass5/standlization_data/glass5_std_test_3.csv
+LR_normal
+normal
+./test_glass5/model_LR_normal/record_1/LR_normal_3.m
+./test_glass5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.47560975609756095
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_glass5/standlization_data/glass5_std_train_4.csv
+./test_glass5/standlization_data/glass5_std_test_4.csv
+LR_normal
+normal
+./test_glass5/model_LR_normal/record_1/LR_normal_4.m
+./test_glass5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_glass5/standlization_data/glass5_std_train_5.csv
+./test_glass5/standlization_data/glass5_std_test_5.csv
+LR_normal
+normal
+./test_glass5/model_LR_normal/record_1/LR_normal_5.m
+./test_glass5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.75
+
+the Fscore is 0.6666666666666666
+
+the precision is 1.0
+
+the recall is 0.5
+
+Done
+./test_glass5/standlization_data/glass5_std_train_1.csv
+./test_glass5/standlization_data/glass5_std_test_1.csv
 SVMRBF
 normal
-./test_pima/model_SVMRBF/record_1/SVMRBF_1.m
-./test_pima/result_SVMRBF_normal/record_1/
+./test_glass5/model_SVMRBF/record_1/SVMRBF_1.m
+./test_glass5/result_SVMRBF_normal/record_1/
 ----------------------
 
 
 
-the AUC is 0.6459259259259259
-
-the Fscore is 0.4810126582278481
-
-the precision is 0.76
-
-the recall is 0.35185185185185186
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_2.csv
-./test_pima/standlization_data/pima_std_test_2.csv
-SVMRBF
-normal
-./test_pima/model_SVMRBF/record_1/SVMRBF_2.m
-./test_pima/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6644444444444444
-
-the Fscore is 0.5185185185185185
-
-the precision is 0.7777777777777778
-
-the recall is 0.3888888888888889
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_3.csv
-./test_pima/standlization_data/pima_std_test_3.csv
-SVMRBF
-normal
-./test_pima/model_SVMRBF/record_1/SVMRBF_3.m
-./test_pima/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6837037037037037
-
-the Fscore is 0.5499999999999999
-
-the precision is 0.8461538461538461
-
-the recall is 0.4074074074074074
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_4.csv
-./test_pima/standlization_data/pima_std_test_4.csv
-SVMRBF
-normal
-./test_pima/model_SVMRBF/record_1/SVMRBF_4.m
-./test_pima/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6398113207547169
-
-the Fscore is 0.4675324675324676
-
-the precision is 0.75
-
-the recall is 0.33962264150943394
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_5.csv
-./test_pima/standlization_data/pima_std_test_5.csv
-SVMRBF
-normal
-./test_pima/model_SVMRBF/record_1/SVMRBF_5.m
-./test_pima/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6486792452830189
-
-the Fscore is 0.4938271604938272
-
-the precision is 0.7142857142857143
-
-the recall is 0.37735849056603776
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_1.csv
-./test_pima/standlization_data/pima_std_test_1.csv
-SVMPOLY
-normal
-./test_pima/model_SVMPOLY/record_1/SVMPOLY_1.m
-./test_pima/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6566666666666666
-
-the Fscore is 0.48648648648648646
-
-the precision is 0.9
-
-the recall is 0.3333333333333333
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_2.csv
-./test_pima/standlization_data/pima_std_test_2.csv
-SVMPOLY
-normal
-./test_pima/model_SVMPOLY/record_1/SVMPOLY_2.m
-./test_pima/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5818518518518518
-
-the Fscore is 0.3188405797101449
-
-the precision is 0.7333333333333333
-
-the recall is 0.2037037037037037
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_3.csv
-./test_pima/standlization_data/pima_std_test_3.csv
-SVMPOLY
-normal
-./test_pima/model_SVMPOLY/record_1/SVMPOLY_3.m
-./test_pima/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6374074074074073
-
-the Fscore is 0.4533333333333333
-
-the precision is 0.8095238095238095
-
-the recall is 0.3148148148148148
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_4.csv
-./test_pima/standlization_data/pima_std_test_4.csv
-SVMPOLY
-normal
-./test_pima/model_SVMPOLY/record_1/SVMPOLY_4.m
-./test_pima/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5887735849056603
-
-the Fscore is 0.3283582089552239
-
-the precision is 0.7857142857142857
-
-the recall is 0.20754716981132076
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_pima/standlization_data/pima_std_train_5.csv
-./test_pima/standlization_data/pima_std_test_5.csv
-SVMPOLY
-normal
-./test_pima/model_SVMPOLY/record_1/SVMPOLY_5.m
-./test_pima/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5787735849056603
-
-the Fscore is 0.31884057971014496
-
-the precision is 0.6875
-
-the recall is 0.20754716981132076
-
-Done
+Traceback (most recent call last):
+  File "./classifier_LR_SVM/test.py", line 191, in <module>
+    model = joblib.load(model_name)
+  File "/home/junda/.local/lib/python3.6/site-packages/joblib/numpy_pickle.py", line 587, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "/home/junda/.local/lib/python3.6/site-packages/joblib/numpy_pickle.py", line 506, in _unpickle
+    obj = unpickler.load()
+  File "/home/junda/.conda/envs/th212/lib/python3.6/pickle.py", line 1050, in load
+    dispatch[key[0]](self)
+  File "/home/junda/.conda/envs/th212/lib/python3.6/pickle.py", line 1338, in load_global
+    klass = self.find_class(module, name)
+  File "/home/junda/.conda/envs/th212/lib/python3.6/pickle.py", line 1388, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.svm._classes'
