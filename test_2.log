@@ -10563,3 +10563,3238 @@ the precision is 0.8
 the recall is 0.375
 
 Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7386363636363636
+
+the Fscore is 0.6274509803921569
+
+the precision is 0.8888888888888888
+
+the recall is 0.48484848484848486
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7518939393939394
+
+the Fscore is 0.6415094339622641
+
+the precision is 0.85
+
+the recall is 0.5151515151515151
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7821969696969697
+
+the Fscore is 0.6909090909090909
+
+the precision is 0.8636363636363636
+
+the recall is 0.5757575757575758
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7324810606060606
+
+the Fscore is 0.625
+
+the precision is 0.9375
+
+the recall is 0.46875
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8658018867924528
+
+the Fscore is 0.5714285714285714
+
+the precision is 0.42424242424242425
+
+the recall is 0.875
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9071969696969697
+
+the Fscore is 0.6818181818181818
+
+the precision is 0.5454545454545454
+
+the recall is 0.9090909090909091
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8636363636363635
+
+the Fscore is 0.5405405405405405
+
+the precision is 0.38461538461538464
+
+the recall is 0.9090909090909091
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9337121212121212
+
+the Fscore is 0.6534653465346535
+
+the precision is 0.4852941176470588
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9223484848484849
+
+the Fscore is 0.6095238095238095
+
+the precision is 0.4383561643835616
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8841391509433962
+
+the Fscore is 0.6835443037974684
+
+the precision is 0.574468085106383
+
+the recall is 0.84375
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9053030303030304
+
+the Fscore is 0.7250000000000001
+
+the precision is 0.6170212765957447
+
+the recall is 0.8787878787878788
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8541666666666666
+
+the Fscore is 0.704225352112676
+
+the precision is 0.6578947368421053
+
+the recall is 0.7575757575757576
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9602272727272727
+
+the Fscore is 0.7586206896551725
+
+the precision is 0.6111111111111112
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9602272727272727
+
+the Fscore is 0.7529411764705882
+
+the precision is 0.6037735849056604
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6799528301886794
+
+the Fscore is 0.5
+
+the precision is 0.75
+
+the recall is 0.375
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7253787878787878
+
+the Fscore is 0.6122448979591837
+
+the precision is 0.9375
+
+the recall is 0.45454545454545453
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7386363636363636
+
+the Fscore is 0.6274509803921569
+
+the precision is 0.8888888888888888
+
+the recall is 0.48484848484848486
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7954545454545454
+
+the Fscore is 0.7017543859649124
+
+the precision is 0.8333333333333334
+
+the recall is 0.6060606060606061
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7324810606060606
+
+the Fscore is 0.625
+
+the precision is 0.9375
+
+the recall is 0.46875
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8913915094339623
+
+the Fscore is 0.5825242718446602
+
+the precision is 0.4225352112676056
+
+the recall is 0.9375
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9053030303030303
+
+the Fscore is 0.6741573033707865
+
+the precision is 0.5357142857142857
+
+the recall is 0.9090909090909091
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8882575757575759
+
+the Fscore is 0.5517241379310345
+
+the precision is 0.3855421686746988
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9318181818181819
+
+the Fscore is 0.6470588235294118
+
+the precision is 0.4782608695652174
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9185606060606061
+
+the Fscore is 0.5981308411214953
+
+the precision is 0.4266666666666667
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8803655660377359
+
+the Fscore is 0.6666666666666666
+
+the precision is 0.5510204081632653
+
+the recall is 0.84375
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9128787878787878
+
+the Fscore is 0.7058823529411764
+
+the precision is 0.5769230769230769
+
+the recall is 0.9090909090909091
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8617424242424243
+
+the Fscore is 0.6352941176470589
+
+the precision is 0.5192307692307693
+
+the recall is 0.8181818181818182
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9583333333333333
+
+the Fscore is 0.7499999999999999
+
+the precision is 0.6
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9507575757575757
+
+the Fscore is 0.7111111111111111
+
+the precision is 0.5517241379310345
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6799528301886794
+
+the Fscore is 0.5
+
+the precision is 0.75
+
+the recall is 0.375
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7253787878787878
+
+the Fscore is 0.6122448979591837
+
+the precision is 0.9375
+
+the recall is 0.45454545454545453
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7386363636363636
+
+the Fscore is 0.6274509803921569
+
+the precision is 0.8888888888888888
+
+the recall is 0.48484848484848486
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7803030303030304
+
+the Fscore is 0.6785714285714286
+
+the precision is 0.8260869565217391
+
+the recall is 0.5757575757575758
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7324810606060606
+
+the Fscore is 0.625
+
+the precision is 0.9375
+
+the recall is 0.46875
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9051297169811321
+
+the Fscore is 0.5904761904761905
+
+the precision is 0.4246575342465753
+
+the recall is 0.96875
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9034090909090909
+
+the Fscore is 0.6666666666666666
+
+the precision is 0.5263157894736842
+
+the recall is 0.9090909090909091
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8806818181818181
+
+the Fscore is 0.5333333333333333
+
+the precision is 0.367816091954023
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9299242424242424
+
+the Fscore is 0.6407766990291262
+
+the precision is 0.4714285714285714
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8996212121212122
+
+the Fscore is 0.547008547008547
+
+the precision is 0.3764705882352941
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8765919811320755
+
+the Fscore is 0.6506024096385543
+
+the precision is 0.5294117647058824
+
+the recall is 0.84375
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9090909090909091
+
+the Fscore is 0.6896551724137931
+
+the precision is 0.5555555555555556
+
+the recall is 0.9090909090909091
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8882575757575758
+
+the Fscore is 0.651685393258427
+
+the precision is 0.5178571428571429
+
+the recall is 0.8787878787878788
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9526515151515151
+
+the Fscore is 0.7252747252747253
+
+the precision is 0.5689655172413793
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_pos_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9450757575757576
+
+the Fscore is 0.6881720430107526
+
+the precision is 0.5245901639344263
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7150943396226415
+
+the Fscore is 0.29767441860465116
+
+the precision is 0.17486338797814208
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7196969696969697
+
+the Fscore is 0.31219512195121957
+
+the precision is 0.18604651162790697
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7121212121212122
+
+the Fscore is 0.30275229357798167
+
+the precision is 0.1783783783783784
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7462121212121212
+
+the Fscore is 0.32999999999999996
+
+the precision is 0.19760479041916168
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7253787878787878
+
+the Fscore is 0.3062200956937799
+
+the precision is 0.1807909604519774
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5509433962264151
+
+the Fscore is 0.21192052980132453
+
+the precision is 0.11851851851851852
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.553030303030303
+
+the Fscore is 0.2185430463576159
+
+the precision is 0.12267657992565056
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5416666666666667
+
+the Fscore is 0.21428571428571425
+
+the precision is 0.12
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5473484848484849
+
+the Fscore is 0.21639344262295082
+
+the precision is 0.1213235294117647
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5378787878787878
+
+the Fscore is 0.20779220779220778
+
+the precision is 0.11594202898550725
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6339622641509435
+
+the Fscore is 0.24806201550387597
+
+the precision is 0.1415929203539823
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6325757575757576
+
+the Fscore is 0.2549800796812749
+
+the precision is 0.14678899082568808
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6193181818181819
+
+the Fscore is 0.24719101123595508
+
+the precision is 0.14102564102564102
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6515151515151515
+
+the Fscore is 0.264
+
+the precision is 0.15207373271889402
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_10_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.625
+
+the Fscore is 0.24427480916030533
+
+the precision is 0.1391304347826087
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7433962264150944
+
+the Fscore is 0.32
+
+the precision is 0.19047619047619047
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7291666666666667
+
+the Fscore is 0.32000000000000006
+
+the precision is 0.19161676646706588
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7064393939393939
+
+the Fscore is 0.2986425339366516
+
+the precision is 0.17553191489361702
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7556818181818181
+
+the Fscore is 0.3384615384615384
+
+the precision is 0.2037037037037037
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7310606060606061
+
+the Fscore is 0.3106796116504854
+
+the precision is 0.1839080459770115
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5283018867924528
+
+the Fscore is 0.20382165605095542
+
+the precision is 0.11347517730496454
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.518939393939394
+
+the Fscore is 0.20578778135048234
+
+the precision is 0.11510791366906475
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5208333333333333
+
+the Fscore is 0.20689655172413793
+
+the precision is 0.11538461538461539
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5208333333333333
+
+the Fscore is 0.2018927444794953
+
+the precision is 0.11228070175438597
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5773584905660377
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.125
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5700757575757576
+
+the Fscore is 0.22535211267605637
+
+the precision is 0.12749003984063745
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5662878787878788
+
+the Fscore is 0.22372881355932203
+
+the precision is 0.12595419847328243
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5814393939393939
+
+the Fscore is 0.22996515679442509
+
+the precision is 0.12992125984251968
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_20_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5568181818181819
+
+the Fscore is 0.21476510067114093
+
+the precision is 0.12030075187969924
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7433962264150944
+
+the Fscore is 0.32
+
+the precision is 0.19047619047619047
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7386363636363636
+
+the Fscore is 0.3282051282051282
+
+the precision is 0.19753086419753085
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7178030303030303
+
+the Fscore is 0.3069767441860465
+
+the precision is 0.1813186813186813
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7689393939393939
+
+the Fscore is 0.35106382978723405
+
+the precision is 0.2129032258064516
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7386363636363636
+
+the Fscore is 0.31683168316831684
+
+the precision is 0.18823529411764706
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5226415094339623
+
+the Fscore is 0.2018927444794953
+
+the precision is 0.11228070175438597
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.20062695924764892
+
+the precision is 0.11188811188811189
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.20496894409937888
+
+the precision is 0.11418685121107267
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5528301886792453
+
+the Fscore is 0.21262458471760798
+
+the precision is 0.11895910780669144
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5435606060606061
+
+the Fscore is 0.21476510067114096
+
+the precision is 0.12075471698113208
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5473484848484849
+
+the Fscore is 0.21639344262295082
+
+the precision is 0.1213235294117647
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5473484848484849
+
+the Fscore is 0.21639344262295082
+
+the precision is 0.1213235294117647
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_30_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5359848484848485
+
+the Fscore is 0.2071197411003236
+
+the precision is 0.11552346570397112
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7547169811320755
+
+the Fscore is 0.32989690721649484
+
+the precision is 0.19753086419753085
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.740530303030303
+
+the Fscore is 0.32989690721649484
+
+the precision is 0.19875776397515527
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7215909090909092
+
+the Fscore is 0.30985915492957744
+
+the precision is 0.18333333333333332
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7632575757575757
+
+the Fscore is 0.3455497382198953
+
+the precision is 0.2088607594936709
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7386363636363636
+
+the Fscore is 0.31683168316831684
+
+the precision is 0.18823529411764706
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5188679245283019
+
+the Fscore is 0.2006269592476489
+
+the precision is 0.11149825783972125
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.4981060606060606
+
+the Fscore is 0.1987577639751553
+
+the precision is 0.11072664359861592
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.2037037037037037
+
+the precision is 0.1134020618556701
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.2037037037037037
+
+the precision is 0.1134020618556701
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5452830188679245
+
+the Fscore is 0.2098360655737705
+
+the precision is 0.11721611721611722
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5284090909090909
+
+the Fscore is 0.2091503267973856
+
+the precision is 0.11721611721611722
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5397727272727273
+
+the Fscore is 0.21359223300970873
+
+the precision is 0.11956521739130435
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5284090909090908
+
+the Fscore is 0.2095238095238095
+
+the precision is 0.11702127659574468
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_num_40_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5284090909090908
+
+the Fscore is 0.2044728434504792
+
+the precision is 0.11387900355871886
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7339622641509433
+
+the Fscore is 0.3121951219512195
+
+the precision is 0.18497109826589594
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7196969696969697
+
+the Fscore is 0.31219512195121957
+
+the precision is 0.18604651162790697
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7064393939393939
+
+the Fscore is 0.2986425339366516
+
+the precision is 0.17553191489361702
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7575757575757576
+
+the Fscore is 0.34020618556701027
+
+the precision is 0.20496894409937888
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7348484848484849
+
+the Fscore is 0.3137254901960785
+
+the precision is 0.18604651162790697
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5207547169811321
+
+the Fscore is 0.20125786163522014
+
+the precision is 0.11188811188811189
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5170454545454546
+
+the Fscore is 0.205607476635514
+
+the precision is 0.11458333333333333
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.20496894409937888
+
+the precision is 0.11418685121107267
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.2037037037037037
+
+the precision is 0.1134020618556701
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.19937694704049846
+
+the precision is 0.11072664359861592
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5547169811320755
+
+the Fscore is 0.21333333333333335
+
+the precision is 0.11940298507462686
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5416666666666667
+
+the Fscore is 0.2140468227424749
+
+the precision is 0.12030075187969924
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5435606060606061
+
+the Fscore is 0.21498371335504887
+
+the precision is 0.12043795620437957
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5340909090909092
+
+the Fscore is 0.21153846153846156
+
+the precision is 0.11827956989247312
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_1_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5378787878787878
+
+the Fscore is 0.20779220779220778
+
+the precision is 0.11594202898550725
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7452830188679245
+
+the Fscore is 0.32160804020100503
+
+the precision is 0.19161676646706588
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7329545454545455
+
+the Fscore is 0.32323232323232326
+
+the precision is 0.19393939393939394
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7291666666666667
+
+the Fscore is 0.3157894736842105
+
+the precision is 0.1875
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7765151515151515
+
+the Fscore is 0.358695652173913
+
+the precision is 0.2185430463576159
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.740530303030303
+
+the Fscore is 0.31840796019900497
+
+the precision is 0.1893491124260355
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5094339622641509
+
+the Fscore is 0.19753086419753085
+
+the precision is 0.1095890410958904
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.48863636363636365
+
+the Fscore is 0.19571865443425077
+
+the precision is 0.10884353741496598
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075757575757576
+
+the Fscore is 0.20245398773006137
+
+the precision is 0.11262798634812286
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075757575757576
+
+the Fscore is 0.20245398773006137
+
+the precision is 0.11262798634812286
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5226415094339623
+
+the Fscore is 0.2018927444794953
+
+the precision is 0.11228070175438597
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818182
+
+the Fscore is 0.20125786163522016
+
+the precision is 0.11228070175438597
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5189393939393939
+
+the Fscore is 0.20625000000000002
+
+the precision is 0.11498257839721254
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_2_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.739622641509434
+
+the Fscore is 0.31683168316831684
+
+the precision is 0.18823529411764706
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7329545454545455
+
+the Fscore is 0.32323232323232326
+
+the precision is 0.19393939393939394
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7253787878787878
+
+the Fscore is 0.3127962085308057
+
+the precision is 0.1853932584269663
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7746212121212122
+
+the Fscore is 0.3567567567567568
+
+the precision is 0.21710526315789475
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7367424242424243
+
+the Fscore is 0.31527093596059114
+
+the precision is 0.1871345029239766
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5113207547169811
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.20307692307692307
+
+the precision is 0.11301369863013698
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.19692307692307692
+
+the precision is 0.10921501706484642
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5169811320754717
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.20307692307692307
+
+the precision is 0.11301369863013698
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.20496894409937888
+
+the precision is 0.11418685121107267
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_3_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.19875776397515527
+
+the precision is 0.1103448275862069
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7415094339622641
+
+the Fscore is 0.31840796019900497
+
+the precision is 0.1893491124260355
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7424242424242424
+
+the Fscore is 0.3316062176165804
+
+the precision is 0.2
+
+the recall is 0.9696969696969697
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7215909090909092
+
+the Fscore is 0.30985915492957744
+
+the precision is 0.18333333333333332
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7859848484848485
+
+the Fscore is 0.3687150837988827
+
+the precision is 0.22602739726027396
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_half
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7367424242424243
+
+the Fscore is 0.31527093596059114
+
+the precision is 0.1871345029239766
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075471698113208
+
+the Fscore is 0.19692307692307692
+
+the precision is 0.10921501706484642
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.20183486238532108
+
+the precision is 0.11224489795918367
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_1
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.19631901840490798
+
+the precision is 0.10884353741496598
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_1.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5150943396226415
+
+the Fscore is 0.19937694704049846
+
+the precision is 0.11072664359861592
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_2.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.20183486238532108
+
+the precision is 0.11224489795918367
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_3.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.20183486238532108
+
+the precision is 0.11224489795918367
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_4.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.20307692307692307
+
+the precision is 0.11301369863013698
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_concat_notMirror
+concat_neg_IR_4_3
+./test_yeast5/model_SVMRBF_concat_notMirror/record_1/SVMRBF_concat_notMirror_5.m
+./test_yeast5/result_SVMRBF_concat_notMirror_concat_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.19692307692307692
+
+the precision is 0.10921501706484642
+
+the recall is 1.0
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+LR_normal
+normal
+./test_yeast5/model_LR_normal/record_1/LR_normal_1.m
+./test_yeast5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.8149174528301887
+
+the Fscore is 0.7
+
+the precision is 0.75
+
+the recall is 0.65625
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+LR_normal
+normal
+./test_yeast5/model_LR_normal/record_1/LR_normal_2.m
+./test_yeast5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.8276515151515151
+
+the Fscore is 0.7586206896551725
+
+the precision is 0.88
+
+the recall is 0.6666666666666666
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+LR_normal
+normal
+./test_yeast5/model_LR_normal/record_1/LR_normal_3.m
+./test_yeast5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.7803030303030304
+
+the Fscore is 0.6785714285714286
+
+the precision is 0.8260869565217391
+
+the recall is 0.5757575757575758
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+LR_normal
+normal
+./test_yeast5/model_LR_normal/record_1/LR_normal_4.m
+./test_yeast5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.893939393939394
+
+the Fscore is 0.7941176470588236
+
+the precision is 0.7714285714285715
+
+the recall is 0.8181818181818182
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+LR_normal
+normal
+./test_yeast5/model_LR_normal/record_1/LR_normal_5.m
+./test_yeast5/result_LR_normal_normal/record_1/
+----------------------
+
+
+
+the AUC is 0.834280303030303
+
+the Fscore is 0.7457627118644067
+
+the precision is 0.8148148148148148
+
+the recall is 0.6875
+
+Done
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF
+normal
+./test_yeast5/model_SVMRBF/record_1/SVMRBF_1.m
+./test_yeast5/result_SVMRBF_normal/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_LR_SVM/test.py", line 191, in <module>
+    model = joblib.load(model_name)
+  File "/home/junda/.local/lib/python3.6/site-packages/joblib/numpy_pickle.py", line 587, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+  File "/home/junda/.local/lib/python3.6/site-packages/joblib/numpy_pickle.py", line 506, in _unpickle
+    obj = unpickler.load()
+  File "/home/junda/.conda/envs/th212/lib/python3.6/pickle.py", line 1050, in load
+    dispatch[key[0]](self)
+  File "/home/junda/.conda/envs/th212/lib/python3.6/pickle.py", line 1338, in load_global
+    klass = self.find_class(module, name)
+  File "/home/junda/.conda/envs/th212/lib/python3.6/pickle.py", line 1388, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.svm._classes'
