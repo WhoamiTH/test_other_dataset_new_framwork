@@ -112,8 +112,23 @@ import sys
 dataset_list = ['pageblocks1']
 # LR_dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 # train_method = 'LR_concat_Mirror'
-old_train_method = 'LR_concat_mirror'
-new_train_method = 'LR_concat_Mirror_new'
+# old_train_method = 'LR_concat_mirror'
+# new_train_method = 'LR_concat_Mirror_new'
+
+
+method_map_list = [
+    ('SVM_POLY','SVMPOLY'),
+    ('SVM_POLY_concat_mirror','SVMPOLY_concat_Mirror'),
+    ('SVM_POLY_concat_not_mirror','SVMPOLY_concat_notMirror'),
+    ('SVM_POLY_minus_mirror','SVMPOLY_minus_Mirror'),
+    ('SVM_POLY_minus_not_mirror','SVMPOLY_minus_notMirror'),
+    ('SVM_RBF','SVMRBF'),
+    ('SVM_RBF_concat_mirror','SVMRBF_concat_Mirror'),
+    ('SVM_RBF_concat_not_mirror','SVMRBF_concat_notMirror'),
+    ('SVM_RBF_minus_mirror','SVMRBF_minus_Mirror'),
+    ('SVM_RBF_minus_not_mirror','SVMRBF_minus_notMirror')
+]
+
 
 data_range = 5
 record_index = 1
@@ -123,17 +138,18 @@ with open(bash_file_name,'w') as fsh:
     fsh.write('#!/bin/bash\n')
     fsh.write('set -e\n\n\n')
 
-    for dataset in dataset_list:
-        fsh.write('cd ./test_{0}/\n'.format(dataset))
-        # fsh.write('mv model_{0}_new model_{1}\n'.format(train_method, train_method))
+    # for dataset in dataset_list:
+    dataset = 'pageblocks1'
+    fsh.write('cd ./test_{0}/\n'.format(dataset))
+    for old_train_method, new_train_method in method_map_list:
         fsh.write('mv model_{0} model_{1}\n'.format(old_train_method, new_train_method))
         fsh.write('cd model_{0}/record_{1}\n\n'.format(new_train_method, record_index))
 
         for dataset_index in range(1, 1+data_range):
             fsh.write('mv {0}_{1}.m {2}_{1}.m\n'.format(old_train_method, dataset_index, new_train_method))
-        fsh.write('cd ../../../\n')
-        fsh.write('cd ../\n')
-        fsh.write('\n\n\n')
+        fsh.write('cd ../../\n')
+        
+        fsh.write('\n\n')
 
     # for dataset in SVM_dataset_list:
     #     fsh.write('cd ./test_{0}/model_MLP_normal/record_{1}\n'.format(dataset, record_index))
