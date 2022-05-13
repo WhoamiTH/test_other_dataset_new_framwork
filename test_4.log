@@ -2326,3 +2326,5503 @@ the precision is 0.01405152224824356
 the recall is 1.0
 
 Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.767189384800965
+
+the Fscore is 0.02525252525252525
+
+the precision is 0.01278772378516624
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5012048192771084
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006031363088057
+
+the Fscore is 0.014285714285714287
+
+the precision is 0.007194244604316547
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006031363088057
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018072289156627
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018094089264173
+
+the Fscore is 0.01431980906921241
+
+the precision is 0.007211538461538462
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_random_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.503015681544029
+
+the Fscore is 0.01199040767386091
+
+the precision is 0.006031363088057901
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7493975903614458
+
+the Fscore is 0.023474178403755867
+
+the precision is 0.011876484560570071
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.755421686746988
+
+the Fscore is 0.024038461538461536
+
+the precision is 0.012165450121654502
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7457831325301205
+
+the Fscore is 0.02314814814814815
+
+the precision is 0.0117096018735363
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7490952955367913
+
+the Fscore is 0.02803738317757009
+
+the precision is 0.014218009478672985
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.767189384800965
+
+the Fscore is 0.02525252525252525
+
+the precision is 0.01278772378516624
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.014268727705112961
+
+the precision is 0.00718562874251497
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006031363088057
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5012062726176116
+
+the Fscore is 0.01430274135876043
+
+the precision is 0.007202881152460984
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_random_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018094089264173
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7746987951807229
+
+the Fscore is 0.12000000000000001
+
+the precision is 0.06666666666666667
+
+the recall is 0.6
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5843373493975904
+
+the Fscore is 0.0625
+
+the precision is 0.037037037037037035
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8753012048192771
+
+the Fscore is 0.15999999999999998
+
+the precision is 0.08888888888888889
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6479694410936871
+
+the Fscore is 0.10256410256410256
+
+the precision is 0.06060606060606061
+
+the recall is 0.3333333333333333
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8782870928829916
+
+the Fscore is 0.1777777777777778
+
+the precision is 0.1
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9162650602409639
+
+the Fscore is 0.06711409395973154
+
+the precision is 0.034722222222222224
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5379518072289157
+
+the Fscore is 0.01834862385321101
+
+the precision is 0.009615384615384616
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9174698795180722
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6981302774427021
+
+the Fscore is 0.06315789473684211
+
+the precision is 0.033707865168539325
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9234016887816647
+
+the Fscore is 0.07299270072992702
+
+the precision is 0.03787878787878788
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8560240963855422
+
+the Fscore is 0.0975609756097561
+
+the precision is 0.05194805194805195
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5728915662650602
+
+the Fscore is 0.0392156862745098
+
+the precision is 0.021739130434782608
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9566265060240964
+
+the Fscore is 0.12195121951219512
+
+the precision is 0.06493506493506493
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6359067149175713
+
+the Fscore is 0.06779661016949153
+
+the precision is 0.03773584905660377
+
+the recall is 0.3333333333333333
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9523522316043426
+
+the Fscore is 0.11235955056179775
+
+the precision is 0.05952380952380952
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8759036144578314
+
+the Fscore is 0.163265306122449
+
+the precision is 0.09090909090909091
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5861445783132531
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.041666666666666664
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8771084337349399
+
+the Fscore is 0.1702127659574468
+
+the precision is 0.09523809523809523
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6503819863289103
+
+the Fscore is 0.1142857142857143
+
+the precision is 0.06896551724137931
+
+the recall is 0.3333333333333333
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8825090470446322
+
+the Fscore is 0.2105263157894737
+
+the precision is 0.12121212121212122
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6265060240963854
+
+the Fscore is 0.031007751937984496
+
+the precision is 0.016129032258064516
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5578313253012048
+
+the Fscore is 0.02631578947368421
+
+the precision is 0.014084507042253521
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9313253012048193
+
+the Fscore is 0.08064516129032258
+
+the precision is 0.04201680672268908
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9288299155609168
+
+the Fscore is 0.078125
+
+the precision is 0.04065040650406504
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6825301204819276
+
+the Fscore is 0.1111111111111111
+
+the precision is 0.06451612903225806
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.49216867469879516
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7837349397590362
+
+the Fscore is 0.17142857142857143
+
+the precision is 0.1
+
+the recall is 0.6
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5736831523924407
+
+the Fscore is 0.08695652173913045
+
+the precision is 0.058823529411764705
+
+the recall is 0.16666666666666666
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6891435464414958
+
+the Fscore is 0.16000000000000003
+
+the precision is 0.1
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6253012048192771
+
+the Fscore is 0.030534351145038167
+
+the precision is 0.015873015873015872
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5572289156626506
+
+the Fscore is 0.025974025974025972
+
+the precision is 0.013888888888888888
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9270205066344994
+
+the Fscore is 0.07633587786259541
+
+the precision is 0.03968253968253968
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.694578313253012
+
+the Fscore is 0.25000000000000006
+
+the precision is 0.18181818181818182
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4975903614457831
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.49578313253012046
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.49819059107358266
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4987937273823884
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6253012048192771
+
+the Fscore is 0.030534351145038167
+
+the precision is 0.015873015873015872
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5572289156626506
+
+the Fscore is 0.025974025974025972
+
+the precision is 0.013888888888888888
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9270205066344994
+
+the Fscore is 0.07633587786259541
+
+the precision is 0.03968253968253968
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6253012048192771
+
+the Fscore is 0.030534351145038167
+
+the precision is 0.015873015873015872
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5572289156626506
+
+the Fscore is 0.025974025974025972
+
+the precision is 0.013888888888888888
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9270205066344994
+
+the Fscore is 0.07633587786259541
+
+the precision is 0.03968253968253968
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6253012048192771
+
+the Fscore is 0.030534351145038167
+
+the precision is 0.015873015873015872
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5572289156626506
+
+the Fscore is 0.025974025974025972
+
+the precision is 0.013888888888888888
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9270205066344994
+
+the Fscore is 0.07633587786259541
+
+the precision is 0.03968253968253968
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6253012048192771
+
+the Fscore is 0.030534351145038167
+
+the precision is 0.015873015873015872
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5572289156626506
+
+the Fscore is 0.025974025974025972
+
+the precision is 0.013888888888888888
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9270205066344994
+
+the Fscore is 0.07633587786259541
+
+the precision is 0.03968253968253968
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9066265060240963
+
+the Fscore is 0.06060606060606061
+
+the precision is 0.03125
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6253012048192771
+
+the Fscore is 0.030534351145038167
+
+the precision is 0.015873015873015872
+
+the recall is 0.4
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9090361445783133
+
+the Fscore is 0.062111801242236024
+
+the precision is 0.03205128205128205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6902895054282268
+
+the Fscore is 0.05555555555555555
+
+the precision is 0.029411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9173703256936068
+
+the Fscore is 0.06802721088435375
+
+the precision is 0.035211267605633804
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5572289156626506
+
+the Fscore is 0.025974025974025972
+
+the precision is 0.013888888888888888
+
+the recall is 0.2
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9301204819277109
+
+the Fscore is 0.07936507936507936
+
+the precision is 0.04132231404958678
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7029553679131484
+
+the Fscore is 0.06896551724137931
+
+the precision is 0.037037037037037035
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_pos_IR_4_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9270205066344994
+
+the Fscore is 0.07633587786259541
+
+the precision is 0.03968253968253968
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7295180722891565
+
+the Fscore is 0.02178649237472767
+
+the precision is 0.011013215859030838
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7409638554216867
+
+the Fscore is 0.022727272727272724
+
+the precision is 0.011494252873563218
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7180722891566265
+
+the Fscore is 0.020920502092050212
+
+the precision is 0.010570824524312896
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7225572979493365
+
+the Fscore is 0.02542372881355932
+
+the precision is 0.012875536480686695
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7370325693606755
+
+the Fscore is 0.02242152466367713
+
+the precision is 0.011337868480725623
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5451807228915663
+
+the Fscore is 0.013071895424836602
+
+the precision is 0.006578947368421052
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5373493975903614
+
+the Fscore is 0.012853470437017995
+
+the precision is 0.00646830530401035
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5301204819277108
+
+the Fscore is 0.012658227848101266
+
+the precision is 0.006369426751592357
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5379975874547648
+
+the Fscore is 0.015424164524421594
+
+the precision is 0.007772020725388601
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5464414957780459
+
+the Fscore is 0.013123359580052495
+
+the precision is 0.0066050198150594455
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6349397590361445
+
+the Fscore is 0.016233766233766236
+
+the precision is 0.008183306055646482
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6295180722891567
+
+the Fscore is 0.016
+
+the precision is 0.008064516129032258
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6319277108433735
+
+the Fscore is 0.01610305958132045
+
+the precision is 0.008116883116883116
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6266586248492159
+
+the Fscore is 0.019017432646592707
+
+the precision is 0.0096
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_10_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6429433051869722
+
+the Fscore is 0.01661129568106312
+
+the precision is 0.008375209380234505
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7331325301204819
+
+the Fscore is 0.02207505518763797
+
+the precision is 0.011160714285714286
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7397590361445783
+
+the Fscore is 0.022624434389140267
+
+the precision is 0.011441647597254004
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7373493975903614
+
+the Fscore is 0.02242152466367713
+
+the precision is 0.011337868480725623
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.738238841978287
+
+the Fscore is 0.026905829596412554
+
+the precision is 0.013636363636363636
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7448733413751507
+
+the Fscore is 0.023094688221709004
+
+the precision is 0.011682242990654205
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5204819277108435
+
+the Fscore is 0.012406947890818858
+
+the precision is 0.006242197253433208
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.513855421686747
+
+the Fscore is 0.012239902080783356
+
+the precision is 0.006157635467980296
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5126506024096386
+
+the Fscore is 0.012210012210012208
+
+the precision is 0.006142506142506142
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5205066344993969
+
+the Fscore is 0.01486988847583643
+
+the precision is 0.00749063670411985
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.517490952955368
+
+the Fscore is 0.01234567901234568
+
+the precision is 0.006211180124223602
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5674698795180723
+
+the Fscore is 0.013736263736263736
+
+the precision is 0.006915629322268326
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5668674698795181
+
+the Fscore is 0.013717421124828532
+
+the precision is 0.006906077348066298
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5548192771084337
+
+the Fscore is 0.013351134846461948
+
+the precision is 0.006720430107526882
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5687575392038601
+
+the Fscore is 0.016506189821182942
+
+the precision is 0.008321775312066574
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_20_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5705669481302774
+
+the Fscore is 0.013850415512465374
+
+the precision is 0.00697350069735007
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.736144578313253
+
+the Fscore is 0.022321428571428572
+
+the precision is 0.011286681715575621
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7463855421686747
+
+the Fscore is 0.02320185614849188
+
+the precision is 0.011737089201877934
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7409638554216867
+
+the Fscore is 0.022727272727272724
+
+the precision is 0.011494252873563218
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.738238841978287
+
+the Fscore is 0.026905829596412554
+
+the precision is 0.013636363636363636
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7515078407720145
+
+the Fscore is 0.023696682464454978
+
+the precision is 0.011990407673860911
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5108433734939759
+
+the Fscore is 0.0121654501216545
+
+the precision is 0.006119951040391677
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5078313253012048
+
+the Fscore is 0.012091898428053204
+
+the precision is 0.006082725060827251
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5090361445783133
+
+the Fscore is 0.012121212121212121
+
+the precision is 0.006097560975609756
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5078407720144753
+
+the Fscore is 0.014492753623188404
+
+the precision is 0.0072992700729927005
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5138721351025332
+
+the Fscore is 0.012254901960784315
+
+the precision is 0.006165228113440197
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5457831325301206
+
+the Fscore is 0.013089005235602092
+
+the precision is 0.006587615283267457
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5343373493975904
+
+the Fscore is 0.01277139208173691
+
+the precision is 0.006426735218508998
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5367469879518072
+
+the Fscore is 0.012836970474967905
+
+the precision is 0.006459948320413436
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.54583835946924
+
+the Fscore is 0.01568627450980392
+
+the precision is 0.007905138339920948
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_30_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5446320868516284
+
+the Fscore is 0.013071895424836602
+
+the precision is 0.006578947368421052
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7403614457831325
+
+the Fscore is 0.022675736961451247
+
+the precision is 0.011467889908256881
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7469879518072289
+
+the Fscore is 0.023255813953488372
+
+the precision is 0.011764705882352941
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7397590361445783
+
+the Fscore is 0.022624434389140267
+
+the precision is 0.011441647597254004
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7406513872135103
+
+the Fscore is 0.027149321266968326
+
+the precision is 0.013761467889908258
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7575392038600723
+
+the Fscore is 0.024271844660194174
+
+the precision is 0.012285012285012284
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5096385542168675
+
+the Fscore is 0.012135922330097087
+
+the precision is 0.006105006105006105
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5036144578313253
+
+the Fscore is 0.01199040767386091
+
+the precision is 0.006031363088057901
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5030120481927711
+
+the Fscore is 0.011976047904191616
+
+the precision is 0.006024096385542169
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5096501809408926
+
+the Fscore is 0.014545454545454545
+
+the precision is 0.007326007326007326
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.508443908323281
+
+the Fscore is 0.012121212121212121
+
+the precision is 0.006097560975609756
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5325301204819277
+
+the Fscore is 0.01272264631043257
+
+the precision is 0.006402048655569782
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5174698795180723
+
+the Fscore is 0.012330456226880396
+
+the precision is 0.00620347394540943
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5186746987951807
+
+the Fscore is 0.012360939431396786
+
+the precision is 0.006218905472636816
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5349819059107358
+
+the Fscore is 0.015325670498084292
+
+the precision is 0.007722007722007722
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_num_40_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5301568154402896
+
+the Fscore is 0.012674271229404309
+
+the precision is 0.006377551020408163
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7439759036144578
+
+the Fscore is 0.022988505747126436
+
+the precision is 0.011627906976744186
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7524096385542168
+
+the Fscore is 0.023752969121140142
+
+the precision is 0.01201923076923077
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7427710843373494
+
+the Fscore is 0.022883295194508005
+
+the precision is 0.011574074074074073
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7466827503015682
+
+the Fscore is 0.02777777777777778
+
+the precision is 0.014084507042253521
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7599517490952955
+
+the Fscore is 0.02450980392156863
+
+the precision is 0.01240694789081886
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5024096385542169
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5024125452352232
+
+the Fscore is 0.014336917562724013
+
+the precision is 0.007220216606498195
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5012062726176116
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5048192771084337
+
+the Fscore is 0.01201923076923077
+
+the precision is 0.006045949214026602
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5066344993968637
+
+the Fscore is 0.014457831325301203
+
+the precision is 0.007281553398058253
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_1_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.505428226779252
+
+the Fscore is 0.012048192771084336
+
+the precision is 0.006060606060606061
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7439759036144578
+
+the Fscore is 0.022988505747126436
+
+the precision is 0.011627906976744186
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.755421686746988
+
+the Fscore is 0.024038461538461536
+
+the precision is 0.012165450121654502
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.741566265060241
+
+the Fscore is 0.022779043280182234
+
+the precision is 0.01152073732718894
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.747285886610374
+
+the Fscore is 0.027842227378190254
+
+the precision is 0.01411764705882353
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7635705669481303
+
+the Fscore is 0.024875621890547265
+
+the precision is 0.012594458438287154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5012048192771084
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.014268727705112961
+
+the precision is 0.00718562874251497
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018094089264173
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5024096385542169
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.503015681544029
+
+the Fscore is 0.014354066985645933
+
+the precision is 0.007228915662650603
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_2_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5042219541616405
+
+the Fscore is 0.01201923076923077
+
+the precision is 0.006045949214026602
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7487951807228916
+
+the Fscore is 0.023419203747072598
+
+the precision is 0.011848341232227487
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7518072289156627
+
+the Fscore is 0.023696682464454978
+
+the precision is 0.011990407673860911
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.744578313253012
+
+the Fscore is 0.023041474654377885
+
+the precision is 0.011655011655011656
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7515078407720145
+
+the Fscore is 0.02830188679245283
+
+the precision is 0.014354066985645933
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7623642943305187
+
+the Fscore is 0.024752475247524754
+
+the precision is 0.012531328320802004
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5012062726176116
+
+the Fscore is 0.01430274135876043
+
+the precision is 0.007202881152460984
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006031363088057
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018072289156627
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.503015681544029
+
+the Fscore is 0.014354066985645933
+
+the precision is 0.007228915662650603
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018094089264173
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7506024096385542
+
+the Fscore is 0.02358490566037736
+
+the precision is 0.011933174224343675
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7536144578313253
+
+the Fscore is 0.02386634844868735
+
+the precision is 0.012077294685990338
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7427710843373494
+
+the Fscore is 0.022883295194508005
+
+the precision is 0.011574074074074073
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7490952955367913
+
+the Fscore is 0.02803738317757009
+
+the precision is 0.014218009478672985
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_5.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7623642943305187
+
+the Fscore is 0.024752475247524754
+
+the precision is 0.012531328320802004
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_1.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_2.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_3.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_minus_Mirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMRBF_minus_Mirror/record_1/SVMRBF_minus_Mirror_4.m
+./test_abalone19/result_SVMRBF_minus_Mirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006031363088057
+
+the Fscore is 0.014285714285714287
+
+the precision is 0.007194244604316547
+
+the recall is 1.0
+
+Done

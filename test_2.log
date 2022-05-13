@@ -12609,3 +12609,2858 @@ the precision is 0.4
 the recall is 1.0
 
 Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7093160377358491
+
+the Fscore is 0.5490196078431372
+
+the precision is 0.7368421052631579
+
+the recall is 0.4375
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7405303030303031
+
+the Fscore is 0.64
+
+the precision is 0.9411764705882353
+
+the recall is 0.48484848484848486
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7215909090909092
+
+the Fscore is 0.5882352941176471
+
+the precision is 0.8333333333333334
+
+the recall is 0.45454545454545453
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7613636363636364
+
+the Fscore is 0.631578947368421
+
+the precision is 0.75
+
+the recall is 0.5454545454545454
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7481060606060607
+
+the Fscore is 0.6530612244897959
+
+the precision is 0.9411764705882353
+
+the recall is 0.5
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8528301886792453
+
+the Fscore is 0.45070422535211263
+
+the precision is 0.2909090909090909
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8731060606060607
+
+the Fscore is 0.5660377358490566
+
+the precision is 0.410958904109589
+
+the recall is 0.9090909090909091
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8352272727272727
+
+the Fscore is 0.4313725490196079
+
+the precision is 0.275
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8693181818181819
+
+the Fscore is 0.48888888888888893
+
+the precision is 0.3235294117647059
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8503787878787878
+
+the Fscore is 0.44755244755244755
+
+the precision is 0.2882882882882883
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9283018867924528
+
+the Fscore is 0.6274509803921569
+
+the precision is 0.45714285714285713
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9053030303030303
+
+the Fscore is 0.6741573033707865
+
+the precision is 0.5357142857142857
+
+the recall is 0.9090909090909091
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8541666666666667
+
+the Fscore is 0.5420560747663552
+
+the precision is 0.3918918918918919
+
+the recall is 0.8787878787878788
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9223484848484849
+
+the Fscore is 0.616822429906542
+
+the precision is 0.44594594594594594
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_pos_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9071969696969697
+
+the Fscore is 0.5663716814159292
+
+the precision is 0.3950617283950617
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7188679245283018
+
+the Fscore is 0.3004694835680751
+
+the precision is 0.17679558011049723
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7121212121212122
+
+the Fscore is 0.3062200956937799
+
+the precision is 0.18181818181818182
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7026515151515151
+
+the Fscore is 0.29596412556053814
+
+the precision is 0.1736842105263158
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7575757575757576
+
+the Fscore is 0.34020618556701027
+
+the precision is 0.20496894409937888
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7518939393939394
+
+the Fscore is 0.3282051282051282
+
+the precision is 0.19631901840490798
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5509433962264151
+
+the Fscore is 0.21192052980132453
+
+the precision is 0.11851851851851852
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5359848484848485
+
+the Fscore is 0.2119205298013245
+
+the precision is 0.11895910780669144
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5435606060606061
+
+the Fscore is 0.21498371335504887
+
+the precision is 0.12043795620437957
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5359848484848485
+
+the Fscore is 0.2122186495176849
+
+the precision is 0.11870503597122302
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5492424242424243
+
+the Fscore is 0.21192052980132453
+
+the precision is 0.11851851851851852
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6433962264150943
+
+the Fscore is 0.2529644268774704
+
+the precision is 0.14479638009049775
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6136363636363636
+
+the Fscore is 0.24521072796934862
+
+the precision is 0.14035087719298245
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.625
+
+the Fscore is 0.25
+
+the precision is 0.14285714285714285
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6363636363636364
+
+the Fscore is 0.2558139534883721
+
+the precision is 0.14666666666666667
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_10_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.6439393939393939
+
+the Fscore is 0.25396825396825395
+
+the precision is 0.14545454545454545
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7113207547169811
+
+the Fscore is 0.29493087557603687
+
+the precision is 0.17297297297297298
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7443181818181818
+
+the Fscore is 0.33333333333333337
+
+the precision is 0.20125786163522014
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7234848484848485
+
+the Fscore is 0.3113207547169811
+
+the precision is 0.18435754189944134
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7632575757575757
+
+the Fscore is 0.3455497382198953
+
+the precision is 0.2088607594936709
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7367424242424243
+
+the Fscore is 0.31527093596059114
+
+the precision is 0.1871345029239766
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5226415094339623
+
+the Fscore is 0.2018927444794953
+
+the precision is 0.11228070175438597
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5170454545454546
+
+the Fscore is 0.20512820512820515
+
+the precision is 0.11469534050179211
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5170454545454546
+
+the Fscore is 0.205607476635514
+
+the precision is 0.11458333333333333
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5189393939393939
+
+the Fscore is 0.20625000000000002
+
+the precision is 0.11498257839721254
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5208333333333333
+
+the Fscore is 0.2018927444794953
+
+the precision is 0.11228070175438597
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.569811320754717
+
+the Fscore is 0.21917808219178084
+
+the precision is 0.12307692307692308
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5625
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.12549019607843137
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5662878787878788
+
+the Fscore is 0.22372881355932203
+
+the precision is 0.12595419847328243
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5700757575757576
+
+the Fscore is 0.22525597269624573
+
+the precision is 0.12692307692307692
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_20_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5700757575757576
+
+the Fscore is 0.21993127147766325
+
+the precision is 0.12355212355212356
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7264150943396226
+
+the Fscore is 0.3062200956937799
+
+the precision is 0.1807909604519774
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7291666666666667
+
+the Fscore is 0.32000000000000006
+
+the precision is 0.19161676646706588
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7140151515151515
+
+the Fscore is 0.304147465437788
+
+the precision is 0.1793478260869565
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7518939393939394
+
+the Fscore is 0.3350253807106599
+
+the precision is 0.20121951219512196
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.740530303030303
+
+the Fscore is 0.31840796019900497
+
+the precision is 0.1893491124260355
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5226415094339623
+
+the Fscore is 0.2018927444794953
+
+the precision is 0.11228070175438597
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.1993769470404984
+
+the precision is 0.1111111111111111
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.20183486238532108
+
+the precision is 0.11224489795918367
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075757575757576
+
+the Fscore is 0.20245398773006137
+
+the precision is 0.11262798634812286
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.19875776397515527
+
+the precision is 0.1103448275862069
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5471698113207547
+
+the Fscore is 0.21052631578947367
+
+the precision is 0.11764705882352941
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5606060606060606
+
+the Fscore is 0.2214765100671141
+
+the precision is 0.12452830188679245
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5378787878787878
+
+the Fscore is 0.21290322580645163
+
+the precision is 0.11913357400722022
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5359848484848485
+
+the Fscore is 0.2122186495176849
+
+the precision is 0.11870503597122302
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_30_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5416666666666667
+
+the Fscore is 0.2091503267973856
+
+the precision is 0.11678832116788321
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7377358490566037
+
+the Fscore is 0.31527093596059114
+
+the precision is 0.1871345029239766
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.740530303030303
+
+the Fscore is 0.32989690721649484
+
+the precision is 0.19875776397515527
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7253787878787878
+
+the Fscore is 0.3127962085308057
+
+the precision is 0.1853932584269663
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7670454545454546
+
+the Fscore is 0.34920634920634924
+
+the precision is 0.21153846153846154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7462121212121212
+
+the Fscore is 0.32323232323232326
+
+the precision is 0.1927710843373494
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075471698113208
+
+the Fscore is 0.19692307692307692
+
+the precision is 0.10921501706484642
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.530188679245283
+
+the Fscore is 0.2044728434504792
+
+the precision is 0.11387900355871886
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.537878787878788
+
+the Fscore is 0.21262458471760798
+
+the precision is 0.11940298507462686
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5303030303030303
+
+the Fscore is 0.21019108280254778
+
+the precision is 0.11743772241992882
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5284090909090908
+
+the Fscore is 0.2095238095238095
+
+the precision is 0.11702127659574468
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_num_40_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5284090909090908
+
+the Fscore is 0.2044728434504792
+
+the precision is 0.11387900355871886
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7245283018867925
+
+the Fscore is 0.30476190476190473
+
+the precision is 0.1797752808988764
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7196969696969697
+
+the Fscore is 0.31219512195121957
+
+the precision is 0.18604651162790697
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7102272727272727
+
+the Fscore is 0.3013698630136986
+
+the precision is 0.1774193548387097
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7462121212121212
+
+the Fscore is 0.32999999999999996
+
+the precision is 0.19760479041916168
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7424242424242424
+
+the Fscore is 0.32
+
+the precision is 0.19047619047619047
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5094339622641509
+
+the Fscore is 0.19753086419753085
+
+the precision is 0.1095890410958904
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.20496894409937888
+
+the precision is 0.11418685121107267
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.20307692307692307
+
+the precision is 0.11301369863013698
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5452830188679245
+
+the Fscore is 0.2098360655737705
+
+the precision is 0.11721611721611722
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5473484848484849
+
+the Fscore is 0.21621621621621623
+
+the precision is 0.12167300380228137
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5378787878787878
+
+the Fscore is 0.21290322580645163
+
+the precision is 0.11913357400722022
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5340909090909092
+
+the Fscore is 0.21153846153846156
+
+the precision is 0.11827956989247312
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_1_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5359848484848485
+
+the Fscore is 0.2071197411003236
+
+the precision is 0.11552346570397112
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7283018867924529
+
+the Fscore is 0.3076923076923077
+
+the precision is 0.18181818181818182
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.740530303030303
+
+the Fscore is 0.32989690721649484
+
+the precision is 0.19875776397515527
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7272727272727273
+
+the Fscore is 0.3142857142857143
+
+the precision is 0.1864406779661017
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7727272727272727
+
+the Fscore is 0.3548387096774193
+
+the precision is 0.21568627450980393
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7556818181818181
+
+the Fscore is 0.3316062176165803
+
+the precision is 0.19875776397515527
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5094339622641509
+
+the Fscore is 0.19753086419753085
+
+the precision is 0.1095890410958904
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.20183486238532108
+
+the precision is 0.11224489795918367
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.20307692307692307
+
+the precision is 0.11301369863013698
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.20121951219512194
+
+the precision is 0.11186440677966102
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075757575757576
+
+the Fscore is 0.19753086419753085
+
+the precision is 0.1095890410958904
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5169811320754717
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.20447284345047922
+
+the precision is 0.11428571428571428
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5246212121212122
+
+the Fscore is 0.2082018927444795
+
+the precision is 0.11619718309859155
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.2037037037037037
+
+the precision is 0.1134020618556701
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_2_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5189393939393939
+
+the Fscore is 0.20125786163522014
+
+the precision is 0.11188811188811189
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7377358490566037
+
+the Fscore is 0.31527093596059114
+
+the precision is 0.1871345029239766
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7424242424242424
+
+the Fscore is 0.3316062176165804
+
+the precision is 0.2
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7272727272727273
+
+the Fscore is 0.3142857142857143
+
+the precision is 0.1864406779661017
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7727272727272727
+
+the Fscore is 0.3548387096774193
+
+the precision is 0.21568627450980393
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7424242424242424
+
+the Fscore is 0.32
+
+the precision is 0.19047619047619047
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5075471698113208
+
+the Fscore is 0.19692307692307692
+
+the precision is 0.10921501706484642
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.48863636363636365
+
+the Fscore is 0.19571865443425077
+
+the precision is 0.10884353741496598
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.20121951219512194
+
+the precision is 0.11186440677966102
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5056818181818181
+
+the Fscore is 0.19692307692307692
+
+the precision is 0.10921501706484642
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5169811320754717
+
+the Fscore is 0.19999999999999998
+
+the precision is 0.1111111111111111
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5208333333333333
+
+the Fscore is 0.20689655172413793
+
+the precision is 0.11538461538461539
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5151515151515151
+
+the Fscore is 0.20496894409937888
+
+the precision is 0.11418685121107267
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5075757575757576
+
+the Fscore is 0.20245398773006137
+
+the precision is 0.11262798634812286
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_3_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.19937694704049846
+
+the precision is 0.11072664359861592
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7320754716981133
+
+the Fscore is 0.3106796116504854
+
+the precision is 0.1839080459770115
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.740530303030303
+
+the Fscore is 0.32989690721649484
+
+the precision is 0.19875776397515527
+
+the recall is 0.9696969696969697
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7367424242424243
+
+the Fscore is 0.3219512195121952
+
+the precision is 0.19186046511627908
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7708333333333334
+
+the Fscore is 0.35294117647058826
+
+the precision is 0.21428571428571427
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_half
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7518939393939394
+
+the Fscore is 0.3282051282051282
+
+the precision is 0.19631901840490798
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018867924528302
+
+the Fscore is 0.1951219512195122
+
+the precision is 0.10810810810810811
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.20121951219512194
+
+the precision is 0.11186440677966102
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5018939393939394
+
+the Fscore is 0.2006079027355623
+
+the precision is 0.11148648648648649
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_1
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.19631901840490798
+
+the precision is 0.10884353741496598
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5113207547169811
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_2.csv
+./test_yeast5/standlization_data/yeast5_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5132575757575757
+
+the Fscore is 0.2043343653250774
+
+the precision is 0.11379310344827587
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_3.csv
+./test_yeast5/standlization_data/yeast5_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5113636363636364
+
+the Fscore is 0.2037037037037037
+
+the precision is 0.1134020618556701
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_4.csv
+./test_yeast5/standlization_data/yeast5_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5037878787878788
+
+the Fscore is 0.20121951219512194
+
+the precision is 0.11186440677966102
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_5.csv
+./test_yeast5/standlization_data/yeast5_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_neg_IR_4_3
+./test_yeast5/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_yeast5/result_SVMRBF_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.509469696969697
+
+the Fscore is 0.1981424148606811
+
+the precision is 0.10996563573883161
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.svm.classes module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.svm. Anything that cannot be imported from sklearn.svm is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.21.2 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_yeast5/standlization_data/yeast5_std_train_1.csv
+./test_yeast5/standlization_data/yeast5_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_random_num_10_half
+./test_yeast5/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_yeast5/result_SVMRBF_concat_Mirror_concat_random_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_LR_SVM/test.py", line 194, in <module>
+    test_result = model.predict(cur_test_data)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/_base.py", line 585, in predict
+    if self.break_ties and self.decision_function_shape == 'ovo':
+AttributeError: 'SVC' object has no attribute 'break_ties'
