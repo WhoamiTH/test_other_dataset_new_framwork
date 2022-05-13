@@ -2165,3 +2165,2005 @@ the precision is 0.007194244604316547
 the recall is 1.0
 
 Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5042168674698795
+
+the Fscore is 0.012004801920768306
+
+the precision is 0.006038647342995169
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018072289156627
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5036144578313253
+
+the Fscore is 0.01199040767386091
+
+the precision is 0.006031363088057901
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.503015681544029
+
+the Fscore is 0.014354066985645933
+
+the precision is 0.007228915662650603
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5012062726176116
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8831325301204819
+
+the Fscore is 0.21621621621621623
+
+the precision is 0.125
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.49096385542168675
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6855421686746987
+
+the Fscore is 0.12903225806451613
+
+the precision is 0.07692307692307693
+
+the recall is 0.4
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5712706071572176
+
+the Fscore is 0.07407407407407407
+
+the precision is 0.047619047619047616
+
+the recall is 0.16666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6891435464414958
+
+the Fscore is 0.16000000000000003
+
+the precision is 0.1
+
+the recall is 0.4
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8500000000000001
+
+the Fscore is 0.08695652173913043
+
+the precision is 0.04597701149425287
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5578313253012048
+
+the Fscore is 0.02631578947368421
+
+the precision is 0.014084507042253521
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.760843373493976
+
+the Fscore is 0.08219178082191782
+
+the precision is 0.04411764705882353
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7959388821873743
+
+the Fscore is 0.1111111111111111
+
+the precision is 0.06060606060606061
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8529553679131484
+
+the Fscore is 0.09195402298850576
+
+the precision is 0.04878048780487805
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8668674698795181
+
+the Fscore is 0.125
+
+the precision is 0.06779661016949153
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5783132530120482
+
+the Fscore is 0.047619047619047616
+
+the precision is 0.02702702702702703
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7753012048192772
+
+the Fscore is 0.1224489795918367
+
+the precision is 0.06818181818181818
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7276839565741858
+
+the Fscore is 0.13043478260869565
+
+the precision is 0.075
+
+the recall is 0.5
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_10_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7740651387213511
+
+the Fscore is 0.11764705882352941
+
+the precision is 0.06521739130434782
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8843373493975903
+
+the Fscore is 0.2285714285714286
+
+the precision is 0.13333333333333333
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.491566265060241
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6879518072289157
+
+the Fscore is 0.14814814814814814
+
+the precision is 0.09090909090909091
+
+the recall is 0.4
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5712706071572176
+
+the Fscore is 0.07407407407407407
+
+the precision is 0.047619047619047616
+
+the recall is 0.16666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6927623642943305
+
+the Fscore is 0.21052631578947364
+
+the precision is 0.14285714285714285
+
+the recall is 0.4
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.846987951807229
+
+the Fscore is 0.08247422680412371
+
+the precision is 0.043478260869565216
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5518072289156626
+
+the Fscore is 0.023255813953488372
+
+the precision is 0.012345679012345678
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7578313253012049
+
+the Fscore is 0.07692307692307691
+
+the precision is 0.0410958904109589
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7953357458785685
+
+the Fscore is 0.10958904109589042
+
+the precision is 0.05970149253731343
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8487334137515079
+
+the Fscore is 0.0851063829787234
+
+the precision is 0.0449438202247191
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8554216867469879
+
+the Fscore is 0.09638554216867469
+
+the precision is 0.05128205128205128
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.563855421686747
+
+the Fscore is 0.030303030303030307
+
+the precision is 0.01639344262295082
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7620481927710844
+
+the Fscore is 0.08450704225352113
+
+the precision is 0.045454545454545456
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7965420184961801
+
+the Fscore is 0.11267605633802817
+
+the precision is 0.06153846153846154
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_20_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8559710494571773
+
+the Fscore is 0.0975609756097561
+
+the precision is 0.05194805194805195
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5939759036144578
+
+the Fscore is 0.12500000000000003
+
+the precision is 0.09090909090909091
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4939759036144578
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6933734939759036
+
+the Fscore is 0.2222222222222222
+
+the precision is 0.15384615384615385
+
+the recall is 0.4
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4927623642943305
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.594571773220748
+
+the Fscore is 0.13333333333333333
+
+the precision is 0.1
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8463855421686748
+
+the Fscore is 0.08163265306122451
+
+the precision is 0.043010752688172046
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5518072289156626
+
+the Fscore is 0.023255813953488372
+
+the precision is 0.012345679012345678
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7578313253012049
+
+the Fscore is 0.07692307692307691
+
+the precision is 0.0410958904109589
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7953357458785685
+
+the Fscore is 0.10958904109589042
+
+the precision is 0.05970149253731343
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8487334137515079
+
+the Fscore is 0.0851063829787234
+
+the precision is 0.0449438202247191
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8548192771084338
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5632530120481928
+
+the Fscore is 0.029850746268656716
+
+the precision is 0.016129032258064516
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7620481927710844
+
+the Fscore is 0.08450704225352113
+
+the precision is 0.045454545454545456
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7965420184961801
+
+the Fscore is 0.11267605633802817
+
+the precision is 0.06153846153846154
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_30_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8547647768395658
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5987951807228916
+
+the Fscore is 0.25
+
+the precision is 0.3333333333333333
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.4987951807228916
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.49939759036144576
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.49939686369119424
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8463855421686748
+
+the Fscore is 0.08163265306122451
+
+the precision is 0.043010752688172046
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5518072289156626
+
+the Fscore is 0.023255813953488372
+
+the precision is 0.012345679012345678
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7578313253012049
+
+the Fscore is 0.07692307692307691
+
+the precision is 0.0410958904109589
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7953357458785685
+
+the Fscore is 0.10958904109589042
+
+the precision is 0.05970149253731343
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8487334137515079
+
+the Fscore is 0.0851063829787234
+
+the precision is 0.0449438202247191
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8548192771084338
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5632530120481928
+
+the Fscore is 0.029850746268656716
+
+the precision is 0.016129032258064516
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7620481927710844
+
+the Fscore is 0.08450704225352113
+
+the precision is 0.045454545454545456
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7965420184961801
+
+the Fscore is 0.11267605633802817
+
+the precision is 0.06153846153846154
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_num_40_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8547647768395658
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8463855421686748
+
+the Fscore is 0.08163265306122451
+
+the precision is 0.043010752688172046
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5518072289156626
+
+the Fscore is 0.023255813953488372
+
+the precision is 0.012345679012345678
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7578313253012049
+
+the Fscore is 0.07692307692307691
+
+the precision is 0.0410958904109589
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7953357458785685
+
+the Fscore is 0.10958904109589042
+
+the precision is 0.05970149253731343
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8487334137515079
+
+the Fscore is 0.0851063829787234
+
+the precision is 0.0449438202247191
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8548192771084338
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5632530120481928
+
+the Fscore is 0.029850746268656716
+
+the precision is 0.016129032258064516
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7620481927710844
+
+the Fscore is 0.08450704225352113
+
+the precision is 0.045454545454545456
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7965420184961801
+
+the Fscore is 0.11267605633802817
+
+the precision is 0.06153846153846154
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_1_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8547647768395658
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8463855421686748
+
+the Fscore is 0.08163265306122451
+
+the precision is 0.043010752688172046
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5518072289156626
+
+the Fscore is 0.023255813953488372
+
+the precision is 0.012345679012345678
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7578313253012049
+
+the Fscore is 0.07692307692307691
+
+the precision is 0.0410958904109589
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.7953357458785685
+
+the Fscore is 0.10958904109589042
+
+the precision is 0.05970149253731343
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8487334137515079
+
+the Fscore is 0.0851063829787234
+
+the precision is 0.0449438202247191
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8548192771084338
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5632530120481928
+
+the Fscore is 0.029850746268656716
+
+the precision is 0.016129032258064516
+
+the recall is 0.2
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7620481927710844
+
+the Fscore is 0.08450704225352113
+
+the precision is 0.045454545454545456
+
+the recall is 0.6
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.7965420184961801
+
+the Fscore is 0.11267605633802817
+
+the precision is 0.06153846153846154
+
+the recall is 0.6666666666666666
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_2_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8547647768395658
+
+the Fscore is 0.09523809523809523
+
+the precision is 0.05063291139240506
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_3_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_3_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_3_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_3_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/junda/.conda/envs/th212/lib/python3.6/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_3_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.0
+
+the precision is 0.0
+
+the recall is 0.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_pos_IR_3_1
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.8463855421686748
+
+the Fscore is 0.08163265306122451
+
+the precision is 0.043010752688172046
+
+the recall is 0.8
+
+Done
