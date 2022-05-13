@@ -1,1441 +1,124 @@
 nohup: ignoring input
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_1.csv
-./test_glass5/standlization_data/glass5_std_test_1.csv
-SVMRBF
-normal
-./test_glass5/model_SVMRBF/record_1/SVMRBF_1.m
-./test_glass5/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_2.csv
-./test_glass5/standlization_data/glass5_std_test_2.csv
-SVMRBF
-normal
-./test_glass5/model_SVMRBF/record_1/SVMRBF_2.m
-./test_glass5/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_3.csv
-./test_glass5/standlization_data/glass5_std_test_3.csv
-SVMRBF
-normal
-./test_glass5/model_SVMRBF/record_1/SVMRBF_3.m
-./test_glass5/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_4.csv
-./test_glass5/standlization_data/glass5_std_test_4.csv
-SVMRBF
-normal
-./test_glass5/model_SVMRBF/record_1/SVMRBF_4.m
-./test_glass5/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_5.csv
-./test_glass5/standlization_data/glass5_std_test_5.csv
-SVMRBF
-normal
-./test_glass5/model_SVMRBF/record_1/SVMRBF_5.m
-./test_glass5/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_1.csv
-./test_glass5/standlization_data/glass5_std_test_1.csv
-SVMPOLY
-normal
-./test_glass5/model_SVMPOLY/record_1/SVMPOLY_1.m
-./test_glass5/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_2.csv
-./test_glass5/standlization_data/glass5_std_test_2.csv
-SVMPOLY
-normal
-./test_glass5/model_SVMPOLY/record_1/SVMPOLY_2.m
-./test_glass5/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_3.csv
-./test_glass5/standlization_data/glass5_std_test_3.csv
-SVMPOLY
-normal
-./test_glass5/model_SVMPOLY/record_1/SVMPOLY_3.m
-./test_glass5/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_glass5/standlization_data/glass5_std_train_4.csv
-./test_glass5/standlization_data/glass5_std_test_4.csv
-SVMPOLY
-normal
-./test_glass5/model_SVMPOLY/record_1/SVMPOLY_4.m
-./test_glass5/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_glass5/standlization_data/glass5_std_train_5.csv
-./test_glass5/standlization_data/glass5_std_test_5.csv
-SVMPOLY
-normal
-./test_glass5/model_SVMPOLY/record_1/SVMPOLY_5.m
-./test_glass5/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.75
-
-the Fscore is 0.6666666666666666
-
-the precision is 1.0
-
-the recall is 0.5
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_1.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_1.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6572327044025157
-
-the Fscore is 0.47619047619047616
-
-the precision is 0.8333333333333334
-
-the recall is 0.3333333333333333
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_2.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_2.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5333333333333333
-
-the Fscore is 0.125
-
-the precision is 1.0
-
-the recall is 0.06666666666666667
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_3.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_3.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6333333333333333
-
-the Fscore is 0.4210526315789474
-
-the precision is 1.0
-
-the recall is 0.26666666666666666
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_4.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_4.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_5.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_5.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.53125
-
-the Fscore is 0.11764705882352941
-
-the precision is 1.0
-
-the recall is 0.0625
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_1.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_1.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5572327044025157
-
-the Fscore is 0.2222222222222222
-
-the precision is 0.6666666666666666
-
-the recall is 0.13333333333333333
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_2.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_2.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5333333333333333
-
-the Fscore is 0.125
-
-the precision is 1.0
-
-the recall is 0.06666666666666667
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_3.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_3.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6333333333333333
-
-the Fscore is 0.4210526315789474
-
-the precision is 1.0
-
-the recall is 0.26666666666666666
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_4.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_4.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5625
-
-the Fscore is 0.2222222222222222
-
-the precision is 1.0
-
-the recall is 0.125
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_5.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_5.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5625
-
-the Fscore is 0.2222222222222222
-
-the precision is 1.0
-
-the recall is 0.125
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_1.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_1.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6572327044025157
-
-the Fscore is 0.47619047619047616
-
-the precision is 0.8333333333333334
-
-the recall is 0.3333333333333333
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_2.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_2.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5333333333333333
-
-the Fscore is 0.125
-
-the precision is 1.0
-
-the recall is 0.06666666666666667
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_3.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_3.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6333333333333333
-
-the Fscore is 0.4210526315789474
-
-the precision is 1.0
-
-the recall is 0.26666666666666666
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_4.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_4.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5
-
-the Fscore is 0.0
-
-the precision is 0.0
-
-the recall is 0.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_5.csv
-SVMRBF
-normal
-./test_ecoli1/model_SVMRBF/record_1/SVMRBF_5.m
-./test_ecoli1/result_SVMRBF_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.53125
-
-the Fscore is 0.11764705882352941
-
-the precision is 1.0
-
-the recall is 0.0625
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_1.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_1.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_1.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5572327044025157
-
-the Fscore is 0.2222222222222222
-
-the precision is 0.6666666666666666
-
-the recall is 0.13333333333333333
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_2.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_2.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_2.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5333333333333333
-
-the Fscore is 0.125
-
-the precision is 1.0
-
-the recall is 0.06666666666666667
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_3.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_3.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_3.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.6333333333333333
-
-the Fscore is 0.4210526315789474
-
-the precision is 1.0
-
-the recall is 0.26666666666666666
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_4.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_4.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_4.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5625
-
-the Fscore is 0.2222222222222222
-
-the precision is 1.0
-
-the recall is 0.125
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_ecoli1/standlization_data/ecoli1_std_train_5.csv
-./test_ecoli1/standlization_data/ecoli1_std_test_5.csv
-SVMPOLY
-normal
-./test_ecoli1/model_SVMPOLY/record_1/SVMPOLY_5.m
-./test_ecoli1/result_SVMPOLY_normal/record_1/
-----------------------
-
-
-
-the AUC is 0.5625
-
-the Fscore is 0.2222222222222222
-
-the precision is 1.0
-
-the recall is 0.125
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.9682692307692309
+the AUC is 0.7961538461538462
 
-the Fscore is 0.9285714285714285
+the Fscore is 0.6015037593984962
 
-the precision is 0.8863636363636364
+the precision is 0.43010752688172044
 
-the recall is 0.975
+the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.9681201550387598
+the AUC is 0.7945736434108527
 
-the Fscore is 0.9285714285714285
+the Fscore is 0.6015037593984962
 
-the precision is 0.8863636363636364
+the precision is 0.43010752688172044
 
-the recall is 0.975
+the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.9431201550387598
+the AUC is 0.7945736434108527
 
-the Fscore is 0.9024390243902439
+the Fscore is 0.6015037593984962
 
-the precision is 0.8809523809523809
+the precision is 0.43010752688172044
 
-the recall is 0.925
+the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.9344961240310076
+the AUC is 0.8023255813953488
 
-the Fscore is 0.9
+the Fscore is 0.6106870229007634
 
-the precision is 0.9
+the precision is 0.43956043956043955
 
-the recall is 0.9
+the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.9717948717948719
+the AUC is 0.8038461538461539
 
-the Fscore is 0.9382716049382716
+the Fscore is 0.6046511627906976
 
-the precision is 0.9047619047619048
+the precision is 0.43333333333333335
 
-the recall is 0.9743589743589743
+the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_1/record_1/
 ----------------------
 
 
 
-the AUC is 0.9625
+the AUC is 0.5807692307692307
 
-the Fscore is 0.961038961038961
+the Fscore is 0.42328042328042326
 
-the precision is 1.0
+the precision is 0.2684563758389262
 
-the recall is 0.925
+the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_3/record_1/
-----------------------
-
-
-
-the AUC is 0.9297480620155039
-
-the Fscore is 0.9090909090909091
-
-the precision is 0.9459459459459459
-
-the recall is 0.875
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_3/record_1/
-----------------------
-
-
-
-the AUC is 0.9086240310077519
-
-the Fscore is 0.8918918918918919
-
-the precision is 0.9705882352941176
-
-the recall is 0.825
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_3/record_1/
-----------------------
-
-
-
-the AUC is 0.8922480620155038
-
-the Fscore is 0.8648648648648648
-
-the precision is 0.9411764705882353
-
-the recall is 0.8
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_pos_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_pos_IR_4_3/record_1/
-----------------------
-
-
-
-the AUC is 0.8897435897435897
-
-the Fscore is 0.8611111111111112
-
-the precision is 0.9393939393939394
-
-the recall is 0.7948717948717948
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7346153846153847
-
-the Fscore is 0.5369127516778524
-
-the precision is 0.3669724770642202
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7054263565891472
-
-the Fscore is 0.5128205128205129
-
-the precision is 0.3448275862068966
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7248062015503876
-
-the Fscore is 0.5298013245033113
-
-the precision is 0.36036036036036034
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7209302325581395
-
-the Fscore is 0.5263157894736842
-
-the precision is 0.35714285714285715
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7346153846153847
-
-the Fscore is 0.5306122448979591
-
-the precision is 0.3611111111111111
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5346153846153846
-
-the Fscore is 0.3980099502487562
-
-the precision is 0.2484472049689441
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5348837209302326
-
-the Fscore is 0.4
-
-the precision is 0.25
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5581395348837209
-
-the Fscore is 0.4123711340206185
-
-the precision is 0.2597402597402597
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5426356589147288
-
-the Fscore is 0.4040404040404041
-
-the precision is 0.25316455696202533
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5461538461538462
-
-the Fscore is 0.3979591836734694
-
-the precision is 0.2484076433121019
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6692307692307693
-
-the Fscore is 0.4819277108433735
-
-the precision is 0.31746031746031744
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6201550387596899
-
-the Fscore is 0.44943820224719105
-
-the precision is 0.2898550724637681
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6201550387596899
-
-the Fscore is 0.44943820224719105
-
-the precision is 0.2898550724637681
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6124031007751938
-
-the Fscore is 0.4444444444444445
-
-the precision is 0.2857142857142857
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_10_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_10_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6307692307692307
-
-the Fscore is 0.4482758620689655
-
-the precision is 0.28888888888888886
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_half/record_1/
-----------------------
-
-
-
-the AUC is 0.75
-
-the Fscore is 0.5517241379310345
-
-the precision is 0.38095238095238093
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_half/record_1/
-----------------------
-
-
-
-the AUC is 0.689922480620155
-
-the Fscore is 0.5
-
-the precision is 0.3333333333333333
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7093023255813953
-
-the Fscore is 0.5161290322580645
-
-the precision is 0.34782608695652173
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7674418604651163
-
-the Fscore is 0.5714285714285715
-
-the precision is 0.4
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7653846153846153
-
-the Fscore is 0.5611510791366906
-
-the precision is 0.39
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5153846153846153
-
-the Fscore is 0.38834951456310685
-
-the precision is 0.24096385542168675
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5232558139534884
-
-the Fscore is 0.39408866995073893
-
-the precision is 0.24539877300613497
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5348837209302326
-
-the Fscore is 0.4
-
-the precision is 0.25
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5193798449612403
-
-the Fscore is 0.39215686274509803
-
-the precision is 0.24390243902439024
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5153846153846153
-
-the Fscore is 0.3823529411764706
-
-the precision is 0.23636363636363636
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_3/record_1/
-----------------------
-
-
-
-the AUC is 0.573076923076923
-
-the Fscore is 0.41884816753926707
-
-the precision is 0.26490066225165565
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5658914728682171
-
-the Fscore is 0.4166666666666667
-
-the precision is 0.2631578947368421
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_1/record_1/
 ----------------------
 
 
@@ -1449,329 +132,31 @@ the precision is 0.26143790849673204
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5697674418604651
-
-the Fscore is 0.41884816753926707
-
-the precision is 0.26490066225165565
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_20_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_20_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5538461538461539
-
-the Fscore is 0.4020618556701031
-
-the precision is 0.25161290322580643
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7769230769230769
-
-the Fscore is 0.5797101449275363
-
-the precision is 0.40816326530612246
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7131782945736433
-
-the Fscore is 0.5194805194805194
-
-the precision is 0.3508771929824561
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_half/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_1/record_1/
 ----------------------
 
 
 
-the AUC is 0.748062015503876
+the AUC is 0.5581395348837209
 
-the Fscore is 0.5517241379310345
+the Fscore is 0.4123711340206185
 
-the precision is 0.38095238095238093
+the precision is 0.2597402597402597
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7248062015503876
-
-the Fscore is 0.5298013245033113
-
-the precision is 0.36036036036036034
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7461538461538462
-
-the Fscore is 0.5416666666666666
-
-the precision is 0.37142857142857144
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5076923076923077
-
-the Fscore is 0.3846153846153846
-
-the precision is 0.23809523809523808
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5155038759689923
-
-the Fscore is 0.3902439024390244
-
-the precision is 0.24242424242424243
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5271317829457365
-
-the Fscore is 0.396039603960396
-
-the precision is 0.24691358024691357
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5155038759689923
-
-the Fscore is 0.3902439024390244
-
-the precision is 0.24242424242424243
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5115384615384615
-
-the Fscore is 0.3804878048780488
-
-the precision is 0.23493975903614459
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5653846153846154
-
-the Fscore is 0.4145077720207254
-
-the precision is 0.26143790849673204
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5387596899224807
-
-the Fscore is 0.4020100502512563
-
-the precision is 0.25157232704402516
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5542635658914729
-
-the Fscore is 0.41025641025641024
-
-the precision is 0.25806451612903225
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_1/record_1/
 ----------------------
 
 
@@ -1785,313 +170,17 @@ the precision is 0.25477707006369427
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_30_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_30_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_1/record_1/
 ----------------------
 
 
 
-the AUC is 0.5423076923076924
-
-the Fscore is 0.39593908629441626
-
-the precision is 0.2468354430379747
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7615384615384615
-
-the Fscore is 0.5633802816901409
-
-the precision is 0.39215686274509803
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_half/record_1/
-----------------------
-
-
-
-the AUC is 0.6976744186046512
-
-the Fscore is 0.5063291139240507
-
-the precision is 0.3389830508474576
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7286821705426356
-
-the Fscore is 0.5333333333333333
-
-the precision is 0.36363636363636365
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7403100775193798
-
-the Fscore is 0.5442176870748299
-
-the precision is 0.37383177570093457
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7576923076923077
-
-the Fscore is 0.5531914893617021
-
-the precision is 0.38235294117647056
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5153846153846153
-
-the Fscore is 0.38834951456310685
-
-the precision is 0.24096385542168675
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5038759689922481
-
-the Fscore is 0.3846153846153846
-
-the precision is 0.23809523809523808
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5232558139534884
-
-the Fscore is 0.39408866995073893
-
-the precision is 0.24539877300613497
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5077519379844961
-
-the Fscore is 0.38647342995169076
-
-the precision is 0.23952095808383234
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5153846153846153
-
-the Fscore is 0.3823529411764706
-
-the precision is 0.23636363636363636
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5346153846153846
-
-the Fscore is 0.3980099502487562
-
-the precision is 0.2484472049689441
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5271317829457365
-
-the Fscore is 0.396039603960396
-
-the precision is 0.24691358024691357
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5387596899224807
-
-the Fscore is 0.4020100502512563
-
-the precision is 0.25157232704402516
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5348837209302326
+the AUC is 0.55
 
 the Fscore is 0.4
 
@@ -2100,560 +189,12 @@ the precision is 0.25
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_num_40_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_num_40_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5269230769230769
-
-the Fscore is 0.3880597014925373
-
-the precision is 0.24074074074074073
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7423076923076923
-
-the Fscore is 0.5442176870748299
-
-the precision is 0.37383177570093457
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_half/record_1/
-----------------------
-
-
-
-the AUC is 0.6627906976744187
-
-the Fscore is 0.4790419161676647
-
-the precision is 0.31496062992125984
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_half/record_1/
-----------------------
-
-
-
-the AUC is 0.6782945736434108
-
-the Fscore is 0.49079754601226994
-
-the precision is 0.3252032520325203
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_half/record_1/
-----------------------
-
-
-
-the AUC is 0.6666666666666667
-
-the Fscore is 0.4819277108433735
-
-the precision is 0.31746031746031744
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7115384615384616
-
-the Fscore is 0.5098039215686275
-
-the precision is 0.34210526315789475
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_1/record_1/
-----------------------
-
-
-
-the AUC is 0.6192307692307693
-
-the Fscore is 0.44692737430167595
-
-the precision is 0.28776978417266186
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5852713178294573
-
-the Fscore is 0.42780748663101603
-
-the precision is 0.272108843537415
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5775193798449613
-
-the Fscore is 0.42328042328042326
-
-the precision is 0.2684563758389262
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5930232558139534
-
-the Fscore is 0.4324324324324324
-
-the precision is 0.27586206896551724
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_1/record_1/
-----------------------
-
-
-
-the AUC is 0.6076923076923078
-
-the Fscore is 0.43333333333333335
-
-the precision is 0.2765957446808511
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_3/record_1/
-----------------------
-
-
-
-the AUC is 0.823076923076923
-
-the Fscore is 0.6349206349206349
-
-the precision is 0.46511627906976744
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_3/record_1/
-----------------------
-
-
-
-the AUC is 0.7713178294573644
-
-the Fscore is 0.5755395683453237
-
-the precision is 0.40404040404040403
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_3/record_1/
-----------------------
-
-
-
-the AUC is 0.8178294573643411
-
-the Fscore is 0.6299212598425197
-
-the precision is 0.45977011494252873
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_3/record_1/
-----------------------
-
-
-
-the AUC is 0.8178294573643411
-
-the Fscore is 0.6299212598425197
-
-the precision is 0.45977011494252873
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_1_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_1_3/record_1/
-----------------------
-
-
-
-the AUC is 0.7961538461538462
-
-the Fscore is 0.5954198473282443
-
-the precision is 0.42391304347826086
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7538461538461538
-
-the Fscore is 0.5555555555555556
-
-the precision is 0.38461538461538464
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_half/record_1/
-----------------------
-
-
-
-the AUC is 0.689922480620155
-
-the Fscore is 0.5
-
-the precision is 0.3333333333333333
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7054263565891472
-
-the Fscore is 0.5128205128205129
-
-the precision is 0.3448275862068966
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7131782945736433
-
-the Fscore is 0.5194805194805194
-
-the precision is 0.3508771929824561
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7192307692307692
-
-the Fscore is 0.5165562913907285
-
-the precision is 0.3482142857142857
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5653846153846154
-
-the Fscore is 0.4145077720207254
-
-the precision is 0.26143790849673204
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5542635658914729
-
-the Fscore is 0.41025641025641024
-
-the precision is 0.25806451612903225
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5697674418604651
-
-the Fscore is 0.41884816753926707
-
-the precision is 0.26490066225165565
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5503875968992248
-
-the Fscore is 0.4081632653061224
-
-the precision is 0.2564102564102564
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5538461538461539
-
-the Fscore is 0.4020618556701031
-
-the precision is 0.25161290322580643
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_3/record_1/
 ----------------------
 
 
@@ -2667,539 +208,202 @@ the precision is 0.3305785123966942
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.6434108527131783
+the AUC is 0.6782945736434108
 
-the Fscore is 0.4651162790697675
+the Fscore is 0.49079754601226994
 
-the precision is 0.30303030303030304
+the precision is 0.3252032520325203
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.6472868217054264
+the AUC is 0.686046511627907
 
-the Fscore is 0.4678362573099415
+the Fscore is 0.4968944099378882
 
-the precision is 0.3053435114503817
+the precision is 0.3305785123966942
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.6627906976744187
+the AUC is 0.6744186046511628
 
-the Fscore is 0.4790419161676647
+the Fscore is 0.4878048780487805
 
-the precision is 0.31496062992125984
+the precision is 0.3225806451612903
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_2_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_2_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_10_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.6615384615384615
+the AUC is 0.6846153846153846
 
-the Fscore is 0.4698795180722892
+the Fscore is 0.48749999999999993
 
-the precision is 0.30708661417322836
+the precision is 0.32231404958677684
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_half/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.7615384615384615
+the AUC is 0.8384615384615385
 
-the Fscore is 0.5633802816901409
+the Fscore is 0.6557377049180327
 
-the precision is 0.39215686274509803
+the precision is 0.4878048780487805
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_half/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.7131782945736433
+the AUC is 0.7945736434108527
 
-the Fscore is 0.5194805194805194
+the Fscore is 0.6015037593984962
 
-the precision is 0.3508771929824561
+the precision is 0.43010752688172044
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_half/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.7131782945736433
+the AUC is 0.8217054263565892
 
-the Fscore is 0.5194805194805194
+the Fscore is 0.6349206349206349
 
-the precision is 0.3508771929824561
+the precision is 0.46511627906976744
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_half/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.7248062015503876
+the AUC is 0.7713178294573644
 
-the Fscore is 0.5298013245033113
+the Fscore is 0.5755395683453237
 
-the precision is 0.36036036036036034
+the precision is 0.40404040404040403
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_half/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_half/record_1/
 ----------------------
 
 
 
-the AUC is 0.6961538461538461
+the AUC is 0.8076923076923077
 
-the Fscore is 0.4968152866242038
+the Fscore is 0.609375
 
-the precision is 0.3305084745762712
+the precision is 0.43820224719101125
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_1/record_1/
 ----------------------
 
 
 
-the AUC is 0.5538461538461539
+the AUC is 0.5384615384615384
 
-the Fscore is 0.4081632653061224
+the Fscore is 0.4
 
-the precision is 0.2564102564102564
+the precision is 0.25
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5271317829457365
-
-the Fscore is 0.396039603960396
-
-the precision is 0.24691358024691357
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5542635658914729
-
-the Fscore is 0.41025641025641024
-
-the precision is 0.25806451612903225
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5465116279069768
-
-the Fscore is 0.40609137055837563
-
-the precision is 0.25477707006369427
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5307692307692308
-
-the Fscore is 0.38999999999999996
-
-the precision is 0.2422360248447205
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6269230769230769
-
-the Fscore is 0.45197740112994345
-
-the precision is 0.291970802919708
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6046511627906976
-
-the Fscore is 0.43956043956043955
-
-the precision is 0.28169014084507044
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
-----------------------
-
-
-
-the AUC is 0.5968992248062015
-
-the Fscore is 0.4347826086956522
-
-the precision is 0.2777777777777778
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6124031007751938
-
-the Fscore is 0.4444444444444445
-
-the precision is 0.2857142857142857
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_3_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
-----------------------
-
-
-
-the AUC is 0.6153846153846154
-
-the Fscore is 0.4382022471910112
-
-the precision is 0.2805755395683453
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7615384615384615
-
-the Fscore is 0.5633802816901409
-
-the precision is 0.39215686274509803
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
-----------------------
-
-
-
-the AUC is 0.6937984496124031
-
-the Fscore is 0.5031446540880503
-
-the precision is 0.33613445378151263
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7093023255813953
-
-the Fscore is 0.5161290322580645
-
-the precision is 0.34782608695652173
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
-----------------------
-
-
-
-the AUC is 0.748062015503876
-
-the Fscore is 0.5517241379310345
-
-the precision is 0.38095238095238093
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_half
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
-----------------------
-
-
-
-the AUC is 0.7653846153846153
-
-the Fscore is 0.5611510791366906
-
-the precision is 0.39
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
-----------------------
-
-
-
-the AUC is 0.5307692307692308
-
-the Fscore is 0.396039603960396
-
-the precision is 0.24691358024691357
-
-the recall is 1.0
-
-Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
-./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
-./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_1/record_1/
 ----------------------
 
 
@@ -3213,35 +417,31 @@ the precision is 0.2484472049689441
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_1/record_1/
 ----------------------
 
 
 
-the AUC is 0.5387596899224807
+the AUC is 0.5426356589147288
 
-the Fscore is 0.4020100502512563
+the Fscore is 0.4040404040404041
 
-the precision is 0.25157232704402516
+the precision is 0.25316455696202533
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_1/record_1/
 ----------------------
 
 
@@ -3255,98 +455,88 @@ the precision is 0.24691358024691357
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_1
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_1/record_1/
 ----------------------
 
 
 
-the AUC is 0.5461538461538462
+the AUC is 0.5307692307692308
 
-the Fscore is 0.3979591836734694
+the Fscore is 0.38999999999999996
 
-the precision is 0.2484076433121019
+the precision is 0.2422360248447205
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.5846153846153845
+the AUC is 0.6192307692307693
 
-the Fscore is 0.4255319148936171
+the Fscore is 0.44692737430167595
 
-the precision is 0.2702702702702703
+the precision is 0.28776978417266186
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.5736434108527132
+the AUC is 0.5930232558139534
 
-the Fscore is 0.4210526315789474
+the Fscore is 0.4324324324324324
 
-the precision is 0.26666666666666666
+the precision is 0.27586206896551724
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_3/record_1/
 ----------------------
 
 
 
-the AUC is 0.5775193798449613
+the AUC is 0.5852713178294573
 
-the Fscore is 0.42328042328042326
+the Fscore is 0.42780748663101603
 
-the precision is 0.2684563758389262
+the precision is 0.272108843537415
 
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_3/record_1/
 ----------------------
 
 
@@ -3360,14 +550,12 @@ the precision is 0.2702702702702703
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
-SVMPOLY_minus_notMirror
-minus_neg_IR_4_3
-./test_vehicle0/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
-./test_vehicle0/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+SVMPOLY_concat_Mirror
+concat_random_num_20_3
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_20_3/record_1/
 ----------------------
 
 
@@ -3381,23 +569,174 @@ the precision is 0.2635135135135135
 the recall is 1.0
 
 Done
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.svm.classes module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.svm. Anything that cannot be imported from sklearn.svm is now part of the private API.
-  warnings.warn(message, FutureWarning)
-/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.21.2 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
-  UserWarning)
 ./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
 ./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
 SVMPOLY_concat_Mirror
-concat_random_num_10_half
+concat_random_num_30_half
 ./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
-./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_half/record_1/
 ----------------------
 
 
 
-Traceback (most recent call last):
-  File "./classifier_LR_SVM/test.py", line 194, in <module>
-    test_result = model.predict(cur_test_data)
-  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/_base.py", line 585, in predict
-    if self.break_ties and self.decision_function_shape == 'ovo':
-AttributeError: 'SVC' object has no attribute 'break_ties'
+the AUC is 0.8076923076923077
+
+the Fscore is 0.6153846153846153
+
+the precision is 0.4444444444444444
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7945736434108527
+
+the Fscore is 0.6015037593984962
+
+the precision is 0.43010752688172044
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8255813953488372
+
+the Fscore is 0.6399999999999999
+
+the precision is 0.47058823529411764
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.810077519379845
+
+the Fscore is 0.6201550387596899
+
+the precision is 0.449438202247191
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_5.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_5.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_half
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8038461538461539
+
+the Fscore is 0.6046511627906976
+
+the precision is 0.43333333333333335
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_1.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_1.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5192307692307692
+
+the Fscore is 0.3902439024390244
+
+the precision is 0.24242424242424243
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_2.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_2.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5155038759689923
+
+the Fscore is 0.3902439024390244
+
+the precision is 0.24242424242424243
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_3.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_3.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5232558139534884
+
+the Fscore is 0.39408866995073893
+
+the precision is 0.24539877300613497
+
+the recall is 1.0
+
+Done
+./test_vehicle0/standlization_data/vehicle0_std_train_4.csv
+./test_vehicle0/standlization_data/vehicle0_std_test_4.csv
+SVMPOLY_concat_Mirror
+concat_random_num_30_1
+./test_vehicle0/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_vehicle0/result_SVMPOLY_concat_Mirror_concat_random_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5193798449612403
+
+the Fscore is 0.39215686274509803
+
+the precision is 0.24390243902439024
+
+the recall is 1.0
+
+Done
