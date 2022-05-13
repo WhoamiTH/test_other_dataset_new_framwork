@@ -2,56 +2,16 @@
 set -e
 
 
-cd ./test_abalone19/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
+cd ./test_pageblocks1/
+mv model_LR_concat_mirror model_LR_concat_Mirror_new
+cd model_LR_concat_Mirror_new/record_1
 
-
-
-cd ./test_ecoli1/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_glass0/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_glass5/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_pima/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_vehicle0/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_yeast3/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_yeast5/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
-cd ../
-
-
-
-cd ./test_yeast6/
-mv model_LR_concat_Mirror_new model_LR_concat_Mirror
+mv LR_concat_mirror_1.m LR_concat_Mirror_new_1.m
+mv LR_concat_mirror_2.m LR_concat_Mirror_new_2.m
+mv LR_concat_mirror_3.m LR_concat_Mirror_new_3.m
+mv LR_concat_mirror_4.m LR_concat_Mirror_new_4.m
+mv LR_concat_mirror_5.m LR_concat_Mirror_new_5.m
+cd ../../../
 cd ../
 
 
