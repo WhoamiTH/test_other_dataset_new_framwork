@@ -1899,3 +1899,174 @@ the precision is 0.005995203836930456
 the recall is 1.0
 
 Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_random_IR_3_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5042168674698795
+
+the Fscore is 0.012004801920768306
+
+the precision is 0.006038647342995169
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_random_IR_3_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5030120481927711
+
+the Fscore is 0.011976047904191616
+
+the precision is 0.006024096385542169
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_random_IR_3_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5042168674698795
+
+the Fscore is 0.012004801920768306
+
+the precision is 0.006038647342995169
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_random_IR_3_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5036188178528347
+
+the Fscore is 0.014371257485029942
+
+the precision is 0.007237635705669481
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMRBF_concat_Mirror
+concat_random_IR_3_3
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_5.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018094089264173
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_1.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7584337349397591
+
+the Fscore is 0.024330900243309004
+
+the precision is 0.012315270935960592
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_2.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7548192771084338
+
+the Fscore is 0.02398081534772182
+
+the precision is 0.012135922330097087
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_3.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7439759036144578
+
+the Fscore is 0.022988505747126436
+
+the precision is 0.011627906976744186
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMRBF_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMRBF_concat_Mirror/record_1/SVMRBF_concat_Mirror_4.m
+./test_abalone19/result_SVMRBF_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7303980699638118
+
+the Fscore is 0.0261437908496732
+
+the precision is 0.013245033112582781
+
+the recall is 1.0
+
+Done
