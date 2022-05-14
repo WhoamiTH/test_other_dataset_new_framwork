@@ -149,7 +149,6 @@ os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 
 # ----------------------------------start processing-------------------------------------
 print(train_file_name)
-print(model_record_path)
 print(model_name)
 print('----------------------\n\n\n')
 
