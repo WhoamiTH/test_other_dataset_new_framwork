@@ -167,9 +167,9 @@ def set_para():
 dataset_name = 'abalone19'
 dataset_index = '1'
 record_index = '1'
-train_method = 'LR_minus_mirror'
+train_method = 'MLP_minus_mirror'
 test_method = 'minus_random_num_10_half'
-
+device_id = '1'
 # ----------------------------------set parameters---------------------------------------
 set_para()
 
@@ -241,6 +241,7 @@ def get_MLP_predict_result(test_data, net):
 
 # 获取初步结果
 test_result = get_MLP_predict_result(cur_test_data, net)
+test_result = test_result.numpy()
 
 test_length = test_data.shape[0]
 test_pred_results = test_result.reshape(test_length, test_ref_num)
