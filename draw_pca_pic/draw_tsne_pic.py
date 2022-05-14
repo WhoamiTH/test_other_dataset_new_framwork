@@ -214,8 +214,8 @@ dataset_index = '1'
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 # test_file_name = './test_{0}/standlization_data/{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
-record_path = './test_{0}/pca_2_pic/'.format(dataset_name)
-record_file_name = record_path + '{0}_pca_{1}.pdf'.format(dataset_name, dataset_index)
+record_path = './test_{0}/tsne_2_pic/'.format(dataset_name)
+record_file_name = record_path + '{0}_tsne_{1}.pdf'.format(dataset_name, dataset_index)
 # scaler_name = record_path + 'scaler_' + dataset_index + '.m'
 # record_train_file_name = record_path + '{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
 # record_test_file_name = record_path + '{0}_std_test_{1}.csv'.format(dataset_name, dataset_index)
@@ -239,121 +239,169 @@ tsne_train_data = condense_data_tsne(train_data)
 positive_data, negative_data = divide_data(train_data, train_label)
 
 # concat mirror
-concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
-pca_concat_mirror_train_data = condense_data_tsne(concat_mirror_train_data)
-# kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
+# concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
+# pca_concat_mirror_train_data = condense_data_tsne(concat_mirror_train_data)
+# # kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
 
 
 # concat not mirror
 concat_not_mirror_train_data, concat_not_mirror_train_label = handleData_extend_not_mirror(positive_data, negative_data)
-pca_concat_not_mirror_train_data = condense_data_pca(concat_not_mirror_train_data)
-kernel_pca_concat_not_mirror_train_data = condense_data_kernel_pca(concat_not_mirror_train_data)
+print('data_transform')
+tsne_concat_not_mirror_train_data = condense_data_tsne(concat_not_mirror_train_data)
+print('pac or tsne')
+pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_concat_not_mirror_train_data, concat_not_mirror_train_label)
 
-# minus mirror
-minus_mirror_train_data, minus_mirror_train_label = handleData_minus_mirror(positive_data, negative_data)
-pca_minus_mirror_train_data = condense_data_pca(minus_mirror_train_data)
-kernel_pca_minus_mirror_train_data = condense_data_kernel_pca(minus_mirror_train_data)
-
-# minus not mirror
-minus_not_mirror_train_data, minus_not_mirror_train_label = handleData_minus_not_mirror(positive_data, negative_data)
-pca_minus_not_mirror_train_data = condense_data_pca(minus_not_mirror_train_data)
-kernel_pca_minus_not_mirror_train_data = condense_data_kernel_pca(minus_not_mirror_train_data)
 
 
 # 画图部分，plt 比较麻烦，暂时就重复建图了
-fig, axs = plt.subplots(5,2)
+fig, [ax1, ax2] = plt.subplots(1,2)
 # ax2 = ax1.twinx() twinx 用于新增个图
 
 # 原始数据 pca 及 kernel pca
-ax01, ax02 = axs[0]
-pca_pos_train_data, pca_neg_train_data = divide_data(pca_train_data, train_label)
-kernel_pca_pos_train_data, kernel_pca_neg_train_data = divide_data(kernel_pca_train_data, train_label)
+original_pos_data, original_neg_data = divide_data(tsne_train_data, train_label)
+# concat_not_mirror_pos_data, concat_not_mirror_neg_data = divide_data(kernel_pca_data, label)
 
-ax01.scatter(pca_pos_train_data[:, 0], pca_pos_train_data[:, 1], s=1, color='r', label='pos')
-ax01.scatter(pca_neg_train_data[:, 0], pca_neg_train_data[:, 1], s=1, color='b', label='neg')
-ax01.set_title('original pca')
-ax01.legend(loc=0)
+ax1.scatter(original_pos_data[:, 0], original_pos_data[:, 1], s=1, color='r', label='pos')
+ax1.scatter(original_neg_data[:, 0], original_neg_data[:, 1], s=1, color='b', label='neg')
+ax1.set_title('Original data distribution')
+ax1.legend(loc=0)
 
-ax02.scatter(kernel_pca_pos_train_data[:, 0], kernel_pca_pos_train_data[:, 1], s=1, color='r', label='pos')
-ax02.scatter(kernel_pca_neg_train_data[:, 0], kernel_pca_neg_train_data[:, 1], s=1, color='b', label='neg')
-ax02.set_title('original kernel pca')
-ax02.legend(loc=0)
+ax2.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
+ax2.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
+ax2.set_title('Transformed data distribution')
+ax2.legend(loc=0)
 
+record_file_postfix = 'original_transformed_distribution'
+fig.suptitle(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
 
-
-# concat mirror 数据 pca 及 kernel pca
-ax11, ax12 = axs[1]
-pca_pos_concat_mirror_data, pca_neg_concat_mirror_data = divide_data(pca_concat_mirror_train_data, concat_mirror_train_label)
-kernel_pca_pos_concat_mirror_data, kernel_pca_neg_concat_mirror_data = divide_data(kernel_pca_concat_mirror_train_data, concat_mirror_train_label)
-
-ax11.scatter(pca_pos_concat_mirror_data[:, 0], pca_pos_concat_mirror_data[:, 1], s=1, color='r', label='pos')
-ax11.scatter(pca_neg_concat_mirror_data[:, 0], pca_neg_concat_mirror_data[:, 1], s=1, color='b', label='neg')
-ax11.set_title('concat mirror pca')
-ax11.legend(loc=0)
-
-ax12.scatter(kernel_pca_pos_concat_mirror_data[:, 0], kernel_pca_pos_concat_mirror_data[:, 1], s=1, color='r', label='pos')
-ax12.scatter(kernel_pca_neg_concat_mirror_data[:, 0], kernel_pca_neg_concat_mirror_data[:, 1], s=1, color='b', label='neg')
-ax12.set_title('concat mirror kernel pca')
-ax12.legend(loc=0)
-
-
-
-
-# concat not mirror 数据 pca 及 kernel pca
-ax21, ax22 = axs[2]
-pca_pos_concat_not_mirror_data, pca_neg_concat_not_mirror_data = divide_data(pca_concat_not_mirror_train_data, concat_not_mirror_train_label)
-kernel_pca_pos_concat_not_mirror_data, kernel_pca_neg_concat_not_mirror_data = divide_data(kernel_pca_concat_not_mirror_train_data, concat_not_mirror_train_label)
-
-ax21.scatter(pca_pos_concat_not_mirror_data[:, 0], pca_pos_concat_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax21.scatter(pca_neg_concat_not_mirror_data[:, 0], pca_neg_concat_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax21.set_title('concat not mirror pca')
-ax21.legend(loc=0)
-
-ax22.scatter(kernel_pca_pos_concat_not_mirror_data[:, 0], kernel_pca_pos_concat_not_mirror_data[:, 1], color='r', label='pos')
-ax22.scatter(kernel_pca_neg_concat_not_mirror_data[:, 0], kernel_pca_neg_concat_not_mirror_data[:, 1], color='b', label='neg')
-ax22.set_title('concat not mirror kernel pca')
-ax22.legend(loc=0)
-
-
-
-# minus mirror 数据 pca 及 kernel pca
-ax31, ax32 = axs[3]
-pca_pos_minus_mirror_data, pca_neg_minus_mirror_data = divide_data(pca_minus_mirror_train_data, minus_mirror_train_label)
-kernel_pca_pos_minus_mirror_data, kernel_pca_neg_minus_mirror_data = divide_data(kernel_pca_minus_mirror_train_data, minus_mirror_train_label)
-
-ax31.scatter(pca_pos_minus_mirror_data[:, 0], pca_pos_minus_mirror_data[:, 1], s=1, color='r', label='pos')
-ax31.scatter(pca_neg_minus_mirror_data[:, 0], pca_neg_minus_mirror_data[:, 1], s=1, color='b', label='neg')
-ax31.set_title('minus mirror pca')
-ax31.legend(loc=0)
-
-ax32.scatter(kernel_pca_pos_minus_mirror_data[:, 0], kernel_pca_pos_minus_mirror_data[:, 1], s=1, color='r', label='pos')
-ax32.scatter(kernel_pca_neg_minus_mirror_data[:, 0], kernel_pca_neg_minus_mirror_data[:, 1], s=1, color='b', label='neg')
-ax32.set_title('minus mirror kernel pca')
-ax32.legend(loc=0)
-
-
-
-
-# minus not mirror 数据 pca 及 kernel pca
-ax41, ax42 = axs[4]
-pca_pos_minus_not_mirror_data, pca_neg_minus_not_mirror_data = divide_data(pca_minus_not_mirror_train_data, minus_not_mirror_train_label)
-kernel_pca_pos_minus_not_mirror_data, kernel_pca_neg_minus_not_mirror_data = divide_data(kernel_pca_minus_not_mirror_train_data, minus_not_mirror_train_label)
-
-ax41.scatter(pca_pos_minus_not_mirror_data[:, 0], pca_pos_minus_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax41.scatter(pca_neg_minus_not_mirror_data[:, 0], pca_neg_minus_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax41.set_title('minus not mirror pca')
-ax41.legend(loc=0)
-
-ax42.scatter(kernel_pca_pos_minus_not_mirror_data[:, 0], kernel_pca_pos_minus_not_mirror_data[:, 1], s=1, color='r', label='pos')
-ax42.scatter(kernel_pca_neg_minus_not_mirror_data[:, 0], kernel_pca_neg_minus_not_mirror_data[:, 1], s=1, color='b', label='neg')
-ax42.set_title('minus not mirror kernel pca')
-ax42.legend(loc=0)
-
-
-
-
-plt.title(dataset_name + '_' + dataset_index)
 plt.savefig(record_file_name)
+
+
+
+
+    
+
+# plot_two_pca_fig(pca_train_data, kernel_pca_train_data, train_label, record_path, dataset_name, dataset_index )
+
+
+
+
+
+
+
+
+
+# # concat not mirror
+# concat_not_mirror_train_data, concat_not_mirror_train_label = handleData_extend_not_mirror(positive_data, negative_data)
+# pca_concat_not_mirror_train_data = condense_data_pca(concat_not_mirror_train_data)
+# kernel_pca_concat_not_mirror_train_data = condense_data_kernel_pca(concat_not_mirror_train_data)
+
+# # minus mirror
+# minus_mirror_train_data, minus_mirror_train_label = handleData_minus_mirror(positive_data, negative_data)
+# pca_minus_mirror_train_data = condense_data_pca(minus_mirror_train_data)
+# kernel_pca_minus_mirror_train_data = condense_data_kernel_pca(minus_mirror_train_data)
+
+# # minus not mirror
+# minus_not_mirror_train_data, minus_not_mirror_train_label = handleData_minus_not_mirror(positive_data, negative_data)
+# pca_minus_not_mirror_train_data = condense_data_pca(minus_not_mirror_train_data)
+# kernel_pca_minus_not_mirror_train_data = condense_data_kernel_pca(minus_not_mirror_train_data)
+
+
+# 画图部分，plt 比较麻烦，暂时就重复建图了
+# fig, axs = plt.subplots(5,2)
+# ax2 = ax1.twinx() twinx 用于新增个图
+
+# # 原始数据 pca 及 kernel pca
+# ax01, ax02 = axs[0]
+# pca_pos_train_data, pca_neg_train_data = divide_data(pca_train_data, train_label)
+# kernel_pca_pos_train_data, kernel_pca_neg_train_data = divide_data(kernel_pca_train_data, train_label)
+
+# ax01.scatter(pca_pos_train_data[:, 0], pca_pos_train_data[:, 1], s=1, color='r', label='pos')
+# ax01.scatter(pca_neg_train_data[:, 0], pca_neg_train_data[:, 1], s=1, color='b', label='neg')
+# ax01.set_title('original pca')
+# ax01.legend(loc=0)
+
+# ax02.scatter(kernel_pca_pos_train_data[:, 0], kernel_pca_pos_train_data[:, 1], s=1, color='r', label='pos')
+# ax02.scatter(kernel_pca_neg_train_data[:, 0], kernel_pca_neg_train_data[:, 1], s=1, color='b', label='neg')
+# ax02.set_title('original kernel pca')
+# ax02.legend(loc=0)
+
+
+
+# # concat mirror 数据 pca 及 kernel pca
+# ax11, ax12 = axs[1]
+# pca_pos_concat_mirror_data, pca_neg_concat_mirror_data = divide_data(pca_concat_mirror_train_data, concat_mirror_train_label)
+# kernel_pca_pos_concat_mirror_data, kernel_pca_neg_concat_mirror_data = divide_data(kernel_pca_concat_mirror_train_data, concat_mirror_train_label)
+
+# ax11.scatter(pca_pos_concat_mirror_data[:, 0], pca_pos_concat_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax11.scatter(pca_neg_concat_mirror_data[:, 0], pca_neg_concat_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax11.set_title('concat mirror pca')
+# ax11.legend(loc=0)
+
+# ax12.scatter(kernel_pca_pos_concat_mirror_data[:, 0], kernel_pca_pos_concat_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax12.scatter(kernel_pca_neg_concat_mirror_data[:, 0], kernel_pca_neg_concat_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax12.set_title('concat mirror kernel pca')
+# ax12.legend(loc=0)
+
+
+
+
+# # concat not mirror 数据 pca 及 kernel pca
+# ax21, ax22 = axs[2]
+# pca_pos_concat_not_mirror_data, pca_neg_concat_not_mirror_data = divide_data(pca_concat_not_mirror_train_data, concat_not_mirror_train_label)
+# kernel_pca_pos_concat_not_mirror_data, kernel_pca_neg_concat_not_mirror_data = divide_data(kernel_pca_concat_not_mirror_train_data, concat_not_mirror_train_label)
+
+# ax21.scatter(pca_pos_concat_not_mirror_data[:, 0], pca_pos_concat_not_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax21.scatter(pca_neg_concat_not_mirror_data[:, 0], pca_neg_concat_not_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax21.set_title('concat not mirror pca')
+# ax21.legend(loc=0)
+
+# ax22.scatter(kernel_pca_pos_concat_not_mirror_data[:, 0], kernel_pca_pos_concat_not_mirror_data[:, 1], color='r', label='pos')
+# ax22.scatter(kernel_pca_neg_concat_not_mirror_data[:, 0], kernel_pca_neg_concat_not_mirror_data[:, 1], color='b', label='neg')
+# ax22.set_title('concat not mirror kernel pca')
+# ax22.legend(loc=0)
+
+
+
+# # minus mirror 数据 pca 及 kernel pca
+# ax31, ax32 = axs[3]
+# pca_pos_minus_mirror_data, pca_neg_minus_mirror_data = divide_data(pca_minus_mirror_train_data, minus_mirror_train_label)
+# kernel_pca_pos_minus_mirror_data, kernel_pca_neg_minus_mirror_data = divide_data(kernel_pca_minus_mirror_train_data, minus_mirror_train_label)
+
+# ax31.scatter(pca_pos_minus_mirror_data[:, 0], pca_pos_minus_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax31.scatter(pca_neg_minus_mirror_data[:, 0], pca_neg_minus_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax31.set_title('minus mirror pca')
+# ax31.legend(loc=0)
+
+# ax32.scatter(kernel_pca_pos_minus_mirror_data[:, 0], kernel_pca_pos_minus_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax32.scatter(kernel_pca_neg_minus_mirror_data[:, 0], kernel_pca_neg_minus_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax32.set_title('minus mirror kernel pca')
+# ax32.legend(loc=0)
+
+
+
+
+# # minus not mirror 数据 pca 及 kernel pca
+# ax41, ax42 = axs[4]
+# pca_pos_minus_not_mirror_data, pca_neg_minus_not_mirror_data = divide_data(pca_minus_not_mirror_train_data, minus_not_mirror_train_label)
+# kernel_pca_pos_minus_not_mirror_data, kernel_pca_neg_minus_not_mirror_data = divide_data(kernel_pca_minus_not_mirror_train_data, minus_not_mirror_train_label)
+
+# ax41.scatter(pca_pos_minus_not_mirror_data[:, 0], pca_pos_minus_not_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax41.scatter(pca_neg_minus_not_mirror_data[:, 0], pca_neg_minus_not_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax41.set_title('minus not mirror pca')
+# ax41.legend(loc=0)
+
+# ax42.scatter(kernel_pca_pos_minus_not_mirror_data[:, 0], kernel_pca_pos_minus_not_mirror_data[:, 1], s=1, color='r', label='pos')
+# ax42.scatter(kernel_pca_neg_minus_not_mirror_data[:, 0], kernel_pca_neg_minus_not_mirror_data[:, 1], s=1, color='b', label='neg')
+# ax42.set_title('minus not mirror kernel pca')
+# ax42.legend(loc=0)
+
+
+
+
+# plt.title(dataset_name + '_' + dataset_index)
+# plt.savefig(record_file_name)
 
 
 
