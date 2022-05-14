@@ -9405,3 +9405,107 @@ the precision is 0.006053268765133172
 the recall is 1.0
 
 Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5012048192771084
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5024125452352232
+
+the Fscore is 0.014336917562724013
+
+the precision is 0.007220216606498195
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.505428226779252
+
+the Fscore is 0.012048192771084336
+
+the precision is 0.006060606060606061
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.svm.classes module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.svm. Anything that cannot be imported from sklearn.svm is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.21.2 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_LR_SVM/test.py", line 194, in <module>
+    test_result = model.predict(cur_test_data)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/_base.py", line 585, in predict
+    if self.break_ties and self.decision_function_shape == 'ovo':
+AttributeError: 'SVC' object has no attribute 'break_ties'
