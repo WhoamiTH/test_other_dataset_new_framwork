@@ -52,9 +52,9 @@ def handleData_minus_mirror(positive_data, negative_data):
     all_generate_num = length_pos * length_neg
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
 
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
@@ -87,18 +87,18 @@ def handleData_minus_not_mirror(positive_data, negative_data, positive_value=1, 
     negetive_index = np.where(init_transformed_label == 0)
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
     
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
-    transfrom_positive_data = transfrom_positive_data[positive_index]
+    transfrom_positive_data = transfrom_positive_data[positive_index[0]]
     transform_positive_label = np.ones(transfrom_positive_data.shape[0]).reshape(-1, 1)
 
 
     transfrom_negetive_data = negetive_tile_data - positive_repeat_data
-    transfrom_negetive_data = transfrom_negetive_data[negetive_index]
+    transfrom_negetive_data = transfrom_negetive_data[negetive_index[0]]
     transform_negetive_label = np.zeros(transfrom_negetive_data.shape[0]).reshape(-1, 1)
 
     all_transformed_data = np.vstack( (transfrom_positive_data, transfrom_negetive_data) )
@@ -124,9 +124,9 @@ def handleData_extend_mirror(positive_data, negative_data):
     all_generate_num = length_pos * length_neg
 
     # repeat 每一个都连续重复
-    positive_repeat_data = positive_data.repeat(length_neg)
+    positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
-    negetive_tile_data = np.tile(negative_data, length_pos)
+    negetive_tile_data = np.tile(negative_data, (length_pos, 1))
 
 
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
@@ -233,29 +233,12 @@ train_data, train_label = loadTrainData(train_file_name)
 tsne_train_data = condense_data_tsne(train_data)
 # kernel_pca_train_data = condense_data_kernel_pca(train_data)
 
-
-
 positive_data, negative_data = divide_data(train_data, train_label)
-
-# concat mirror
-# concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
-# pca_concat_mirror_train_data = condense_data_tsne(concat_mirror_train_data)
-# # kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
-
-
-# concat not mirror
-concat_not_mirror_train_data, concat_not_mirror_train_label = handleData_extend_not_mirror(positive_data, negative_data)
-print('data_transform')
-tsne_concat_not_mirror_train_data = condense_data_tsne(concat_not_mirror_train_data)
-print('pac or tsne')
-pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_concat_not_mirror_train_data, concat_not_mirror_train_label)
 
 
 original_pos_data, original_neg_data = divide_data(tsne_train_data, train_label)
 
 plt.figure()
-
-
 
 plt.scatter(original_pos_data[:, 0], original_pos_data[:, 1], s=1, color='r', label='pos')
 plt.scatter(original_neg_data[:, 0], original_neg_data[:, 1], s=1, color='b', label='neg')
@@ -276,9 +259,23 @@ plt.savefig(record_file_name)
 
 
 
+
+# concat mirror
+# concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
+# pca_concat_mirror_train_data = condense_data_tsne(concat_mirror_train_data)
+# # kernel_pca_concat_mirror_train_data = condense_data_kernel_pca(concat_mirror_train_data)
+
+
+# concat not mirror
+concat_not_mirror_train_data, concat_not_mirror_train_label = handleData_extend_not_mirror(positive_data, negative_data)
+print('data_transform')
+tsne_concat_not_mirror_train_data = condense_data_tsne(concat_not_mirror_train_data)
+print('pac or tsne')
+pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_concat_not_mirror_train_data, concat_not_mirror_train_label)
+
+
+
 plt.figure()
-
-
 
 plt.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
 plt.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
@@ -289,11 +286,136 @@ plt.axis('square')
 # plt.ylabel('Fscore')
 plt.legend(loc='upper left')
 
-record_file_postfix = 'Transformed_data_distribution'
+record_file_postfix = 'Transformed_data_distribution_concat_not_mirror'
 # plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
 record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
 
 plt.savefig(record_file_name)
+
+
+
+
+# concat mirror
+concat_mirror_train_data, concat_mirror_train_label = handleData_extend_mirror(positive_data, negative_data)
+print('data_transform')
+tsne_concat_mirror_train_data = condense_data_tsne(concat_mirror_train_data)
+print('pac or tsne')
+pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_concat_mirror_train_data, concat_mirror_train_label)
+
+
+
+plt.figure()
+
+plt.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
+plt.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
+plt.axis('square')
+
+# plt.set_title('Original data distribution')
+# plt.xlabel('test week')
+# plt.ylabel('Fscore')
+plt.legend(loc='upper left')
+
+record_file_postfix = 'Transformed_data_distribution_concat_mirror'
+# plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
+
+plt.savefig(record_file_name)
+
+
+
+
+
+
+
+
+# minus mirror
+minus_mirror_train_data, minus_mirror_train_label = handleData_minus_mirror(positive_data, negative_data)
+print('data_transform')
+tsne_minus_mirror_train_data = condense_data_tsne(minus_mirror_train_data)
+print('pac or tsne')
+pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_minus_mirror_train_data, minus_mirror_train_label)
+
+
+
+plt.figure()
+
+plt.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
+plt.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
+plt.axis('square')
+
+# plt.set_title('Original data distribution')
+# plt.xlabel('test week')
+# plt.ylabel('Fscore')
+plt.legend(loc='upper left')
+
+record_file_postfix = 'Transformed_data_distribution_minus_mirror'
+# plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
+
+plt.savefig(record_file_name)
+
+
+
+
+
+
+
+
+
+
+# minus not mirror
+minus_not_mirror_train_data, minus_not_mirror_train_label = handleData_minus_not_mirror(positive_data, negative_data)
+print('data_transform')
+tsne_minus_not_mirror_train_data = condense_data_tsne(minus_not_mirror_train_data)
+print('pac or tsne')
+pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_minus_not_mirror_train_data, minus_not_mirror_train_label)
+
+
+
+
+
+plt.figure()
+
+plt.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
+plt.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
+plt.axis('square')
+
+# plt.set_title('Original data distribution')
+# plt.xlabel('test week')
+# plt.ylabel('Fscore')
+plt.legend(loc='upper left')
+
+record_file_postfix = 'Transformed_data_distribution_minus_not_mirror'
+# plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
+
+plt.savefig(record_file_name)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

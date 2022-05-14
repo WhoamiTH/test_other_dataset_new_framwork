@@ -91,6 +91,7 @@ def set_para():
     global dataset_index
     global record_index
     global device_id
+    global early_stopping
 
     argv = sys.argv[1:]
     for each in argv:
@@ -103,6 +104,8 @@ def set_para():
             record_index = para[1]
         if para[0] == 'device_id':
             device_id = para[1]
+        if para[0] == 'early_stopping':
+            early_stopping = para[1]
 
 
 
@@ -113,6 +116,7 @@ dataset_index = '1'
 record_index = '1'
 device_id = '1'
 method_name = 'MLP_normal'
+early_stopping = 'True'
 num_epochs = 5000
 batch_size = 50
 # ----------------------------------set parameters---------------------------------------
@@ -211,27 +215,26 @@ for epoch in range(num_epochs):
         f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
         auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
         print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
-    if epoch > 500:
         valid_loss = loss(valid_output, input_valid_label)
 
-        early_stopping(valid_loss, net)
-        # 若满足 early stopping 要求
-        if early_stopping.early_stop:
-            result =  torch.ge(valid_output, 0.5) 
-            #计算准确率
-            train_acc = accuracy_score(input_valid_label, result)
+    early_stopping(valid_loss, net)
+    # 若满足 early stopping 要求
+    if early_stopping.early_stop:
+        result =  torch.ge(valid_output, 0.5) 
+        #计算准确率
+        train_acc = accuracy_score(input_valid_label, result)
 
-            #计算精确率
-            pre = skmet.precision_score(y_true=input_valid_label, y_pred=result)
+        #计算精确率
+        pre = skmet.precision_score(y_true=input_valid_label, y_pred=result)
 
-            #计算召回率
-            rec = skmet.recall_score(y_true=input_valid_label, y_pred=result)
-            f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
-            auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
-            print('Early stopping epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}\n\n\n'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
-            
-            # 结束模型训练
-            break
+        #计算召回率
+        rec = skmet.recall_score(y_true=input_valid_label, y_pred=result)
+        f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
+        auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
+        print('Early stopping epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}\n\n\n'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
+        
+        # 结束模型训练
+        break
 torch.save(net, model_name)
 
 
