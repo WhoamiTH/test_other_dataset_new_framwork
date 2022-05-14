@@ -15,14 +15,26 @@
 
 
 
-# ------------------------------- 任务 ----------------------------------------
-# 根据不同的 dataset 大小 划分不同的组，生成执行脚本
+
+
+
+
+
+# # ------------------------------- 任务 ----------------------------------------
+# # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
 
 
 import sys
 
-# train method
-model_type_list = ['LR', 'SVMRBF', 'SVMPOLY']
+dataset_dict = {
+    2: ['yeast3', 'glass0', 'pima'],
+    3: ['yeast5', 'glass5', 'vehicle0'],
+    4: ['yeast6', 'ecoli1'],
+    5: ['abalone19', 'pageblocks1']
+}
+
+
+model_type_list = ['MLP']
 trans_method_list = ['minus', 'concat']
 mirror_method_list = ['Mirror', 'notMirror']
 
@@ -36,58 +48,148 @@ ref_times_dict = {
 boundary_type_list = ['half', '1', '3']
 
 
-trans_test_method_list = [  ]
 
 data_range = 5
 record_index = 1
-bash_file_name = 'test_pageblocks1.sh'
+bash_file_name_prefix = 'test_mlp_'
 
-dataset = 'pageblocks1'
+for cur_dataset_list_index in dataset_dict:
+    dataset_list = dataset_dict[cur_dataset_list_index]
+    bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+    with open(bash_file_name,'w') as fsh:
+        fsh.write('#!/bin/bash\n')
+        fsh.write('set -e\n\n\n')
+
+        for dataset in dataset_list:
+            # 生成训练方法
+            for model_type in model_type_list:
+                for trans_method in trans_method_list:
+                    for mirror_method in mirror_method_list:
+                        train_method = '{0}_{1}_{2}'.format(model_type, trans_method, mirror_method)
+
+                        for ref_data_type in ref_data_type_list:
+                            for ref_num_type in ref_num_type_list:
+                                cur_time_list = ref_times_dict[ref_num_type]
+                                for ref_times in cur_time_list:
+                                    for boundary_type in boundary_type_list:
+                                        test_method = '{0}_{1}_{2}_{3}_{4}'.format(trans_method, ref_data_type, ref_num_type, ref_times, boundary_type)
+
+                                        fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+                                        for dataset_index in range(1, 1+data_range):
+                                            fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, cur_dataset_list_index))
+                                        fsh.write('\n\n\n')
+            
+            train_method = 'MLP_normal'
+            test_method = 'normal'
+            fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+            for dataset_index in range(1, 1+data_range):
+                fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, cur_dataset_list_index))
+            fsh.write('\n\n\n')
 
 
 
-with open(bash_file_name,'w') as fsh:
-    fsh.write('#!/bin/bash\n')
-    fsh.write('set -e\n\n\n')
 
-    # 生成训练方法
-    for model_type in model_type_list:
-        for trans_method in trans_method_list:
-            for mirror_method in mirror_method_list:
-                train_method = '{0}_{1}_{2}'.format(model_type, trans_method, mirror_method)
 
-                for ref_data_type in ref_data_type_list:
-                    for ref_num_type in ref_num_type_list:
-                        cur_time_list = ref_times_dict[ref_num_type]
-                        for ref_times in cur_time_list:
-                            for boundary_type in boundary_type_list:
-                                test_method = '{0}_{1}_{2}_{3}_{4}'.format(trans_method, ref_data_type, ref_num_type, ref_times, boundary_type)
 
-                                fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
-                                for dataset_index in range(1, 1+data_range):
-                                    fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
-                                fsh.write('\n\n\n')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# # ------------------------------- 任务 ----------------------------------------
+# # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
+
+
+# import sys
+
+# # train method
+# model_type_list = ['LR', 'SVMRBF', 'SVMPOLY']
+# trans_method_list = ['minus', 'concat']
+# mirror_method_list = ['Mirror', 'notMirror']
+
+
+# ref_data_type_list = ['random', 'pos', 'neg']
+# ref_num_type_list = ['num', 'IR']
+# ref_times_dict = {
+#     'num' : ['10', '20', '30', '40'],
+#     'IR' : ['1', '2', '3', '4']
+# }
+# boundary_type_list = ['half', '1', '3']
+
+
+# trans_test_method_list = [  ]
+
+# data_range = 5
+# record_index = 1
+# bash_file_name = 'test_pageblocks1.sh'
+
+# dataset = 'pageblocks1'
+
+
+
+# with open(bash_file_name,'w') as fsh:
+#     fsh.write('#!/bin/bash\n')
+#     fsh.write('set -e\n\n\n')
+
+#     # 生成训练方法
+#     for model_type in model_type_list:
+#         for trans_method in trans_method_list:
+#             for mirror_method in mirror_method_list:
+#                 train_method = '{0}_{1}_{2}'.format(model_type, trans_method, mirror_method)
+
+#                 for ref_data_type in ref_data_type_list:
+#                     for ref_num_type in ref_num_type_list:
+#                         cur_time_list = ref_times_dict[ref_num_type]
+#                         for ref_times in cur_time_list:
+#                             for boundary_type in boundary_type_list:
+#                                 test_method = '{0}_{1}_{2}_{3}_{4}'.format(trans_method, ref_data_type, ref_num_type, ref_times, boundary_type)
+
+#                                 fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+#                                 for dataset_index in range(1, 1+data_range):
+#                                     fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
+#                                 fsh.write('\n\n\n')
         
-        train_method = 'LR_normal'
-        test_method = 'normal'
-        fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
-        for dataset_index in range(1, 1+data_range):
-            fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
-        fsh.write('\n\n\n')
+#         train_method = 'LR_normal'
+#         test_method = 'normal'
+#         fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+#         for dataset_index in range(1, 1+data_range):
+#             fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
+#         fsh.write('\n\n\n')
 
-        train_method = 'SVMRBF'
-        test_method = 'normal'
-        fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
-        for dataset_index in range(1, 1+data_range):
-            fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
-        fsh.write('\n\n\n')
+#         train_method = 'SVMRBF'
+#         test_method = 'normal'
+#         fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+#         for dataset_index in range(1, 1+data_range):
+#             fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
+#         fsh.write('\n\n\n')
 
-        train_method = 'SVMPOLY'
-        test_method = 'normal'
-        fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
-        for dataset_index in range(1, 1+data_range):
-            fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
-        fsh.write('\n\n\n')
+#         train_method = 'SVMPOLY'
+#         test_method = 'normal'
+#         fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+#         for dataset_index in range(1, 1+data_range):
+#             fsh.write('python3 ./classifier_LR_SVM/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3}\n'.format(dataset, dataset_index, train_method, test_method))
+#         fsh.write('\n\n\n')
 
 
 
