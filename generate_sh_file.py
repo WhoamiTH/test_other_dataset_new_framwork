@@ -16,75 +16,125 @@
 
 
 
-
-
-
-
-# # ------------------------------- 任务 ----------------------------------------
-# # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
+# ------------------------------- 任务 ----------------------------------------
+# 根据不同的 dataset 大小 划分不同的组，生成执行脚本
 
 
 import sys
 
-dataset_dict = {
-    2: ['yeast3', 'glass0', 'pima'],
-    3: ['yeast5', 'glass5', 'vehicle0'],
-    4: ['yeast6', 'ecoli1'],
-    5: ['abalone19', 'pageblocks1']
-}
+# dataset_dict = {
+#     1: ['yeast3', 'glass0', 'pima'],
+#     2: ['yeast5', 'glass5', 'vehicle0'],
+#     3: ['yeast6', 'ecoli1'],
+#     4: ['abalone19', 'pageblocks1']
+# }
 
-
-model_type_list = ['MLP']
-trans_method_list = ['minus', 'concat']
-mirror_method_list = ['Mirror', 'notMirror']
-
-
-ref_data_type_list = ['random', 'pos', 'neg']
-ref_num_type_list = ['num', 'IR']
-ref_times_dict = {
-    'num' : ['10', '20', '30', '40'],
-    'IR' : ['1', '2', '3', '4']
-}
-boundary_type_list = ['half', '1', '3']
-
-
+dataset_list = ['abalone19', 'ecoli1', 'glass0', 'glass5', 'pageblocks1', 'pima', 'vehicle0', 'yeast3', 'yeast5', 'yeast6']
 
 data_range = 5
 record_index = 1
-bash_file_name_prefix = 'test_mlp_'
+bash_file_name_prefix = 'train_mlp_'
+device_id_dict = {'2':'1', '3':'2', '4':'3', '5':'4', '7':'5'}
 
-for cur_dataset_list_index in dataset_dict:
-    dataset_list = dataset_dict[cur_dataset_list_index]
-    bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+transform_list = ['concat', 'minus']
+mirror_type_list = ['Mirror', 'notMirror']
+early_stop_type_list = ['True', '5000', '2000']
+
+
+for device_id in device_id_dict:
+    dataset_index = device_id_dict[device_id]
+    bash_file_name = bash_file_name_prefix + str(device_id) + '.sh'
     with open(bash_file_name,'w') as fsh:
         fsh.write('#!/bin/bash\n')
         fsh.write('set -e\n\n\n')
 
         for dataset in dataset_list:
-            # 生成训练方法
-            for model_type in model_type_list:
-                for trans_method in trans_method_list:
-                    for mirror_method in mirror_method_list:
-                        train_method = '{0}_{1}_{2}'.format(model_type, trans_method, mirror_method)
+            for transform_method in transform_list:
+                for mirror_type in mirror_type_list:
+                    for early_stop_type in early_stop_type_list:
+                        train_method = 'MLP_{0}_{1}_{2}'.format(transform_method, mirror_type, early_stop_type)
+                        fsh.write('mkdir -p ./test_{0}/model_{2}/record_{1}/\n'.format(dataset, record_index, train_method))            
+                        fsh.write('python3 ./classifier_MLP/train_MLP.py dataset_name={0} dataset_index={1} record_index=1 device_id={2} train_method={3}\n'.format(dataset, dataset_index, device_id, train_method))
 
-                        for ref_data_type in ref_data_type_list:
-                            for ref_num_type in ref_num_type_list:
-                                cur_time_list = ref_times_dict[ref_num_type]
-                                for ref_times in cur_time_list:
-                                    for boundary_type in boundary_type_list:
-                                        test_method = '{0}_{1}_{2}_{3}_{4}'.format(trans_method, ref_data_type, ref_num_type, ref_times, boundary_type)
+                        test_method = '{0}_pos_num_40_1'.format(transform_method)
+                        fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n'.format(dataset, train_method, test_method, record_index))
 
-                                        fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
-                                        for dataset_index in range(1, 1+data_range):
-                                            fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, cur_dataset_list_index))
-                                        fsh.write('\n\n\n')
+                        fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, device_id))
+                        fsh.write('\n\n\n')
+
+
+
+
+
+
+
+
+
+# # # ------------------------------- 任务 ----------------------------------------
+# # # 根据不同的 dataset 大小 划分不同的组，生成执行脚本
+
+
+# import sys
+
+# dataset_dict = {
+#     2: ['yeast3', 'glass0', 'pima'],
+#     3: ['yeast5', 'glass5', 'vehicle0'],
+#     4: ['yeast6', 'ecoli1'],
+#     5: ['abalone19', 'pageblocks1']
+# }
+
+
+# model_type_list = ['MLP']
+# trans_method_list = ['minus', 'concat']
+# mirror_method_list = ['Mirror', 'notMirror']
+
+
+# ref_data_type_list = ['random', 'pos', 'neg']
+# ref_num_type_list = ['num', 'IR']
+# ref_times_dict = {
+#     'num' : ['10', '20', '30', '40'],
+#     'IR' : ['1', '2', '3', '4']
+# }
+# boundary_type_list = ['half', '1', '3']
+
+
+
+# data_range = 5
+# record_index = 1
+# bash_file_name_prefix = 'test_mlp_'
+
+# for cur_dataset_list_index in dataset_dict:
+#     dataset_list = dataset_dict[cur_dataset_list_index]
+#     bash_file_name = bash_file_name_prefix + str(cur_dataset_list_index) + '.sh'
+#     with open(bash_file_name,'w') as fsh:
+#         fsh.write('#!/bin/bash\n')
+#         fsh.write('set -e\n\n\n')
+
+#         for dataset in dataset_list:
+#             # 生成训练方法
+#             for model_type in model_type_list:
+#                 for trans_method in trans_method_list:
+#                     for mirror_method in mirror_method_list:
+#                         train_method = '{0}_{1}_{2}'.format(model_type, trans_method, mirror_method)
+
+#                         for ref_data_type in ref_data_type_list:
+#                             for ref_num_type in ref_num_type_list:
+#                                 cur_time_list = ref_times_dict[ref_num_type]
+#                                 for ref_times in cur_time_list:
+#                                     for boundary_type in boundary_type_list:
+#                                         test_method = '{0}_{1}_{2}_{3}_{4}'.format(trans_method, ref_data_type, ref_num_type, ref_times, boundary_type)
+
+#                                         fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+#                                         for dataset_index in range(1, 1+data_range):
+#                                             fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, cur_dataset_list_index))
+#                                         fsh.write('\n\n\n')
             
-            train_method = 'MLP_normal'
-            test_method = 'normal'
-            fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
-            for dataset_index in range(1, 1+data_range):
-                fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, cur_dataset_list_index))
-            fsh.write('\n\n\n')
+#             train_method = 'MLP_normal'
+#             test_method = 'normal'
+#             fsh.write('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n\n'.format(dataset, train_method, test_method, record_index))
+#             for dataset_index in range(1, 1+data_range):
+#                 fsh.write('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, cur_dataset_list_index))
+#             fsh.write('\n\n\n')
 
 
 

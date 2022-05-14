@@ -86,12 +86,31 @@ def loadTrainData(file_name):
     label = label.astype(np.int)
     return data, label
 
+def get_train_info(trian_method):
+    train_info_list = train_method.split('_')
+    if len(train_info_list) == 3:
+        model_type, transform_method, early_stop_type = train_info_list
+        mirror_type = 'normal'
+    
+    if len(train_info_list) == 3:
+        model_type, transform_method, mirror_type, early_stop_type = train_info_list
+    
+    if early_stop_type == 'True':
+        early_stop_type = True
+        num_epochs = 5000
+    else:
+        num_epochs = int(early_stop_type)
+        early_stop_type = False
+
+
+    return model_type, transform_method, mirror_type, early_stop_type, num_epochs
+
 def set_para():
     global dataset_name
     global dataset_index
     global record_index
     global device_id
-    global early_stopping
+    global train_method
 
     argv = sys.argv[1:]
     for each in argv:
@@ -104,8 +123,8 @@ def set_para():
             record_index = para[1]
         if para[0] == 'device_id':
             device_id = para[1]
-        if para[0] == 'early_stopping':
-            early_stopping = para[1]
+        if para[0] == 'train_method':
+            train_method = para[1]
 
 
 
@@ -116,13 +135,13 @@ dataset_index = '1'
 record_index = '1'
 device_id = '1'
 method_name = 'MLP_normal'
-early_stopping = 'True'
+train_method = 'MLP_minus_notMirror_early'
 num_epochs = 5000
 batch_size = 50
 # ----------------------------------set parameters---------------------------------------
 set_para()
 train_file_name = './test_{0}/standlization_data/{0}_std_train_{1}.csv'.format(dataset_name, dataset_index)
-model_record_path = './test_{0}/model_MLP_normal/record_{1}/'.format(dataset_name, record_index)
+model_name = './test_{0}/model_{1}/record_{2}/{1}_{3}'.format(dataset_name, train_method, record_index, dataset_index)
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
@@ -131,13 +150,25 @@ os.environ["CUDA_VISIBLE_DEVICES"] = str(device_id)
 # ----------------------------------start processing-------------------------------------
 print(train_file_name)
 print(model_record_path)
+print(model_name)
 print('----------------------\n\n\n')
 
-model_name = model_record_path + 'normal_MLP_{0}'.format(dataset_index)
-print(model_name)
+
+
+
 train_data, train_label = loadTrainData(train_file_name)
 
-valid_data, valid_label, train_data, train_label = generate_valid_data(train_data, train_label)
+
+
+model_type, transform_method, mirror_type, early_stop_type, num_epochs = get_train_info(train_method)
+
+
+
+if early_stop_type:
+    valid_data, valid_label, train_data, train_label = generate_valid_data(train_data, train_label)
+else:
+    valid_data = train_data
+    valid_label = train_label
 
 input_dim = valid_data.shape[1]
 patience = 20	
@@ -215,26 +246,28 @@ for epoch in range(num_epochs):
         f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
         auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
         print('epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
-        valid_loss = loss(valid_output, input_valid_label)
-
-    early_stopping(valid_loss, net)
-    # 若满足 early stopping 要求
-    if early_stopping.early_stop:
-        result =  torch.ge(valid_output, 0.5) 
-        #计算准确率
-        train_acc = accuracy_score(input_valid_label, result)
-
-        #计算精确率
-        pre = skmet.precision_score(y_true=input_valid_label, y_pred=result)
-
-        #计算召回率
-        rec = skmet.recall_score(y_true=input_valid_label, y_pred=result)
-        f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
-        auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
-        print('Early stopping epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}\n\n\n'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
         
-        # 结束模型训练
-        break
+    
+    if early_stop_type:
+        valid_loss = loss(valid_output, input_valid_label)
+        early_stopping(valid_loss, net)
+        # 若满足 early stopping 要求
+        if early_stopping.early_stop:
+            result =  torch.ge(valid_output, 0.5) 
+            #计算准确率
+            train_acc = accuracy_score(input_valid_label, result)
+
+            #计算精确率
+            pre = skmet.precision_score(y_true=input_valid_label, y_pred=result)
+
+            #计算召回率
+            rec = skmet.recall_score(y_true=input_valid_label, y_pred=result)
+            f1 = skmet.f1_score(y_true=input_valid_label, y_pred=result)
+            auc = skmet.roc_auc_score(y_true=input_valid_label, y_score=result)
+            print('Early stopping epoch {:.0f}, loss {:.4f}, train acc {:.2f}%, f1 {:.4f}, precision {:.4f}, recall {:.4f}, auc {:.4f}\n\n\n'.format(epoch+1, train_loss, train_acc*100, f1, pre, rec, auc) )
+            
+            # 结束模型训练
+            break
 torch.save(net, model_name)
 
 
