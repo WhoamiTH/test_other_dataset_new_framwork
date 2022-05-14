@@ -104,6 +104,7 @@ def generate_batch_data( transform_method, data, label, pos_data, neg_data, batc
 
 
 def handleData_minus_mirror(positive_repeat_data, negetive_tile_data):
+    all_generate_num = positive_repeat_data.shape[0]
     transfrom_positive_data = positive_repeat_data - negetive_tile_data
     transform_positive_label = np.ones(all_generate_num).reshape(-1, 1)
 
@@ -113,8 +114,9 @@ def handleData_minus_mirror(positive_repeat_data, negetive_tile_data):
     return transfrom_positive_data, transform_positive_label, transfrom_negetive_data, transform_negetive_label
 
 
-def handleData_minus_not_mirror(positive_repeat_data, negetive_tile_data, all_generate_num):
+def handleData_minus_not_mirror(positive_repeat_data, negetive_tile_data):
     # 生成 label 数据，保证同一个组合不会既有正样本，又有负样本
+    all_generate_num = positive_repeat_data.shape[0]
     init_transformed_label = np.random.randint(low=0,high=2,size=all_generate_num).reshape(-1, 1)
     positive_index = np.where(init_transformed_label == 1)
     negetive_index = np.where(init_transformed_label == 0)
@@ -132,6 +134,7 @@ def handleData_minus_not_mirror(positive_repeat_data, negetive_tile_data, all_ge
 
 
 def handleData_extend_mirror(positive_repeat_data, negetive_tile_data):
+    all_generate_num = positive_repeat_data.shape[0]
     transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
     transform_positive_label = np.ones(all_generate_num).reshape(-1, 1)
 
@@ -141,8 +144,9 @@ def handleData_extend_mirror(positive_repeat_data, negetive_tile_data):
     return transfrom_positive_data, transform_positive_label, transfrom_negetive_data, transform_negetive_label
 
 
-def handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data, all_generate_num):
+def handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data):
     # 生成 label 数据，保证同一个组合不会既有正样本，又有负样本
+    all_generate_num = positive_repeat_data.shape[0]
     init_transformed_label = np.random.randint(low=0,high=2,size=all_generate_num).reshape(-1, 1)
     positive_index = np.where(init_transformed_label == 1)
     negetive_index = np.where(init_transformed_label == 0)
