@@ -83,8 +83,6 @@ def transform_data_to_train_form(transform_method, mirror_type, train_data, trai
     if transform_method == 'normal':
         return train_data, train_label
     
-
-
     # 生成非镜像模式数据
     length_pos = positive_data.shape[0]
     length_neg = negative_data.shape[0]

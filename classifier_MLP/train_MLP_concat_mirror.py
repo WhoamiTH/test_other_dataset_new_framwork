@@ -171,6 +171,7 @@ print(model_name)
 train_data, train_label = loadTrainData(train_file_name)
 
 valid_data, valid_label, train_data, train_label = generate_valid_data(train_data, train_label)
+
 positive_data, negative_data = divide_data(train_data, train_label)
 
 valid_positive_data, valid_negative_data = divide_data(valid_data, valid_label)
