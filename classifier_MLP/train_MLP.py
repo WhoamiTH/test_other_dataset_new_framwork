@@ -70,7 +70,7 @@ def generate_transformed_batch_data(positive_data, negative_data, batch_size):
     times = int(times)
 
     current_pos_batch_size = min(positive_length, batch_size)
-    current_neg_batch_size = min(negative_length, times*current_batch_size)
+    current_neg_batch_size = min(negative_length, times*current_pos_batch_size)
 
 
     pos_sample_index = np.random.choice(positive_length, current_batch_size, replace=False)
