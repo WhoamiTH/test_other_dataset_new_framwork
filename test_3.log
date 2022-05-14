@@ -5205,3 +5205,527 @@ the precision is 0.005995203836930456
 the recall is 1.0
 
 Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.014268727705112961
+
+the precision is 0.00718562874251497
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5036188178528347
+
+the Fscore is 0.012004801920768306
+
+the precision is 0.006038647342995169
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.505421686746988
+
+the Fscore is 0.012033694344163659
+
+the precision is 0.006053268765133172
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5024096385542169
+
+the Fscore is 0.011961722488038277
+
+the precision is 0.006016847172081829
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5036188178528347
+
+the Fscore is 0.014371257485029942
+
+the precision is 0.007237635705669481
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_3_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5066344993968637
+
+the Fscore is 0.012077294685990338
+
+the precision is 0.006075334143377886
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7493975903614458
+
+the Fscore is 0.023474178403755867
+
+the precision is 0.011876484560570071
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7481927710843373
+
+the Fscore is 0.023364485981308414
+
+the precision is 0.01182033096926714
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7530120481927711
+
+the Fscore is 0.02380952380952381
+
+the precision is 0.012048192771084338
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7291917973462003
+
+the Fscore is 0.026030368763557486
+
+the precision is 0.013186813186813187
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_half
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7714113389626056
+
+the Fscore is 0.025706940874035994
+
+the precision is 0.013020833333333334
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5012048192771084
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006024096385542
+
+the Fscore is 0.011918951132300359
+
+the precision is 0.005995203836930456
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5
+
+the Fscore is 0.011904761904761906
+
+the precision is 0.005988023952095809
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5006031363088057
+
+the Fscore is 0.014285714285714287
+
+the precision is 0.007194244604316547
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_1
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_1/record_1/
+----------------------
+
+
+
+the AUC is 0.5012062726176116
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_1.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.505421686746988
+
+the Fscore is 0.012033694344163659
+
+the precision is 0.006053268765133172
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_2.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5018072289156627
+
+the Fscore is 0.011947431302270013
+
+the precision is 0.006009615384615385
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_3.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5012048192771084
+
+the Fscore is 0.011933174224343677
+
+the precision is 0.006002400960384154
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_4.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.503015681544029
+
+the Fscore is 0.014354066985645933
+
+the precision is 0.007228915662650603
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.22.1 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_minus_notMirror
+minus_neg_IR_4_3
+./test_abalone19/model_SVMPOLY_minus_notMirror/record_1/SVMPOLY_minus_notMirror_5.m
+./test_abalone19/result_SVMPOLY_minus_notMirror_minus_neg_IR_4_3/record_1/
+----------------------
+
+
+
+the AUC is 0.5042219541616405
+
+the Fscore is 0.01201923076923077
+
+the precision is 0.006045949214026602
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/utils/deprecation.py:144: FutureWarning: The sklearn.svm.classes module is  deprecated in version 0.22 and will be removed in version 0.24. The corresponding classes / functions should instead be imported from sklearn.svm. Anything that cannot be imported from sklearn.svm is now part of the private API.
+  warnings.warn(message, FutureWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator SVC from version 0.21.2 when using version 0.22. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_concat_Mirror
+concat_random_num_10_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_num_10_half/record_1/
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_LR_SVM/test.py", line 194, in <module>
+    test_result = model.predict(cur_test_data)
+  File "/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/svm/_base.py", line 585, in predict
+    if self.break_ties and self.decision_function_shape == 'ovo':
+AttributeError: 'SVC' object has no attribute 'break_ties'

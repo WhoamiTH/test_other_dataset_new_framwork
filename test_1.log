@@ -1975,3 +1975,1866 @@ the precision is 0.007220216606498195
 the recall is 1.0
 
 Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_concat_Mirror
+concat_random_IR_3_3
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_IR_3_3/record_1/
+----------------------
+
+
+
+the AUC is 0.503015681544029
+
+the Fscore is 0.01199040767386091
+
+the precision is 0.006031363088057901
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+SVMPOLY_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_1.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7530120481927711
+
+the Fscore is 0.02380952380952381
+
+the precision is 0.012048192771084338
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_2.csv
+./test_abalone19/standlization_data/abalone19_std_test_2.csv
+SVMPOLY_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_2.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6487951807228916
+
+the Fscore is 0.018779342723004695
+
+the precision is 0.009501187648456057
+
+the recall is 0.8
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_3.csv
+./test_abalone19/standlization_data/abalone19_std_test_3.csv
+SVMPOLY_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_3.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7463855421686747
+
+the Fscore is 0.02320185614849188
+
+the precision is 0.011737089201877934
+
+the recall is 1.0
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_4.csv
+./test_abalone19/standlization_data/abalone19_std_test_4.csv
+SVMPOLY_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_4.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.6506835544833133
+
+the Fscore is 0.022123893805309734
+
+the precision is 0.011210762331838564
+
+the recall is 0.8333333333333334
+
+Done
+./test_abalone19/standlization_data/abalone19_std_train_5.csv
+./test_abalone19/standlization_data/abalone19_std_test_5.csv
+SVMPOLY_concat_Mirror
+concat_random_IR_4_half
+./test_abalone19/model_SVMPOLY_concat_Mirror/record_1/SVMPOLY_concat_Mirror_5.m
+./test_abalone19/result_SVMPOLY_concat_Mirror_concat_random_IR_4_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7738238841978287
+
+the Fscore is 0.025974025974025976
+
+the precision is 0.013157894736842105
+
+the recall is 1.0
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.925589716406043
+
+the Fscore is 0.6982248520710059
+
+the precision is 0.5728155339805825
+
+the recall is 0.8939393939393939
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9275333510027388
+
+the Fscore is 0.7151515151515151
+
+the precision is 0.5959595959595959
+
+the recall is 0.8939393939393939
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9435598415190253
+
+the Fscore is 0.7407407407407408
+
+the precision is 0.6185567010309279
+
+the recall is 0.9230769230769231
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9357829265416815
+
+the Fscore is 0.7972972972972974
+
+the precision is 0.7195121951219512
+
+the recall is 0.8939393939393939
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9548991864166962
+
+the Fscore is 0.7200000000000001
+
+the precision is 0.5779816513761468
+
+the recall is 0.9545454545454546
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8512015195688665
+
+the Fscore is 0.7642276422764227
+
+the precision is 0.8245614035087719
+
+the recall is 0.7121212121212122
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8275024295432458
+
+the Fscore is 0.721311475409836
+
+the precision is 0.7857142857142857
+
+the recall is 0.6666666666666666
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8494729760035884
+
+the Fscore is 0.7666666666666666
+
+the precision is 0.8363636363636363
+
+the recall is 0.7076923076923077
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8384771842943048
+
+the Fscore is 0.7758620689655172
+
+the precision is 0.9
+
+the recall is 0.6818181818181818
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_10_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_10_3/record_1/
+----------------------
+
+
+
+the AUC is 0.868293833274378
+
+the Fscore is 0.8099173553719009
+
+the precision is 0.8909090909090909
+
+the recall is 0.7424242424242424
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7116353034720382
+
+the Fscore is 0.5894736842105264
+
+the precision is 0.9655172413793104
+
+the recall is 0.42424242424242425
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7485422740524782
+
+the Fscore is 0.6470588235294118
+
+the precision is 0.9166666666666666
+
+the recall is 0.5
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7148987067354414
+
+the Fscore is 0.5957446808510639
+
+the precision is 0.9655172413793104
+
+the recall is 0.4307692307692308
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7717545100813583
+
+the Fscore is 0.6923076923076923
+
+the precision is 0.9473684210526315
+
+the recall is 0.5454545454545454
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8096332979601462
+
+the Fscore is 0.7522935779816513
+
+the precision is 0.9534883720930233
+
+the recall is 0.6212121212121212
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9458874458874459
+
+the Fscore is 0.7005649717514123
+
+the precision is 0.5585585585585585
+
+the recall is 0.9393939393939394
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9315089672232529
+
+the Fscore is 0.6421052631578947
+
+the precision is 0.49193548387096775
+
+the recall is 0.9242424242424242
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.939104432981984
+
+the Fscore is 0.648936170212766
+
+the precision is 0.4959349593495935
+
+the recall is 0.9384615384615385
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9348101638957671
+
+the Fscore is 0.7866666666666666
+
+the precision is 0.7023809523809523
+
+the recall is 0.8939393939393939
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9512881735644382
+
+the Fscore is 0.6432160804020101
+
+the precision is 0.48120300751879697
+
+the recall is 0.9696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9159819772064671
+
+the Fscore is 0.8057553956834531
+
+the precision is 0.7671232876712328
+
+the recall is 0.8484848484848485
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8856789469034366
+
+the Fscore is 0.7703703703703704
+
+the precision is 0.7536231884057971
+
+the recall is 0.7878787878787878
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9239665096807954
+
+the Fscore is 0.8296296296296297
+
+the precision is 0.8
+
+the recall is 0.8615384615384616
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9056862398302089
+
+the Fscore is 0.8503937007874016
+
+the precision is 0.8852459016393442
+
+the recall is 0.8181818181818182
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_20_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_20_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9509344416931966
+
+the Fscore is 0.8133333333333332
+
+the precision is 0.7261904761904762
+
+the recall is 0.9242424242424242
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7263009099743795
+
+the Fscore is 0.6122448979591837
+
+the precision is 0.9375
+
+the recall is 0.45454545454545453
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7404806078275465
+
+the Fscore is 0.6274509803921569
+
+the precision is 0.8888888888888888
+
+the recall is 0.48484848484848486
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7302833221200569
+
+the Fscore is 0.625
+
+the precision is 0.967741935483871
+
+the recall is 0.46153846153846156
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.741451479778328
+
+the Fscore is 0.64
+
+the precision is 0.9411764705882353
+
+the recall is 0.48484848484848486
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8020575403843886
+
+the Fscore is 0.7407407407407407
+
+the precision is 0.9523809523809523
+
+the recall is 0.6060606060606061
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9322820037105752
+
+the Fscore is 0.6048780487804879
+
+the precision is 0.4460431654676259
+
+the recall is 0.9393939393939394
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9322820037105752
+
+the Fscore is 0.6048780487804879
+
+the precision is 0.4460431654676259
+
+the recall is 0.9393939393939394
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9472004186289901
+
+the Fscore is 0.6146341463414634
+
+the precision is 0.45
+
+the recall is 0.9692307692307692
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9465570097865817
+
+the Fscore is 0.7672955974842767
+
+the precision is 0.6559139784946236
+
+the recall is 0.9242424242424242
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9620622568093385
+
+the Fscore is 0.6285714285714286
+
+the precision is 0.4583333333333333
+
+the recall is 1.0
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9443413729128015
+
+the Fscore is 0.8163265306122449
+
+the precision is 0.7407407407407407
+
+the recall is 0.9090909090909091
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9040330417881439
+
+the Fscore is 0.7482993197278912
+
+the precision is 0.6790123456790124
+
+the recall is 0.8333333333333334
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9508484712566345
+
+the Fscore is 0.8163265306122449
+
+the precision is 0.7317073170731707
+
+the recall is 0.9230769230769231
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9320982195495816
+
+the Fscore is 0.8345323741007193
+
+the precision is 0.7945205479452054
+
+the recall is 0.8787878787878788
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_30_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_30_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9749145147977832
+
+the Fscore is 0.778443113772455
+
+the precision is 0.6435643564356436
+
+the recall is 0.9848484848484849
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7111493948228643
+
+the Fscore is 0.5833333333333333
+
+the precision is 0.9333333333333333
+
+the recall is 0.42424242424242425
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7409665164767206
+
+the Fscore is 0.6336633663366337
+
+the precision is 0.9142857142857143
+
+the recall is 0.48484848484848486
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7225910144277491
+
+the Fscore is 0.6105263157894737
+
+the precision is 0.9666666666666667
+
+the recall is 0.4461538461538462
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7267863459497701
+
+the Fscore is 0.6185567010309277
+
+the precision is 0.967741935483871
+
+the recall is 0.45454545454545453
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8172090555359037
+
+the Fscore is 0.7636363636363637
+
+the precision is 0.9545454545454546
+
+the recall is 0.6363636363636364
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9386871631769591
+
+the Fscore is 0.568888888888889
+
+the precision is 0.4025157232704403
+
+the recall is 0.9696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9325691315487233
+
+the Fscore is 0.5701357466063348
+
+the precision is 0.4064516129032258
+
+the recall is 0.9545454545454546
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9423413321372506
+
+the Fscore is 0.5860465116279069
+
+the precision is 0.42
+
+the recall is 0.9692307692307692
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9421795778799671
+
+the Fscore is 0.7261904761904762
+
+the precision is 0.5980392156862745
+
+the recall is 0.9242424242424242
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9457316354203514
+
+the Fscore is 0.5726872246696035
+
+the precision is 0.40372670807453415
+
+the recall is 0.9848484848484849
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9423977383161057
+
+the Fscore is 0.794701986754967
+
+the precision is 0.7058823529411765
+
+the recall is 0.9090909090909091
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.902089407191448
+
+the Fscore is 0.728476821192053
+
+the precision is 0.6470588235294118
+
+the recall is 0.8333333333333334
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9628317260970324
+
+the Fscore is 0.7948717948717949
+
+the precision is 0.6813186813186813
+
+the recall is 0.9538461538461539
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9462769720551821
+
+the Fscore is 0.8391608391608392
+
+the precision is 0.7792207792207793
+
+the recall is 0.9090909090909091
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_num_40_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_num_40_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9673387572220257
+
+the Fscore is 0.7710843373493975
+
+the precision is 0.64
+
+the recall is 0.9696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.733390758900963
+
+the Fscore is 0.6200000000000001
+
+the precision is 0.9117647058823529
+
+the recall is 0.4696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7258150013252054
+
+the Fscore is 0.6060606060606061
+
+the precision is 0.9090909090909091
+
+the recall is 0.45454545454545453
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7225910144277491
+
+the Fscore is 0.6105263157894737
+
+the precision is 0.9666666666666667
+
+the recall is 0.4461538461538462
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7495136186770428
+
+the Fscore is 0.6599999999999999
+
+the precision is 0.9705882352941176
+
+the recall is 0.5
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8096332979601462
+
+the Fscore is 0.7522935779816513
+
+the precision is 0.9534883720930233
+
+the recall is 0.6212121212121212
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9495759342698119
+
+the Fscore is 0.6774193548387099
+
+the precision is 0.525
+
+the recall is 0.9545454545454546
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9249050269458433
+
+the Fscore is 0.6417112299465241
+
+the precision is 0.49586776859504134
+
+the recall is 0.9090909090909091
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9583763175599911
+
+the Fscore is 0.6923076923076923
+
+the precision is 0.5384615384615384
+
+the recall is 0.9692307692307692
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9418995401485675
+
+the Fscore is 0.7894736842105263
+
+the precision is 0.6976744186046512
+
+the recall is 0.9090909090909091
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9522609362103526
+
+the Fscore is 0.6497461928934011
+
+the precision is 0.48854961832061067
+
+the recall is 0.9696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9022881880024738
+
+the Fscore is 0.8059701492537314
+
+the precision is 0.7941176470588235
+
+the recall is 0.8181818181818182
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.863437582825338
+
+the Fscore is 0.7480916030534351
+
+the precision is 0.7538461538461538
+
+the recall is 0.7424242424242424
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9076100769978321
+
+the Fscore is 0.8
+
+the precision is 0.7714285714285715
+
+the recall is 0.8307692307692308
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8824725857799788
+
+the Fscore is 0.8159999999999998
+
+the precision is 0.864406779661017
+
+the recall is 0.7727272727272727
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_1_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_1_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9083981841763943
+
+the Fscore is 0.7971014492753623
+
+the precision is 0.7638888888888888
+
+the recall is 0.8333333333333334
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7187251523986219
+
+the Fscore is 0.5979381443298969
+
+the precision is 0.9354838709677419
+
+the recall is 0.4393939393939394
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7632078805548194
+
+the Fscore is 0.6666666666666667
+
+the precision is 0.8974358974358975
+
+the recall is 0.5303030303030303
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7072063990431338
+
+the Fscore is 0.5806451612903226
+
+the precision is 0.9642857142857143
+
+the recall is 0.4153846153846154
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7343621035255277
+
+the Fscore is 0.6326530612244898
+
+the precision is 0.96875
+
+the recall is 0.4696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8247848131116613
+
+the Fscore is 0.7747747747747747
+
+the precision is 0.9555555555555556
+
+the recall is 0.6515151515151515
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9464617015637423
+
+the Fscore is 0.6124401913875599
+
+the precision is 0.44755244755244755
+
+the recall is 0.9696969696969697
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9274229172188356
+
+the Fscore is 0.5767441860465117
+
+the precision is 0.4161073825503356
+
+the recall is 0.9393939393939394
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9447708753831203
+
+the Fscore is 0.6
+
+the precision is 0.43448275862068964
+
+the recall is 0.9692307692307692
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9450978658177103
+
+the Fscore is 0.7530864197530863
+
+the precision is 0.6354166666666666
+
+the recall is 0.9242424242424242
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9505954486499233
+
+the Fscore is 0.5990783410138248
+
+the precision is 0.4304635761589404
+
+the recall is 0.9848484848484849
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9362797066878699
+
+the Fscore is 0.8027210884353742
+
+the precision is 0.7283950617283951
+
+the recall is 0.8939393939393939
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.8974291015107343
+
+the Fscore is 0.7500000000000001
+
+the precision is 0.6923076923076923
+
+the recall is 0.8181818181818182
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9416984376168049
+
+the Fscore is 0.7919463087248322
+
+the precision is 0.7023809523809523
+
+the recall is 0.9076923076923077
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9472497347010966
+
+the Fscore is 0.8510638297872342
+
+the precision is 0.8
+
+the recall is 0.9090909090909091
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_2_3
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_2_3/record_1/
+----------------------
+
+
+
+the AUC is 0.9758872774436976
+
+the Fscore is 0.7878787878787878
+
+the precision is 0.6565656565656566
+
+the recall is 0.9848484848484849
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7111493948228643
+
+the Fscore is 0.5833333333333333
+
+the precision is 0.9333333333333333
+
+the recall is 0.42424242424242425
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7253290926760314
+
+the Fscore is 0.6
+
+the precision is 0.8823529411764706
+
+the recall is 0.45454545454545453
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_3.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_3.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_3.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7148987067354414
+
+the Fscore is 0.5957446808510639
+
+the precision is 0.9655172413793104
+
+the recall is 0.4307692307692308
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_4.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_4.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_4.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.7495136186770428
+
+the Fscore is 0.6599999999999999
+
+the precision is 0.9705882352941176
+
+the recall is 0.5
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_5.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_5.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_half
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_5.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_half/record_1/
+----------------------
+
+
+
+the AUC is 0.8020575403843886
+
+the Fscore is 0.7407407407407407
+
+the precision is 0.9523809523809523
+
+the recall is 0.6060606060606061
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_1.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_1.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_1.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9286818623553318
+
+the Fscore is 0.5502183406113537
+
+the precision is 0.38650306748466257
+
+the recall is 0.9545454545454546
+
+Done
+./test_pageblocks1/standlization_data/pageblocks1_std_train_2.csv
+./test_pageblocks1/standlization_data/pageblocks1_std_test_2.csv
+SVMRBF_minus_notMirror
+minus_pos_IR_3_1
+./test_pageblocks1/model_SVMRBF_minus_notMirror/record_1/SVMRBF_minus_notMirror_2.m
+./test_pageblocks1/result_SVMRBF_minus_notMirror_minus_pos_IR_3_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9433474688576731
+
+the Fscore is 0.5603448275862069
+
+the precision is 0.39156626506024095
+
+the recall is 0.9848484848484849
+
+Done
+test_LR_SVM_1.sh: line 409: 36908 Terminated              python3 ./classifier_LR_SVM/test.py dataset_name=pageblocks1 dataset_index=3 record_index=1 train_method=SVMRBF_minus_notMirror test_method=minus_pos_IR_3_1
