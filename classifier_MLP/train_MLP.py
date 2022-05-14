@@ -92,7 +92,7 @@ def get_train_info(trian_method):
         model_type, transform_method, early_stop_type = train_info_list
         mirror_type = 'normal'
     
-    if len(train_info_list) == 3:
+    if len(train_info_list) == 4:
         model_type, transform_method, mirror_type, early_stop_type = train_info_list
     
     if early_stop_type == 'True':
