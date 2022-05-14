@@ -251,32 +251,82 @@ print('pac or tsne')
 pos_tsne_train_data, neg_tsne_train_data = divide_data(tsne_concat_not_mirror_train_data, concat_not_mirror_train_label)
 
 
-
-# 画图部分，plt 比较麻烦，暂时就重复建图了
-fig, [ax1, ax2] = plt.subplots(1,2)
-# ax2 = ax1.twinx() twinx 用于新增个图
-
-# 原始数据 pca 及 kernel pca
 original_pos_data, original_neg_data = divide_data(tsne_train_data, train_label)
-# concat_not_mirror_pos_data, concat_not_mirror_neg_data = divide_data(kernel_pca_data, label)
 
-ax1.scatter(original_pos_data[:, 0], original_pos_data[:, 1], s=1, color='r', label='pos')
-ax1.scatter(original_neg_data[:, 0], original_neg_data[:, 1], s=1, color='b', label='neg')
-ax1.set_aspect(1)
-ax1.set_title('Original data distribution')
-ax1.legend(loc=0)
+plt.figure()
 
-ax2.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
-ax2.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
-ax1.set_aspect(1)
-ax2.set_title('Transformed data distribution')
-ax2.legend(loc=0)
 
-record_file_postfix = 'original_transformed_distribution'
-# fig.suptitle(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+
+plt.scatter(original_pos_data[:, 0], original_pos_data[:, 1], s=1, color='r', label='pos')
+plt.scatter(original_neg_data[:, 0], original_neg_data[:, 1], s=1, color='b', label='neg')
+plt.axis('square')
+
+# plt.set_title('Original data distribution')
+# plt.xlabel('test week')
+# plt.ylabel('Fscore')
+plt.legend(loc='upper left')
+
+record_file_postfix = 'original_data_tsne'
+# plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
 record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
 
 plt.savefig(record_file_name)
+
+
+
+
+
+plt.figure()
+
+
+
+plt.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
+plt.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
+plt.axis('square')
+
+# plt.set_title('Original data distribution')
+# plt.xlabel('test week')
+# plt.ylabel('Fscore')
+plt.legend(loc='upper left')
+
+record_file_postfix = 'Transformed_data_distribution'
+# plt.title(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
+
+plt.savefig(record_file_name)
+
+
+
+
+
+
+
+
+# # 画图部分，plt 比较麻烦，暂时就重复建图了
+# fig, [ax1, ax2] = plt.subplots(1,2)
+# # ax2 = ax1.twinx() twinx 用于新增个图
+
+# # 原始数据 pca 及 kernel pca
+# original_pos_data, original_neg_data = divide_data(tsne_train_data, train_label)
+# # concat_not_mirror_pos_data, concat_not_mirror_neg_data = divide_data(kernel_pca_data, label)
+
+# ax1.scatter(original_pos_data[:, 0], original_pos_data[:, 1], s=1, color='r', label='pos')
+# ax1.scatter(original_neg_data[:, 0], original_neg_data[:, 1], s=1, color='b', label='neg')
+# ax1.set_aspect(1)
+# ax1.set_title('Original data distribution')
+# ax1.legend(loc=0)
+
+# ax2.scatter(pos_tsne_train_data[:, 0], pos_tsne_train_data[:, 1], s=1, color='r', label='pos')
+# ax2.scatter(neg_tsne_train_data[:, 0], neg_tsne_train_data[:, 1], s=1, color='b', label='neg')
+# ax1.set_aspect(1)
+# ax2.set_title('Transformed data distribution')
+# ax2.legend(loc=0)
+
+# record_file_postfix = 'original_transformed_distribution'
+# # fig.suptitle(dataset_name + '_' + dataset_index + '_' + record_file_postfix)
+# record_file_name = record_path + '{0}_{1}_'.format(dataset_name, dataset_index) + record_file_postfix + '.pdf'
+
+# plt.savefig(record_file_name)
 
 
 
