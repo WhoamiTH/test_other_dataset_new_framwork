@@ -195,7 +195,7 @@ def handleData_extend_ijcai(positive_data, negative_data, positive_value=1, nega
 
     # 生成 label 数据，保证同一个组合不会既有正样本，又有负样本
     init_transformed_nn_label = np.random.randint(low=0,high=2,size=length_neg*length_neg).reshape(-1, 1)
-    active_index = np.where(init_transformed_label == 1)
+    active_index = np.where(init_transformed_nn_label == 1)
     # negetive_index = np.where(init_transformed_label == 0)
 
     # repeat 每一个都连续重复
