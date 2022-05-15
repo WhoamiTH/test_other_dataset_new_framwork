@@ -1,0 +1,202 @@
+nohup: ignoring input
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/model_MLP_concat_Mirror_True/record_1/MLP_concat_Mirror_True_1
+----------------------
+
+
+
+epoch 1, loss 0.6934, train acc 50.00%, f1 0.6667, precision 0.5000, recall 1.0000, auc 0.5000
+Validation loss decreased (inf --> 0.693140).  Saving model ...
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+Early stopping epoch 21, loss 0.6810, train acc 46.97%, f1 0.4648, precision 0.4691, recall 0.4606, auc 0.4697
+
+
+
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+MLP_concat_Mirror_True
+concat_pos_num_40_1
+./test_abalone19/model_MLP_concat_Mirror_True/record_1/MLP_concat_Mirror_True_1
+./test_abalone19/result_MLP_concat_Mirror_True_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.6409638554216868
+
+the Fscore is 0.018223234624145785
+
+the precision is 0.009216589861751152
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/model_MLP_concat_Mirror_5000/record_1/MLP_concat_Mirror_5000_1
+----------------------
+
+
+
+epoch 1, loss 0.6938, train acc 50.00%, f1 0.6667, precision 0.5000, recall 1.0000, auc 0.5000
+epoch 101, loss 0.5165, train acc 75.88%, f1 0.7593, precision 0.7578, recall 0.7608, auc 0.7588
+epoch 201, loss 0.4334, train acc 79.63%, f1 0.7955, precision 0.7988, recall 0.7923, auc 0.7963
+epoch 301, loss 0.3495, train acc 86.14%, f1 0.8613, precision 0.8623, recall 0.8603, auc 0.8614
+epoch 401, loss 0.2771, train acc 90.59%, f1 0.9059, precision 0.9061, recall 0.9057, auc 0.9059
+epoch 501, loss 0.2370, train acc 92.04%, f1 0.9204, precision 0.9209, recall 0.9199, auc 0.9204
+epoch 601, loss 0.2162, train acc 92.64%, f1 0.9263, precision 0.9271, recall 0.9256, auc 0.9264
+epoch 701, loss 0.2044, train acc 93.00%, f1 0.9300, precision 0.9308, recall 0.9291, auc 0.9300
+epoch 801, loss 0.1971, train acc 93.24%, f1 0.9323, precision 0.9333, recall 0.9314, auc 0.9324
+epoch 901, loss 0.1922, train acc 93.39%, f1 0.9339, precision 0.9348, recall 0.9330, auc 0.9339
+epoch 1001, loss 0.1880, train acc 93.51%, f1 0.9350, precision 0.9358, recall 0.9343, auc 0.9351
+epoch 1101, loss 0.1831, train acc 93.60%, f1 0.9360, precision 0.9367, recall 0.9353, auc 0.9360
+epoch 1201, loss 0.1778, train acc 93.73%, f1 0.9373, precision 0.9378, recall 0.9367, auc 0.9373
+epoch 1301, loss 0.1726, train acc 93.84%, f1 0.9384, precision 0.9389, recall 0.9378, auc 0.9384
+epoch 1401, loss 0.1678, train acc 93.95%, f1 0.9395, precision 0.9401, recall 0.9389, auc 0.9395
+epoch 1501, loss 0.1635, train acc 94.08%, f1 0.9407, precision 0.9414, recall 0.9400, auc 0.9408
+epoch 1601, loss 0.1597, train acc 94.20%, f1 0.9419, precision 0.9426, recall 0.9413, auc 0.9420
+epoch 1701, loss 0.1563, train acc 94.28%, f1 0.9427, precision 0.9432, recall 0.9423, auc 0.9428
+epoch 1801, loss 0.1531, train acc 94.34%, f1 0.9434, precision 0.9439, recall 0.9429, auc 0.9434
+epoch 1901, loss 0.1501, train acc 94.41%, f1 0.9440, precision 0.9445, recall 0.9436, auc 0.9441
+epoch 2001, loss 0.1471, train acc 94.46%, f1 0.9446, precision 0.9450, recall 0.9442, auc 0.9446
+epoch 2101, loss 0.1442, train acc 94.52%, f1 0.9451, precision 0.9456, recall 0.9447, auc 0.9452
+epoch 2201, loss 0.1413, train acc 94.57%, f1 0.9457, precision 0.9462, recall 0.9451, auc 0.9457
+epoch 2301, loss 0.1384, train acc 94.63%, f1 0.9462, precision 0.9469, recall 0.9455, auc 0.9463
+epoch 2401, loss 0.1357, train acc 94.68%, f1 0.9468, precision 0.9474, recall 0.9462, auc 0.9468
+epoch 2501, loss 0.1330, train acc 94.72%, f1 0.9472, precision 0.9477, recall 0.9467, auc 0.9472
+epoch 2601, loss 0.1304, train acc 94.80%, f1 0.9479, precision 0.9484, recall 0.9475, auc 0.9480
+epoch 2701, loss 0.1278, train acc 94.86%, f1 0.9486, precision 0.9488, recall 0.9483, auc 0.9486
+epoch 2801, loss 0.1252, train acc 94.95%, f1 0.9494, precision 0.9496, recall 0.9493, auc 0.9495
+epoch 2901, loss 0.1225, train acc 95.05%, f1 0.9505, precision 0.9506, recall 0.9504, auc 0.9505
+epoch 3001, loss 0.1200, train acc 95.14%, f1 0.9514, precision 0.9516, recall 0.9512, auc 0.9514
+epoch 3101, loss 0.1176, train acc 95.20%, f1 0.9520, precision 0.9522, recall 0.9518, auc 0.9520
+epoch 3201, loss 0.1153, train acc 95.27%, f1 0.9527, precision 0.9529, recall 0.9525, auc 0.9527
+epoch 3301, loss 0.1131, train acc 95.32%, f1 0.9532, precision 0.9534, recall 0.9530, auc 0.9532
+epoch 3401, loss 0.1111, train acc 95.38%, f1 0.9538, precision 0.9540, recall 0.9536, auc 0.9538
+epoch 3501, loss 0.1091, train acc 95.45%, f1 0.9545, precision 0.9546, recall 0.9544, auc 0.9545
+epoch 3601, loss 0.1072, train acc 95.51%, f1 0.9551, precision 0.9551, recall 0.9551, auc 0.9551
+epoch 3701, loss 0.1053, train acc 95.57%, f1 0.9557, precision 0.9557, recall 0.9557, auc 0.9557
+epoch 3801, loss 0.1035, train acc 95.63%, f1 0.9563, precision 0.9563, recall 0.9563, auc 0.9563
+epoch 3901, loss 0.1017, train acc 95.69%, f1 0.9569, precision 0.9569, recall 0.9569, auc 0.9569
+epoch 4001, loss 0.0999, train acc 95.75%, f1 0.9575, precision 0.9574, recall 0.9576, auc 0.9575
+epoch 4101, loss 0.0982, train acc 95.81%, f1 0.9581, precision 0.9582, recall 0.9580, auc 0.9581
+epoch 4201, loss 0.0964, train acc 95.87%, f1 0.9587, precision 0.9588, recall 0.9586, auc 0.9587
+epoch 4301, loss 0.0946, train acc 95.93%, f1 0.9593, precision 0.9593, recall 0.9593, auc 0.9593
+epoch 4401, loss 0.0928, train acc 95.99%, f1 0.9599, precision 0.9598, recall 0.9599, auc 0.9599
+epoch 4501, loss 0.0910, train acc 96.06%, f1 0.9606, precision 0.9605, recall 0.9606, auc 0.9606
+epoch 4601, loss 0.0892, train acc 96.13%, f1 0.9613, precision 0.9611, recall 0.9614, auc 0.9613
+epoch 4701, loss 0.0873, train acc 96.19%, f1 0.9619, precision 0.9618, recall 0.9621, auc 0.9619
+epoch 4801, loss 0.0855, train acc 96.28%, f1 0.9628, precision 0.9627, recall 0.9628, auc 0.9628
+epoch 4901, loss 0.0836, train acc 96.35%, f1 0.9635, precision 0.9635, recall 0.9635, auc 0.9635
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+MLP_concat_Mirror_5000
+concat_pos_num_40_1
+./test_abalone19/model_MLP_concat_Mirror_5000/record_1/MLP_concat_Mirror_5000_1
+./test_abalone19/result_MLP_concat_Mirror_5000_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.846987951807229
+
+the Fscore is 0.08247422680412371
+
+the precision is 0.043478260869565216
+
+the recall is 0.8
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/metrics/_classification.py:1268: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/model_MLP_concat_Mirror_2000/record_1/MLP_concat_Mirror_2000_1
+----------------------
+
+
+
+epoch 1, loss 0.6936, train acc 50.00%, f1 0.0000, precision 0.0000, recall 0.0000, auc 0.5000
+epoch 101, loss 0.5157, train acc 75.84%, f1 0.7543, precision 0.7672, recall 0.7418, auc 0.7584
+epoch 201, loss 0.4338, train acc 79.59%, f1 0.7970, precision 0.7928, recall 0.8012, auc 0.7959
+epoch 301, loss 0.3505, train acc 86.10%, f1 0.8612, precision 0.8598, recall 0.8626, auc 0.8610
+epoch 401, loss 0.2782, train acc 90.57%, f1 0.9058, precision 0.9054, recall 0.9062, auc 0.9057
+epoch 501, loss 0.2377, train acc 92.03%, f1 0.9204, precision 0.9193, recall 0.9215, auc 0.9203
+epoch 601, loss 0.2166, train acc 92.63%, f1 0.9265, precision 0.9249, recall 0.9281, auc 0.9263
+epoch 701, loss 0.2047, train acc 92.99%, f1 0.9301, precision 0.9283, recall 0.9318, auc 0.9299
+epoch 801, loss 0.1973, train acc 93.24%, f1 0.9325, precision 0.9304, recall 0.9346, auc 0.9324
+epoch 901, loss 0.1924, train acc 93.40%, f1 0.9342, precision 0.9322, recall 0.9361, auc 0.9340
+epoch 1001, loss 0.1883, train acc 93.53%, f1 0.9354, precision 0.9336, recall 0.9372, auc 0.9353
+epoch 1101, loss 0.1835, train acc 93.61%, f1 0.9362, precision 0.9346, recall 0.9379, auc 0.9361
+epoch 1201, loss 0.1784, train acc 93.69%, f1 0.9370, precision 0.9355, recall 0.9385, auc 0.9369
+epoch 1301, loss 0.1732, train acc 93.82%, f1 0.9382, precision 0.9370, recall 0.9395, auc 0.9382
+epoch 1401, loss 0.1684, train acc 93.93%, f1 0.9394, precision 0.9381, recall 0.9407, auc 0.9393
+epoch 1501, loss 0.1641, train acc 94.05%, f1 0.9406, precision 0.9393, recall 0.9419, auc 0.9405
+epoch 1601, loss 0.1602, train acc 94.19%, f1 0.9419, precision 0.9406, recall 0.9432, auc 0.9419
+epoch 1701, loss 0.1566, train acc 94.27%, f1 0.9428, precision 0.9415, recall 0.9441, auc 0.9427
+epoch 1801, loss 0.1534, train acc 94.35%, f1 0.9435, precision 0.9424, recall 0.9447, auc 0.9435
+epoch 1901, loss 0.1503, train acc 94.40%, f1 0.9441, precision 0.9429, recall 0.9454, auc 0.9440
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/standlization_data/abalone19_std_test_1.csv
+MLP_concat_Mirror_2000
+concat_pos_num_40_1
+./test_abalone19/model_MLP_concat_Mirror_2000/record_1/MLP_concat_Mirror_2000_1
+./test_abalone19/result_MLP_concat_Mirror_2000_concat_pos_num_40_1/record_1/
+----------------------
+
+
+
+the AUC is 0.9180722891566265
+
+the Fscore is 0.06849315068493152
+
+the precision is 0.03546099290780142
+
+the recall is 1.0
+
+Done
+/home/junda/.conda/envs/thenv/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+./test_abalone19/standlization_data/abalone19_std_train_1.csv
+./test_abalone19/model_MLP_concat_notMirror_True/record_1/MLP_concat_notMirror_True_1
+----------------------
+
+
+
+Traceback (most recent call last):
+  File "./classifier_MLP/train_MLP.py", line 312, in <module>
+    transformed_valid_data, transformed_valid_label = transform_data_to_train_form(transform_method, mirror_type, valid_pos_data, valid_neg_data)
+  File "./classifier_MLP/train_MLP.py", line 192, in transform_data_to_train_form
+    trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data)
+  File "./classifier_MLP/train_MLP.py", line 154, in handleData_extend_not_mirror
+    transfrom_positive_data = transfrom_positive_data[positive_index[0]]
+UnboundLocalError: local variable 'transfrom_positive_data' referenced before assignment
