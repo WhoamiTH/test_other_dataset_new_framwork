@@ -151,9 +151,11 @@ def handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data):
     positive_index = np.where(init_transformed_label == 1)
     negetive_index = np.where(init_transformed_label == 0)
 
+    transfrom_positive_data = np.hstack( (positive_repeat_data, negetive_tile_data) )
     transfrom_positive_data = transfrom_positive_data[positive_index[0]]
     transform_positive_label = np.ones(transfrom_positive_data.shape[0]).reshape(-1, 1)
 
+    transfrom_negetive_data = np.hstack( (negetive_tile_data, positive_repeat_data) )
     transfrom_negetive_data = transfrom_negetive_data[negetive_index[0]]
     transform_negetive_label = np.zeros(transfrom_negetive_data.shape[0]).reshape(-1, 1)
 

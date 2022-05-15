@@ -38,7 +38,7 @@ device_id_dict = {'2':'1', '3':'2', '4':'3', '5':'4', '7':'5'}
 
 transform_list = ['concat', 'minus']
 mirror_type_list = ['Mirror', 'notMirror']
-early_stop_type_list = ['True', '5000', '2000']
+early_stop_type_list = ['True', '8000', '5000', '2000']
 
 
 for device_id in device_id_dict:
@@ -61,6 +61,21 @@ for device_id in device_id_dict:
                     cur_command_list.append('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, device_id))
                     cur_command_list.append('\n\n\n')
                     command_list.append(cur_command_list)
+                    
+        transform_method = 'normal'
+        for early_stop_type in early_stop_type_list:
+            cur_command_list = []
+            train_method = 'MLP_{0}_{2}'.format(transform_method, mirror_type, early_stop_type)
+            cur_command_list.append('mkdir -p ./test_{0}/model_{2}/record_{1}/\n'.format(dataset, record_index, train_method))            
+            cur_command_list.append('python3 ./classifier_MLP/train_MLP.py dataset_name={0} dataset_index={1} record_index=1 device_id={2} train_method={3}\n'.format(dataset, dataset_index, device_id, train_method))
+
+            test_method = '{0}_normal'.format(transform_method)
+            cur_command_list.append('mkdir -p ./test_{0}/result_{1}_{2}/record_{3}/\n'.format(dataset, train_method, test_method, record_index))
+
+            cur_command_list.append('python3 ./classifier_MLP/test.py dataset_name={0} dataset_index={1} record_index=1 train_method={2} test_method={3} device_id={4}\n'.format(dataset, dataset_index, train_method, test_method, device_id))
+            cur_command_list.append('\n\n\n')
+            command_list.append(cur_command_list)
+
 
     length = len(command_list)
     head_command = command_list[:int(length/2)]
