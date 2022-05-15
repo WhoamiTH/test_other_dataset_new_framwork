@@ -183,13 +183,13 @@ def transform_data_to_train_form(transform_method, mirror_type, train_data, trai
         if mirror_type == 'Mirror':
             trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_minus_mirror(positive_repeat_data, negetive_tile_data)
         else:
-            trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_minus_not_mirror(positive_repeat_data, negetive_tile_data, all_generate_num)
+            trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_minus_not_mirror(positive_repeat_data, negetive_tile_data)
     
     if transform_method == 'concat':
         if mirror_type == 'Mirror':
             trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_mirror(positive_repeat_data, negetive_tile_data)
         else:
-            trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data, all_generate_num)
+            trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data)
 
 
     all_transformed_data = np.vstack( (trans_pos_data, trans_neg_data) )
@@ -353,8 +353,12 @@ input_valid_label = input_valid_label.to(device)
 
 for epoch in range(num_epochs):
     batch_x, batch_y = generate_batch_data(transform_method, train_data, train_label, positive_data, negative_data, batch_size)
+    print(batch_x.shape)
+    print(batch_y.shape)
     
     train_x, train_y = transform_data_to_train_form(transform_method, mirror_type, batch_x, batch_y)
+    print(train_x.shape)
+    print(train_y.shape)
 
     input_data = torch.Tensor(torch.from_numpy(train_x).float())
     input_label = torch.Tensor(torch.from_numpy(train_y).float())
