@@ -95,10 +95,10 @@ def generate_normal_batch_data(data, label, batch_size):
 
 def generate_batch_data( transform_method, data, label, pos_data, neg_data, batch_size):
     if transform_method == 'normal':
-        train_data, train_label = generate_normal_batch_data(data, label, batch_size)
+        train_data_pos_data, train_label_neg_data = generate_normal_batch_data(data, label, batch_size)
     else:
-        train_data, train_label = generate_transformed_batch_data(pos_data, neg_data, batch_size)
-    return train_data, train_label
+        train_data_pos_data, train_label_neg_data = generate_transformed_batch_data(pos_data, neg_data, batch_size)
+    return train_data_pos_data, train_label_neg_data
 
 
 
@@ -162,20 +162,17 @@ def handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data):
 
 
 
-def transform_data_to_train_form(transform_method, mirror_type, train_data, train_label):
+def transform_data_to_train_form(transform_method, mirror_type, train_data_pos, train_label_neg):
     if transform_method == 'normal':
         return train_data, train_label
     
-    positive_data, negative_data = divide_data(train_data, train_label)
-    
+    positive_data = train_data_pos
+    negative_data = train_label_neg
     
     # 生成非镜像模式数据
     length_pos = positive_data.shape[0]
     length_neg = negative_data.shape[0]
     all_generate_num = length_pos * length_neg
-
-    print(positive_data.shape)
-    print(negative_data.shape)
 
     # repeat 每一个都连续重复
     positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
@@ -193,9 +190,6 @@ def transform_data_to_train_form(transform_method, mirror_type, train_data, trai
             trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_mirror(positive_repeat_data, negetive_tile_data)
         else:
             trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data)
-
-    print(trans_pos_data.shape)
-    print(trans_neg_data.shape)
 
     all_transformed_data = np.vstack( (trans_pos_data, trans_neg_data) )
     all_transformed_label = np.vstack( (trans_pos_label, trans_neg_label) )
@@ -357,11 +351,11 @@ input_valid_data = input_valid_data.to(device)
 input_valid_label = input_valid_label.to(device)
 
 for epoch in range(num_epochs):
-    batch_x, batch_y = generate_batch_data(transform_method, train_data, train_label, positive_data, negative_data, batch_size)
+    batch_x_pos, batch_y_neg = generate_batch_data(transform_method, train_data, train_label, positive_data, negative_data, batch_size)
     print(batch_x.shape)
     print(batch_y.shape)
     
-    train_x, train_y = transform_data_to_train_form(transform_method, mirror_type, batch_x, batch_y)
+    train_x, train_y = transform_data_to_train_form(transform_method, mirror_type, batch_x_pos, batch_y_neg)
     print(train_x.shape)
     print(train_y.shape)
 
