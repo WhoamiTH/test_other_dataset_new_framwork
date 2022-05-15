@@ -194,9 +194,11 @@ def handleData_extend_ijcai(positive_data, negative_data, positive_value=1, nega
     all_generate_num = length_pos * length_neg
 
     # 生成 label 数据，保证同一个组合不会既有正样本，又有负样本
-    init_transformed_nn_label = np.random.randint(low=0,high=2,size=length_neg*length_neg).reshape(-1, 1)
-    active_index = np.where(init_transformed_nn_label == 1)
+    # init_transformed_nn_label = np.random.randint(low=0,high=2,size=length_neg*length_neg).reshape(-1, 1)
+    # active_index = np.where(init_transformed_nn_label == 1)
     # negetive_index = np.where(init_transformed_label == 0)
+
+    active_index = np.random.choice(length_neg*length_neg, length_neg*length_pos, replace=False)
 
     # repeat 每一个都连续重复
     positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
@@ -205,8 +207,12 @@ def handleData_extend_ijcai(positive_data, negative_data, positive_value=1, nega
     negetive_repeat_data = np.repeat(negative_data, length_pos, axis=0)
     negetive_tile_data = np.tile(negative_data, (length_pos, 1))
     
-    transform_nn_data = np.hstack( (negetive_repeat_data, negetive_tile_data) )
-    transform_nn_data = transform_nn_data[active_index[0]]
+    nn_repeat_data = np.repeat(negative_data, length_neg, axis=0)
+    nn_tile_data = np.tile(negative_data, (length_neg, 1))
+    
+    
+    transform_nn_data = np.hstack( (nn_repeat_data, nn_tile_data) )
+    transform_nn_data = transform_nn_data[active_index]
     transform_nn_label = np.ones(transform_nn_data.shape[0]).reshape(-1, 1) * 1
     
 
@@ -244,10 +250,7 @@ def handleData_minus_ijcai(positive_data, negative_data, positive_value=1, negat
     length_neg = negative_data.shape[0]
     all_generate_num = length_pos * length_neg
 
-    # 生成 label 数据，保证同一个组合不会既有正样本，又有负样本
-    init_transformed_nn_label = np.random.randint(low=0,high=2,size=length_neg*length_neg).reshape(-1, 1)
-    active_index = np.where(init_transformed_label == 1)
-    # negetive_index = np.where(init_transformed_label == 0)
+    active_index = np.random.choice(length_neg*length_neg, length_neg*length_pos, replace=False)
 
     # repeat 每一个都连续重复
     positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
@@ -256,8 +259,12 @@ def handleData_minus_ijcai(positive_data, negative_data, positive_value=1, negat
     negetive_repeat_data = np.repeat(negative_data, length_pos, axis=0)
     negetive_tile_data = np.tile(negative_data, (length_pos, 1))
     
-    transform_nn_data = negetive_repeat_data - negetive_tile_data
-    transform_nn_data = transform_nn_data[active_index[0]]
+    nn_repeat_data = np.repeat(negative_data, length_neg, axis=0)
+    nn_tile_data = np.tile(negative_data, (length_neg, 1))
+    
+    
+    transform_nn_data = nn_repeat_data - nn_tile_data
+    transform_nn_data = transform_nn_data[active_index]
     transform_nn_label = np.ones(transform_nn_data.shape[0]).reshape(-1, 1) * 1
     
 
