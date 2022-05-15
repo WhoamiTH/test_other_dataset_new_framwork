@@ -303,9 +303,13 @@ else:
     valid_label = train_label
 
 positive_data, negative_data = divide_data(train_data, train_label)
-valid_pos_data, valid_neg_data = divide_data(valid_data, valid_label)
 
-transformed_valid_data, transformed_valid_label = transform_data_to_train_form(transform_method, mirror_type, valid_data, valid_label)
+
+if transform_method == 'normal':
+    transformed_valid_data, transformed_valid_label = transform_data_to_train_form(transform_method, mirror_type, valid_data, valid_label)
+else:    
+    valid_pos_data, valid_neg_data = divide_data(valid_data, valid_label)
+    transformed_valid_data, transformed_valid_label = transform_data_to_train_form(transform_method, mirror_type, valid_pos_data, valid_neg_data)
 input_dim = transformed_valid_data.shape[1]
 
 
@@ -352,12 +356,7 @@ input_valid_label = input_valid_label.to(device)
 
 for epoch in range(num_epochs):
     batch_x_pos, batch_y_neg = generate_batch_data(transform_method, train_data, train_label, positive_data, negative_data, batch_size)
-    print(batch_x_pos.shape)
-    print(batch_y_neg.shape)
-    
     train_x, train_y = transform_data_to_train_form(transform_method, mirror_type, batch_x_pos, batch_y_neg)
-    print(train_x.shape)
-    print(train_y.shape)
 
     input_data = torch.Tensor(torch.from_numpy(train_x).float())
     input_label = torch.Tensor(torch.from_numpy(train_y).float())
