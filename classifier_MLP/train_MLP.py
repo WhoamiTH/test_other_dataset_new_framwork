@@ -352,8 +352,8 @@ input_valid_label = input_valid_label.to(device)
 
 for epoch in range(num_epochs):
     batch_x_pos, batch_y_neg = generate_batch_data(transform_method, train_data, train_label, positive_data, negative_data, batch_size)
-    print(batch_x.shape)
-    print(batch_y.shape)
+    print(batch_x_pos.shape)
+    print(batch_y_neg.shape)
     
     train_x, train_y = transform_data_to_train_form(transform_method, mirror_type, batch_x_pos, batch_y_neg)
     print(train_x.shape)
