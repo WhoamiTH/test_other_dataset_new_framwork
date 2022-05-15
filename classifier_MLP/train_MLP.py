@@ -174,6 +174,9 @@ def transform_data_to_train_form(transform_method, mirror_type, train_data, trai
     length_neg = negative_data.shape[0]
     all_generate_num = length_pos * length_neg
 
+    print(positive_data.shape)
+    print(negative_data.shape)
+
     # repeat 每一个都连续重复
     positive_repeat_data = np.repeat(positive_data, length_neg, axis=0)
     # tile 整体重复
@@ -191,6 +194,8 @@ def transform_data_to_train_form(transform_method, mirror_type, train_data, trai
         else:
             trans_pos_data, trans_pos_label, trans_neg_data, trans_neg_label = handleData_extend_not_mirror(positive_repeat_data, negetive_tile_data)
 
+    print(trans_pos_data.shape)
+    print(trans_neg_data.shape)
 
     all_transformed_data = np.vstack( (trans_pos_data, trans_neg_data) )
     all_transformed_label = np.vstack( (trans_pos_label, trans_neg_label) )
